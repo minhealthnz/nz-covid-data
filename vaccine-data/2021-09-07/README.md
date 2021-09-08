@@ -20,55 +20,55 @@ Where a number is less than 5, the record is suppressed to protect individual pr
 
 "cumulative_planned_administered_stock"
 
-    - The information provided in the vaccinations planned column is based on DHB plans. 
-    - The last week of actuals is a partial week.
-    - There will be no production plans from 30 August to 3 October.  The increased vaccination demand caused by the August 2021 outbreak means the plans collected earlier do not provide a good comparator.
+- The information provided in the vaccinations planned column is based on DHB plans. 
+- The last week of actuals is a partial week.
+- There will be no production plans from 30 August to 3 October.  The increased vaccination demand caused by the August 2021 outbreak means the plans collected earlier do not provide a good comparator.
 
 "dhb_plan"
-    - The information provided in this table is based on DHB plans. We anticipate that there could be a potential variance of up to ten percent (plus or minus) in actual vaccination numbers. This is on the basis that, for example, an unplanned significant event could affect roll-out implementation or some DHBs might exceed their planned vaccination numbers. 
-    - There will be no production plans from 30 August to 3 October.  The increased vaccination demand caused by the August 2021 outbreak means the plans collected earlier do not provide a good comparator.
+- The information provided in this table is based on DHB plans. We anticipate that there could be a potential variance of up to ten percent (plus or minus) in actual vaccination numbers. This is on the basis that, for example, an unplanned significant event could affect roll-out implementation or some DHBs might exceed their planned vaccination numbers. 
+- There will be no production plans from 30 August to 3 October.  The increased vaccination demand caused by the August 2021 outbreak means the plans collected earlier do not provide a good comparator.
 
 "dhb_plan_variance"
-    - There will be no production plans from 30 August to 3 October.  The increased vaccination demand caused by the August 2021 outbreak means the plans collected earlier do not provide a good comparator.
+- There will be no production plans from 30 August to 3 October.  The increased vaccination demand caused by the August 2021 outbreak means the plans collected earlier do not provide a good comparator.
 							
 "dhb_residence_uptake"
-    - DHB of residence refers to the DHB where the individual resides, not the DHB where the vaccination was administered.
-    - Where a number is less than 5, the record is suppressed to protect individual privacy, as a result, totals of individual records may not sum to gross figures.
-    - The uptake statistics are provided as examples of how to calculate uptake. It is not recommended to use detailed uptake statistics for analysis because small variations will lead to very high or low uptakes with a small denominator. Detailed data is provided here to allow aggregations to be done across various dimensions.
+- DHB of residence refers to the DHB where the individual resides, not the DHB where the vaccination was administered.
+- Where a number is less than 5, the record is suppressed to protect individual privacy, as a result, totals of individual records may not sum to gross figures.
+- The uptake statistics are provided as examples of how to calculate uptake. It is not recommended to use detailed uptake statistics for analysis because small variations will lead to very high or low uptakes with a small denominator. Detailed data is provided here to allow aggregations to be done across various dimensions.
 
 "workforce"
-    - The figures are cumulative.
-    - Previously, the active vaccinators number was reported as number active for a given week.
+- The figures are cumulative.
+- Previously, the active vaccinators number was reported as number active for a given week.
 
 "doses_group_and_dhb_service”
-    - DHB of service refers to the DHB where the vaccination was administered, not the DHB where the individual resides.	
-    - Where a number is less than 5, the record is suppressed to protect individual privacy, as a result, totals of individual records may not sum to gross figures.	
-    - Groups:
+- DHB of service refers to the DHB where the vaccination was administered, not the DHB where the individual resides.	
+- Where a number is less than 5, the record is suppressed to protect individual privacy, as a result, totals of individual records may not sum to gross figures.	
+- Groups:
 
-        - Group 1: 
-	         - Border Workers and their Household Contacts		
-        - Group 2: 
-	         - Frontline health workers. Emergency Response Services.	
-	         - Residential Facility Worker or Resident, Unknown, Other, Early Vaccine Access. 	
-	         - Individuals vaccinated at NZDF sites who identify as Border Workers or Household contacts.
-	         - Individuals over 65 and with underlying health conditions in Counties Manukau.	
-        - Group 3: 
-	         - People at greatest risk of serious illness which includes over 65s and those with underlying health conditions. Health and social services.	
-        - Group 4: 
-	         - General population.
-	         - Group 4 has not officially commenced however a number of sites are using group 4 to minimise wastage and vaccinate whanau who attend with group 3 individuals.
-	         - There also may be instances of vaccinators are entering group 4 into the system as the case reason when the person is eligible for group 3.
-             - Groups 1 and 2 are based primarily on employment role.  Reliable and up to date statistical information does not exist for this grouping so a population size cannot be provided. 
-             - Group 3 eligibility can be met through age or through a number of eligible health conditions and disabilities. A complete dataset of the population with relevant conditions is not available with the level of detail and quality required to define the population accurately.
+    - Group 1: 
+ 	    - Border Workers and their Household Contacts		
+    - Group 2: 
+ 	    - Frontline health workers. Emergency Response Services.	
+ 	    - Residential Facility Worker or Resident, Unknown, Other, Early Vaccine Access. 	
+ 	    - Individuals vaccinated at NZDF sites who identify as Border Workers or Household contacts.
+ 	    - Individuals over 65 and with underlying health conditions in Counties Manukau.	
+    - Group 3: 
+ 	    - People at greatest risk of serious illness which includes over 65s and those with underlying health conditions. Health and social services.	
+    - Group 4: 
+ 	    - General population.
+ 	    - Group 4 has not officially commenced however a number of sites are using group 4 to minimise wastage and vaccinate whanau who attend with group 3 individuals.
+ 	    - There also may be instances of vaccinators are entering group 4 into the system as the case reason when the person is eligible for group 3.
+        - Groups 1 and 2 are based primarily on employment role.  Reliable and up to date statistical information does not exist for this grouping so a population size cannot be provided. 
+        - Group 3 eligibility can be met through age or through a number of eligible health conditions and disabilities. A complete dataset of the population with relevant conditions is not available with the level of detail and quality required to define the population accurately.
 
 "vaccine_for_distribution”
-    - Vaccine available for distribution is stock (in doses) held at central warehouses.
-    - It does not include stock in transit or available at sites ready for use.
-    - 5 Sep figure includes a delivery recorded on 4 Sep. 29 Aug does not include a delivery from that weekend, it was recorded on 30 Aug.
+- Vaccine available for distribution is stock (in doses) held at central warehouses.
+- It does not include stock in transit or available at sites ready for use.
+- 5 Sep figure includes a delivery recorded on 4 Sep. 29 Aug does not include a delivery from that weekend, it was recorded on 30 Aug.
 
 "hsu_population”
-    - DHB of residence refers to the DHB where the individual resides, not the DHB where the vaccination was administered .
-    - Where a number is less than 5, the record is suppressed to protect individual privacy, as a result, totals of individual records may not sum to gross figures.  These values have been summed into a single row with the header "Various"
+- DHB of residence refers to the DHB where the individual resides, not the DHB where the vaccination was administered .
+- Where a number is less than 5, the record is suppressed to protect individual privacy, as a result, totals of individual records may not sum to gross figures.  These values have been summed into a single row with the header "Various"
 
 ### The Health Service User (HSU) population and COVID-19 vaccine coverage reporting 
 
@@ -76,13 +76,13 @@ The Health Service User population estimate counts the number of people who rece
 
 ### Information on the HSU 2020 used for COVID-19 vaccine coverage reporting 
 
-    - The HSU population estimate was generated from data on 5th July 2021 and captures health service users in the 2020 calendar year.  
-    - The HSU population estimate uses 1 July 2020 to set age, and anyone who died prior to 1st July 2020 is excluded from the population, while anyone who has died from 1 July onwards is included.  
-    - DHB of domicile was captured on 31 December 2020 as the latest address information we have for the individual. 
-    - Ethnicity and gender information comes from the NHI status at 5th July 2021.  
-    - Children under the age of 12 years have been excluded from the count, as there is currently no approval to vaccinate these ages. 
-    - Ethnicity is prioritised in the order: Māori, Pacific, Asian, European or Other, Unknown  
-    - Approximately 3-4% of people included in the HSU were not enrolled with a PHO but had a record of health service use.  
+- The HSU population estimate was generated from data on 5th July 2021 and captures health service users in the 2020 calendar year.  
+- The HSU population estimate uses 1 July 2020 to set age, and anyone who died prior to 1st July 2020 is excluded from the population, while anyone who has died from 1 July onwards is included.  
+- DHB of domicile was captured on 31 December 2020 as the latest address information we have for the individual. 
+- Ethnicity and gender information comes from the NHI status at 5th July 2021.  
+- Children under the age of 12 years have been excluded from the count, as there is currently no approval to vaccinate these ages. 
+- Ethnicity is prioritised in the order: Māori, Pacific, Asian, European or Other, Unknown  
+- Approximately 3-4% of people included in the HSU were not enrolled with a PHO but had a record of health service use.  
  
 ### Benefits of the HSU 
 
@@ -109,8 +109,8 @@ This means that the HSU may somewhat underestimate vaccine coverage for some pop
 
 ### Other information 
 
-    - The HSU population estimate data is provided at a granular level in order to allow flexibility in creating different aggregate denominators.  It is not recommended to use detailed denominators for analysis because small variations will lead to very high or low uptakes with a small denominator. 
-    - As the HSU population estimate is based on real individuals, some figures have been aggregated in slightly different ways when publishing to protect individual privacy.  This may mean Ministry of Health reporting may produce slightly different uptake results than those using the published HSU population estimate.  
+- The HSU population estimate data is provided at a granular level in order to allow flexibility in creating different aggregate denominators.  It is not recommended to use detailed denominators for analysis because small variations will lead to very high or low uptakes with a small denominator. 
+- As the HSU population estimate is based on real individuals, some figures have been aggregated in slightly different ways when publishing to protect individual privacy.  This may mean Ministry of Health reporting may produce slightly different uptake results than those using the published HSU population estimate.  
 
 ### Contributing datasets 
 
