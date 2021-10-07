@@ -5,6 +5,7 @@ This directory contains a copy of the data released [here](https://www.health.go
 
 Release notes:
 - [8 Sep 2021] Changed file name “planned_administered_stock” to “cumulative_planned_administered_stock”
+- [7 Oct 2021] Added uptake data by SA2
 
 Table to compare the Excel file on website and the csv files.
 
