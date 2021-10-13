@@ -1,6 +1,8 @@
 
 # README
 
+_The data and maps for vaccine uptake by SA2 is in beta and are in development. Further improvements are expected._
+
 ### uptake_sa2_dhb_yyyymmdd.csv
 
 Information related to uptake rates of the COVID-19 vaccine across the country. Data shows vaccination records aggregated by area of residence. The areas have been determined based on the standard SA2 definition from Statistics NZ. Population (denominator data) is based on the Health Service User data set, and is sourced from NHI records held by the Ministry of Health. In this data, the denominator data set has been updated with the most up to date place of residence and as a result will differ slightly from the published HSU at disaggregated levels.
