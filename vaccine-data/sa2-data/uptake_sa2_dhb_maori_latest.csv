@@ -133,8 +133,6 @@
 114100,Silverdale South (Auckland),Waitemata,73,70,104,702,673
 114200,Waimauku,Waitemata,78,65,83,940,783
 114300,Gulf Islands,Waitemata,5 or less,5 or less,masked,667,667
-114300,Gulf Islands,Auckland,5 or less,5 or less,masked,<50,<50
-114300,Gulf Islands,Counties Manukau,5 or less,5 or less,masked,<50,<50
 114400,Vipond,Waitemata,151,129,177,853,729
 114500,Muriwai,Waitemata,72,72,79,911,911
 114600,Stanmore Bay West,Waitemata,165,141,184,897,766
@@ -194,7 +192,6 @@
 120100,Birdwood West,Waitemata,77,64,96,802,667
 120200,Hobsonville Point,Waitemata,217,207,236,919,877
 120300,West Harbour Clearwater Cove,Waitemata,masked,173,199,>950,869
-120300,West Harbour Clearwater Cove,Area outside District Health Board,masked,173,199,>950,869
 120400,Unsworth Heights East,Waitemata,150,116,163,920,712
 120500,Mairangi Bay North,Waitemata,76,66,81,938,815
 120600,Massey Central,Waitemata,380,305,473,803,645
@@ -286,7 +283,6 @@
 129200,Point Chevalier West,Auckland,208,186,221,941,842
 129300,Belmont (Auckland),Waitemata,140,125,151,927,828
 129400,Bayswater,Waitemata,176,162,193,912,839
-129400,Bayswater,Area outside District Health Board,176,163,193,912,845
 129500,Glendene South,Waitemata,217,188,282,770,667
 129600,Glen Eden West,Waitemata,344,268,448,768,598
 129700,Herne Bay,Auckland,masked,105,114,>950,921
@@ -294,7 +290,6 @@
 129900,Point Chevalier East,Auckland,253,224,277,913,809
 130000,Oratia,Waitemata,68,67,79,861,848
 130100,Glen Eden Rosier,Waitemata,305,252,362,843,696
-130200,Saint Marys Bay,Area outside District Health Board,68,65,79,861,823
 130200,Saint Marys Bay,Auckland,73,64,79,924,810
 130300,Westmere South-Western Springs,Auckland,197,175,214,921,818
 130400,Ponsonby West,Auckland,114,103,133,857,774
@@ -699,7 +694,6 @@
 170700,Maramarua,Waikato,235,185,296,794,625
 170800,Rangiriri,Waikato,193,162,225,858,720
 170900,Te Akau,Waikato,217,164,266,816,617
-170900,Te Akau,Counties Manukau,217,164,266,816,617
 171100,Te Kauwhata,Waikato,213,167,268,795,623
 171200,Huntly Rural,Waikato,331,263,436,759,603
 171300,Waerenga,Waikato,57,45,80,712,562
@@ -1340,7 +1334,6 @@
 236300,Otaki Beach,MidCentral,351,277,491,715,564
 236400,Forest Lakes (Kapiti Coast District),MidCentral,58,42,93,624,452
 236500,Otaki,MidCentral,762,582,1000,762,582
-236600,Te Horo,Capital and Coast,93,82,112,830,732
 236600,Te Horo,MidCentral,92,82,112,821,732
 236700,Waitohu,MidCentral,163,128,227,718,564
 236800,Waikanae Beach,Capital and Coast,197,166,236,835,703
@@ -1430,7 +1423,6 @@
 245500,Waterloo West,Hutt Valley,139,115,177,785,650
 245600,Epuni East,Hutt Valley,269,231,342,787,675
 245700,Gracefield,Hutt Valley,18,20,30,600,667
-245700,Gracefield,Area outside District Health Board,23,20,30,767,667
 245800,Moera,Hutt Valley,278,218,369,753,591
 245900,Delaney,Hutt Valley,407,297,605,673,491
 246000,Waiwhetu,Hutt Valley,534,438,668,799,656
@@ -2150,4 +2142,4 @@
 363000,Clifton,Southern,228,171,311,733,550
 363100,Woodend-Greenhills ,Southern,55,38,88,625,432
 363300,Bluff,Southern,534,470,675,791,696
-Unknown,Unknown,NA,15757,12194,20598,765,592
+Unknown,Unknown,Unknown,15757,12194,20598,765,592

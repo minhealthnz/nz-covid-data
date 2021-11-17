@@ -191,7 +191,6 @@
 120100,Birdwood West,Waitemata,30,25,44,682,568
 120200,Hobsonville Point,Waitemata,masked,128,148,>950,865
 120300,West Harbour Clearwater Cove,Waitemata,141,125,151,934,828
-120300,West Harbour Clearwater Cove,Area outside District Health Board,141,125,151,934,828
 120400,Unsworth Heights East,Waitemata,masked,89,108,>950,824
 120500,Mairangi Bay North,Waitemata,30,26,38,789,684
 120600,Massey Central,Waitemata,587,501,665,883,753
@@ -283,7 +282,6 @@
 129200,Point Chevalier West,Auckland,159,145,182,874,797
 129300,Belmont (Auckland),Waitemata,55,46,73,753,630
 129400,Bayswater,Waitemata,87,78,104,837,750
-129400,Bayswater,Area outside District Health Board,90,81,104,865,779
 129500,Glendene South,Waitemata,602,538,674,893,798
 129600,Glen Eden West,Waitemata,622,533,705,882,756
 129700,Herne Bay,Auckland,30,30,36,833,833
@@ -291,7 +289,6 @@
 129900,Point Chevalier East,Auckland,270,242,308,877,786
 130000,Oratia,Waitemata,49,45,55,891,818
 130100,Glen Eden Rosier,Waitemata,515,447,572,900,781
-130200,Saint Marys Bay,Area outside District Health Board,44,41,51,863,804
 130200,Saint Marys Bay,Auckland,40,40,51,784,784
 130300,Westmere South-Western Springs,Auckland,masked,128,146,>950,877
 130400,Ponsonby West,Auckland,122,113,144,847,785
@@ -692,7 +689,6 @@
 170700,Maramarua,Waikato,34,31,46,739,674
 170800,Rangiriri,Waikato,23,19,26,885,731
 170900,Te Akau,Waikato,masked,5 or less,masked,583,333
-170900,Te Akau,Counties Manukau,10,8,12,833,667
 171100,Te Kauwhata,Waikato,51,52,55,927,945
 171200,Huntly Rural,Waikato,15,12,23,652,522
 171300,Waerenga,Waikato,masked,5 or less,masked,667,222
@@ -1323,7 +1319,6 @@
 236300,Otaki Beach,MidCentral,21,17,31,677,548
 236400,Forest Lakes (Kapiti Coast District),MidCentral,5 or less,5 or less,masked,600,600
 236500,Otaki,MidCentral,72,56,96,750,583
-236600,Te Horo,Capital and Coast,22,21,26,846,808
 236600,Te Horo,MidCentral,19,16,26,731,615
 236700,Waitohu,MidCentral,19,17,21,905,810
 236800,Waikanae Beach,Capital and Coast,35,29,47,745,617
@@ -1413,7 +1408,6 @@
 245500,Waterloo West,Hutt Valley,masked,57,72,>950,792
 245600,Epuni East,Hutt Valley,168,151,200,840,755
 245700,Gracefield,Hutt Valley,5 or less,5 or less,masked,>950,>950
-245700,Gracefield,Area outside District Health Board,5 or less,5 or less,masked,<50,<50
 245800,Moera,Hutt Valley,113,99,151,748,656
 245900,Delaney,Hutt Valley,299,251,372,804,675
 246000,Waiwhetu,Hutt Valley,272,241,302,901,798
@@ -2120,4 +2114,4 @@
 363000,Clifton,Southern,62,54,76,816,711
 363100,Woodend-Greenhills ,Southern,masked,5 or less,masked,857,571
 363300,Bluff,Southern,43,39,56,768,696
-Unknown,Unknown,NA,masked,4857,5282,>950,920
+Unknown,Unknown,Unknown,masked,4857,5282,>950,920
