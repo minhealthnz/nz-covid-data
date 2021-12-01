@@ -1,0 +1,77 @@
+tla_code,tla_name,dhb,dose1_cnt,dose2_cnt,pop_cnt,dose1_uptake,dose2_uptake
+Unknown,Unknown,Unknown,110607,100675,119802,923,840
+1,Far North District,Northland,46536,41313,57477,810,719
+2,Whangarei District,Northland,69250,63013,79767,868,790
+3,Kaipara District,Northland,16940,15226,20819,814,731
+11,Thames-Coromandel District,Waikato,23231,21563,26830,866,804
+12,Hauraki District,Counties Manukau,673,627,760,886,825
+12,Hauraki District,Waikato,14118,12787,16790,841,762
+13,Waikato District,Counties Manukau,15551,14637,16744,929,874
+13,Waikato District,Waikato,42106,38664,47122,894,821
+15,Matamata-Piako District,Waikato,26370,24273,29418,896,825
+16,Hamilton City,Waikato,129683,120235,137983,940,871
+17,Waipa District,Waikato,43453,40954,47169,921,868
+18,Otorohanga District,Waikato,6861,6138,7931,865,774
+19,South Waikato District,Waikato,16798,14734,19647,855,750
+20,Waitomo District,Waikato,6721,5971,7809,861,765
+21,Taupo District,Lakes,28585,25733,32435,881,793
+22,Western Bay of Plenty District,Bay of Plenty,41563,37776,46389,896,814
+23,Tauranga City,Bay of Plenty,112892,102834,123505,914,833
+24,Rotorua District,Lakes,51558,46021,58406,883,788
+25,Whakatane District,Bay of Plenty,25134,21980,30386,827,723
+26,Kawerau District,Bay of Plenty,4969,4123,6166,806,669
+27,Opotiki District,Bay of Plenty,6026,5208,7297,826,714
+28,Gisborne District,Tairawhiti,35208,31010,40528,869,765
+29,Wairoa District,Hawke's Bay,5328,4722,6410,831,737
+30,Hastings District,Hawke's Bay,63641,57448,69713,913,824
+31,Napier City,Hawke's Bay,49585,45204,54579,908,828
+32,Central Hawke's Bay District,Hawke's Bay,10847,9934,12050,900,824
+33,New Plymouth District,Taranaki,61652,56354,68765,897,820
+34,Stratford District,Taranaki,6564,5932,7597,864,781
+35,South Taranaki District,Taranaki,18035,16271,20559,877,791
+36,Ruapehu District,Waikato,5356,4685,6572,815,713
+36,Ruapehu District,Whanganui,2798,2427,3354,834,724
+37,Whanganui District,Whanganui,34813,31493,40175,867,784
+38,Rangitikei District,Whanganui,11159,10241,12681,880,808
+39,Manawatu District,MidCentral,23863,21801,26026,917,838
+40,Palmerston North City,MidCentral,66464,61172,70256,946,871
+41,Tararua District,MidCentral,13216,11821,15024,880,787
+42,Horowhenua District,MidCentral,25728,23204,29124,883,797
+43,Kapiti Coast District,Capital and Coast,36484,34293,39452,925,869
+43,Kapiti Coast District,MidCentral,7003,6345,7971,879,796
+44,Porirua City,Capital and Coast,44051,40292,47899,920,841
+45,Upper Hutt City,Hutt Valley,35024,32523,37265,940,873
+46,Lower Hutt City,Hutt Valley,83922,77980,90002,932,866
+47,Wellington City,Capital and Coast,masked,166410,177422,>950,938
+48,Masterton District,Wairarapa,20878,18686,22866,913,817
+49,Carterton District,Wairarapa,7693,7035,8406,915,837
+50,South Wairarapa District,Wairarapa,9033,8327,9763,925,853
+51,Tasman District,Nelson Marlborough,41022,37745,46807,876,806
+52,Nelson City,Nelson Marlborough,41293,38143,45129,915,845
+53,Marlborough District,Nelson Marlborough,39003,36126,41438,941,872
+54,Kaikoura District,Canterbury,2990,2771,3418,875,811
+55,Buller District,West Coast,7287,6554,8528,854,769
+56,Grey District,West Coast,10151,9120,11516,881,792
+57,Westland District,West Coast,6330,5752,7055,897,815
+58,Hurunui District,Canterbury,9791,9064,11003,890,824
+59,Waimakariri District,Canterbury,49008,45169,54114,906,835
+60,Christchurch City,Canterbury,masked,287756,325147,>950,885
+62,Selwyn District,Canterbury,masked,51001,56676,>950,900
+63,Ashburton District,Canterbury,25970,24042,27756,936,866
+64,Timaru District,South Canterbury,37639,35058,41289,912,849
+65,Mackenzie District,South Canterbury,3711,3399,4078,910,833
+66,Waimate District,South Canterbury,6208,5690,6971,891,816
+67,Chatham Islands Territory,Canterbury,masked,masked,218,>950,>950
+68,Waitaki District,Southern,17380,16037,19315,900,830
+69,Central Otago District,Southern,18512,17448,19699,940,886
+70,Queenstown-Lakes District,Southern,masked,34126,36944,>950,924
+71,Dunedin City,Southern,masked,100377,110883,>950,905
+72,Clutha District,Southern,13455,12259,14950,900,820
+73,Southland District,Southern,22087,19979,24782,891,806
+74,Gore District,Southern,9582,8767,10733,893,817
+75,Invercargill City,Southern,41889,38331,45697,917,839
+76,Auckland,Area outside District Health Board,20 or less,20 or less,masked,500,500
+76,Auckland,Auckland,masked,379762,408935,>950,929
+76,Auckland,Counties Manukau,416621,390898,448125,930,872
+76,Auckland,Waitemata,483583,461079,512735,943,899
+999,Area Outside Territorial Authority,Area outside District Health Board,20 or less,20 or less,masked,>950,>950
