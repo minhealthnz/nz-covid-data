@@ -1,0 +1,62 @@
+openapi: "3.0.1"
+info:
+  title: "Ministry of Health - Locations of Interest API"
+  version: "2021-06-10T02:04:23Z"
+servers:
+  - url: "https://api.integration.covid19.health.nz/{basePath}"
+    variables:
+      basePath:
+        default: "/loi/v1"
+paths:
+  /exposure-locations:
+    get:
+      responses:
+        "200":
+          description: "200 response"
+          headers:
+            Strict-Transport-Security:
+              schema:
+                type: "string"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/MODEL823a48"
+components:
+  schemas:
+    MODEL823a48:
+      required:
+        - "items"
+      type: "object"
+      properties:
+        items:
+          minItems: 1
+          uniqueItems: true
+          type: "array"
+          items:
+            required:
+              - "endDateTime"
+              - "eventId"
+              - "eventName"
+              - "startDateTime"
+            type: "object"
+            properties:
+              eventId:
+                minLength: 1
+                type: "string"
+              startDateTime:
+                minLength: 1
+                type: "string"
+              eventName:
+                minLength: 1
+                type: "string"
+              location:
+                required:
+                  - "address"
+                type: "object"
+                properties:
+                  address:
+                    minLength: 1
+                    type: "string"
+              endDateTime:
+                minLength: 1
+                type: "string"
