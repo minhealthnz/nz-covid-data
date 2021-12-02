@@ -1,0 +1,75 @@
+"tla_code","tla_name","dhb","dose1_cnt","dose2_cnt","pop_cnt","dose1_uptake","dose2_uptake"
+"Unknown","Unknown","Unknown",17032,13783,20837,817,661
+"1","Far North District","Northland",18928,15549,24967,758,623
+"2","Whangarei District","Northland",15769,12919,19747,799,654
+"3","Kaipara District","Northland",2967,2430,3996,742,608
+"11","Thames-Coromandel District","Waikato",2733,2317,3567,766,650
+"12","Hauraki District","Counties Manukau",148,132,171,865,772
+"12","Hauraki District","Waikato",2352,1943,3034,775,640
+"13","Waikato District","Counties Manukau",2417,2114,2708,893,781
+"13","Waikato District","Waikato",9114,7690,10949,832,702
+"15","Matamata-Piako District","Waikato",2982,2499,3733,799,669
+"16","Hamilton City","Waikato",22672,18687,27214,833,687
+"17","Waipa District","Waikato",4401,3844,5137,857,748
+"18","Otorohanga District","Waikato",1582,1299,1939,816,670
+"19","South Waikato District","Waikato",4961,3973,6183,802,643
+"20","Waitomo District","Waikato",2489,2024,3123,797,648
+"21","Taupo District","Lakes",6095,4785,7718,790,620
+"22","Western Bay of Plenty District","Bay of Plenty",5551,4555,7313,759,623
+"23","Tauranga City","Bay of Plenty",14445,11585,18144,796,639
+"24","Rotorua District","Lakes",16692,13490,21028,794,642
+"25","Whakatane District","Bay of Plenty",9299,7247,12682,733,571
+"26","Kawerau District","Bay of Plenty",2623,1972,3420,767,577
+"27","Opotiki District","Bay of Plenty",3330,2699,4322,770,624
+"28","Gisborne District","Tairawhiti",15429,12623,19073,809,662
+"29","Wairoa District","Hawke's Bay",3206,2727,4052,791,673
+"30","Hastings District","Hawke's Bay",13071,10373,16465,794,630
+"31","Napier City","Hawke's Bay",8314,6614,10278,809,644
+"32","Central Hawke's Bay District","Hawke's Bay",1939,1611,2282,850,706
+"33","New Plymouth District","Taranaki",7454,6070,9453,789,642
+"34","Stratford District","Taranaki",542,448,726,747,617
+"35","South Taranaki District","Taranaki",3740,3088,4582,816,674
+"36","Ruapehu District","Waikato",1789,1407,2464,726,571
+"36","Ruapehu District","Whanganui",957,747,1265,757,591
+"37","Whanganui District","Whanganui",6901,5587,9013,766,620
+"38","Rangitikei District","Whanganui",2311,1976,2852,810,693
+"39","Manawatu District","MidCentral",2584,2127,3064,843,694
+"40","Palmerston North City","MidCentral",8537,6955,10110,844,688
+"41","Tararua District","MidCentral",2321,1812,2857,812,634
+"42","Horowhenua District","MidCentral",4816,3888,5901,816,659
+"43","Kapiti Coast District","Capital and Coast",3192,2726,3804,839,717
+"43","Kapiti Coast District","MidCentral",1595,1287,1962,813,656
+"44","Porirua City","Capital and Coast",7826,6502,9210,850,706
+"45","Upper Hutt City","Hutt Valley",3983,3312,4484,888,739
+"46","Lower Hutt City","Hutt Valley",11871,9936,14143,839,703
+"47","Wellington City","Capital and Coast",12329,11133,13306,927,837
+"48","Masterton District","Wairarapa",3583,2787,4179,857,667
+"49","Carterton District","Wairarapa",732,588,845,866,696
+"50","South Wairarapa District","Wairarapa",992,801,1125,882,712
+"51","Tasman District","Nelson Marlborough",2326,1952,3018,771,647
+"52","Nelson City","Nelson Marlborough",3011,2437,3803,792,641
+"53","Marlborough District","Nelson Marlborough",3552,2955,4259,834,694
+"54","Kaikoura District","Canterbury",407,346,495,822,699
+"55","Buller District","West Coast",579,478,741,781,645
+"56","Grey District","West Coast",847,723,1031,822,701
+"57","Westland District","West Coast",742,647,894,830,724
+"58","Hurunui District","Canterbury",539,446,671,803,665
+"59","Waimakariri District","Canterbury",3104,2632,3674,845,716
+"60","Christchurch City","Canterbury",22749,18978,26669,853,712
+"62","Selwyn District","Canterbury",3078,2711,3244,949,836
+"63","Ashburton District","Canterbury",1374,1152,1645,835,700
+"64","Timaru District","South Canterbury",2318,1940,2845,815,682
+"65","Mackenzie District","South Canterbury",163,127,206,791,617
+"66","Waimate District","South Canterbury",283,242,356,795,680
+"67","Chatham Islands Territory","Canterbury",108,102,117,923,872
+"68","Waitaki District","Southern",972,807,1223,795,660
+"69","Central Otago District","Southern",1105,968,1315,840,736
+"70","Queenstown-Lakes District","Southern",1338,1175,1550,863,758
+"71","Dunedin City","Southern",7158,6298,7935,902,794
+"72","Clutha District","Southern",1198,973,1468,816,663
+"73","Southland District","Southern",1595,1311,2068,771,634
+"74","Gore District","Southern",864,716,1046,826,685
+"75","Invercargill City","Southern",5458,4630,6553,833,707
+"76","Auckland","Auckland",24082,21452,27448,877,782
+"76","Auckland","Counties Manukau",48184,40788,57656,836,707
+"76","Auckland","Waitemata",34913,30824,39695,880,777
