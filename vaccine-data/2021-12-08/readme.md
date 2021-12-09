@@ -2,15 +2,9 @@
 
 ## Notes:
 
-<<<<<<< HEAD
-Numbers include all records entered as at 30/11/2021 11:59PM
-
-Date extracted 01/12/2021
-=======
 Numbers include all records entered as at 07/12/2021 11:59PM
 
 Date extracted 08/12/2021
->>>>>>> staging
 
 Data is based on records entered into CIR as at the time of data upload
 
@@ -117,11 +111,7 @@ This view has been filtered to contain only Maori and Pacific People for SA2 def
 - DHB of residence refers to the DHB where the individual resides, not the DHB where the vaccination was administered .
 - Where a number is less than 5, the record is suppressed to protect individual privacy, as a result, totals of individual records may not sum to gross figures. These values have been summed into a single row with the header &quot;Various&quot;
 
-<<<<<<< HEAD
-v**The Health Service User (HSU) population and COVID-19 vaccine coverage reporting**
-=======
 v**The Health Service User (HSU) population and COVID-19 vaccine coverage reporting **
->>>>>>> staging
 
 The Health Service User population estimate counts the number of people who received health services in a given year. Someone is counted in the population if their associated National Health Index (NHI) number received public health services; or was enrolled with a primary health organisation (PHO).
 

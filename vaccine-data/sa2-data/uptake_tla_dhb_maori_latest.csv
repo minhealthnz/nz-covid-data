@@ -1,0 +1,75 @@
+"tla_code","tla_name","dhb","dose1_cnt","dose2_cnt","pop_cnt","dose1_uptake","dose2_uptake"
+"Unknown","Unknown","Unknown","10366",8536,11642,"890",733
+"1","Far North District","Northland","19856",16919,25443,"780",665
+"2","Whangarei District","Northland","16510",13914,20037,"824",694
+"3","Kaipara District","Northland","3098",2636,4085,"758",645
+"11","Thames-Coromandel District","Waikato","2874",2483,3639,"790",682
+"12","Hauraki District","Counties Manukau","159",146,183,"869",798
+"12","Hauraki District","Waikato","2477",2088,3095,"800",675
+"13","Waikato District","Counties Manukau","2572",2318,2832,"908",819
+"13","Waikato District","Waikato","9490",8235,11187,"848",736
+"15","Matamata-Piako District","Waikato","3142",2678,3814,"824",702
+"16","Hamilton City","Waikato","23757",20220,27740,"856",729
+"17","Waipa District","Waikato","4553",4070,5227,"871",779
+"18","Otorohanga District","Waikato","1651",1422,1983,"833",717
+"19","South Waikato District","Waikato","5208",4341,6291,"828",690
+"20","Waitomo District","Waikato","2588",2168,3162,"818",686
+"21","Taupo District","Lakes","6483",5298,7872,"824",673
+"22","Western Bay of Plenty District","Bay of Plenty","5843",4942,7455,"784",663
+"23","Tauranga City","Bay of Plenty","15186",12562,18446,"823",681
+"24","Rotorua District","Lakes","17823",14851,21482,"830",691
+"25","Whakatane District","Bay of Plenty","9887",7860,12879,"768",610
+"26","Kawerau District","Bay of Plenty","2813",2192,3473,"810",631
+"27","Opotiki District","Bay of Plenty","3592",2919,4470,"804",653
+"28","Gisborne District","Tairawhiti","16375",13809,19454,"842",710
+"29","Wairoa District","Hawke's Bay","3404",2941,4154,"819",708
+"30","Hastings District","Hawke's Bay","13902",11381,16728,"831",680
+"31","Napier City","Hawke's Bay","8706",7141,10374,"839",688
+"32","Central Hawke's Bay District","Hawke's Bay","2037",1743,2320,"878",751
+"33","New Plymouth District","Taranaki","7840",6618,9607,"816",689
+"34","Stratford District","Taranaki","578",486,753,"768",645
+"35","South Taranaki District","Taranaki","4113",3522,4947,"831",712
+"36","Ruapehu District","Waikato","1919",1545,2522,"761",613
+"36","Ruapehu District","Whanganui","1015",818,1290,"787",634
+"37","Whanganui District","Whanganui","7340",6084,9148,"802",665
+"38","Rangitikei District","Whanganui","2419",2096,2894,"836",724
+"39","Manawatu District","MidCentral","2674",2285,3087,"866",740
+"40","Palmerston North City","MidCentral","8992",7500,10223,"880",734
+"41","Tararua District","MidCentral","2451",1966,2902,"845",677
+"42","Horowhenua District","MidCentral","5121",4183,6001,"853",697
+"43","Kapiti Coast District","Capital and Coast","3326",2905,3847,"865",755
+"43","Kapiti Coast District","MidCentral","1684",1394,1980,"851",704
+"44","Porirua City","Capital and Coast","8185",7009,9270,"883",756
+"45","Upper Hutt City","Hutt Valley","4142",3570,4526,"915",789
+"46","Lower Hutt City","Hutt Valley","12414",10665,14274,"870",747
+"47","Wellington City","Capital and Coast","12696",11728,13464,"943",871
+"48","Masterton District","Wairarapa","3739",3092,4232,"884",731
+"49","Carterton District","Wairarapa","761",640,858,"887",746
+"50","South Wairarapa District","Wairarapa","1029",876,1142,"901",767
+"51","Tasman District","Nelson Marlborough","2461",2103,3048,"807",690
+"52","Nelson City","Nelson Marlborough","3198",2637,3830,"835",689
+"53","Marlborough District","Nelson Marlborough","3729",3159,4290,"869",736
+"54","Kaikoura District","Canterbury","426",376,504,"845",746
+"55","Buller District","West Coast","609",521,751,"811",694
+"56","Grey District","West Coast","882",771,1043,"846",739
+"57","Westland District","West Coast","773",689,904,"855",762
+"58","Hurunui District","Canterbury","563",490,685,"822",715
+"59","Waimakariri District","Canterbury","3242",2878,3733,"868",771
+"60","Christchurch City","Canterbury","23757",20634,26946,"882",766
+"62","Selwyn District","Canterbury","masked",2901,3280,">950",884
+"63","Ashburton District","Canterbury","1440",1237,1664,"865",743
+"64","Timaru District","South Canterbury","2421",2083,2865,"845",727
+"65","Mackenzie District","South Canterbury","172",144,209,"823",689
+"66","Waimate District","South Canterbury","303",261,361,"839",723
+"67","Chatham Islands Territory","Canterbury","118",113,128,"922",883
+"68","Waitaki District","Southern","1013",875,1237,"819",707
+"69","Central Otago District","Southern","1156",1032,1332,"868",775
+"70","Queenstown-Lakes District","Southern","1401",1269,1571,"892",808
+"71","Dunedin City","Southern","7349",6674,8011,"917",833
+"72","Clutha District","Southern","1264",1081,1492,"847",725
+"73","Southland District","Southern","1700",1425,2110,"806",675
+"74","Gore District","Southern","899",745,1052,"855",708
+"75","Invercargill City","Southern","5711",4954,6633,"861",747
+"76","Auckland","Auckland","24828",22625,27862,"891",812
+"76","Auckland","Counties Manukau","50262",43718,58889,"854",742
+"76","Auckland","Waitemata","35837",32483,40188,"892",808
