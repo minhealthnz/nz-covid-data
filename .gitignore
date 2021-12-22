@@ -14,3 +14,4 @@ readme.html
 Github_Weekly_loads_job-`date+%Y-%m-%d_%H%M%S`.log
 Github_Weekly_loads_job.log
 Github_Weekly_loads_job-`date+%Y-%m-%d_%H:%M:%S`.log
+*.log
