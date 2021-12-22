@@ -1,0 +1,170 @@
+[1] "script started"
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Red Hat Enterprise Linux 8.4 (Ootpa)
+
+Matrix products: default
+BLAS/LAPACK: /usr/lib64/libopenblasp-r0.3.12.so
+
+locale:
+ [1] LC_CTYPE=en_NZ.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_NZ.UTF-8        LC_COLLATE=en_NZ.UTF-8    
+ [5] LC_MONETARY=en_NZ.UTF-8    LC_MESSAGES=en_NZ.UTF-8   
+ [7] LC_PAPER=en_NZ.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_NZ.UTF-8 LC_IDENTIFICATION=C       
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] rmarkdown_2.5   forcats_0.5.0   stringr_1.4.0   dplyr_1.0.7    
+ [5] purrr_0.3.4     readr_1.4.0     tidyr_1.1.4     tibble_3.1.6   
+ [9] ggplot2_3.3.2   tidyverse_1.3.0
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.1.1 xfun_0.19        haven_2.3.1      colorspace_2.0-0
+ [5] vctrs_0.3.8      generics_0.1.1   htmltools_0.5.0  utf8_1.2.2      
+ [9] rlang_0.4.12     pillar_1.6.4     glue_1.5.0       withr_2.3.0     
+[13] DBI_1.1.1        dbplyr_2.0.0     modelr_0.1.8     readxl_1.3.1    
+[17] lifecycle_1.0.1  munsell_0.5.0    gtable_0.3.0     cellranger_1.1.0
+[21] rvest_0.3.6      evaluate_0.14    knitr_1.30       fansi_0.5.0     
+[25] broom_0.7.2      Rcpp_1.0.5       scales_1.1.1     backports_1.2.0 
+[29] jsonlite_1.7.2   fs_1.5.0         hms_0.5.3        digest_0.6.27   
+[33] stringi_1.7.5    grid_4.0.3       cli_3.1.0        tools_4.0.3     
+[37] magrittr_2.0.1   pacman_0.5.1     crayon_1.4.2     pkgconfig_2.0.3 
+[41] ellipsis_0.3.2   xml2_1.3.2       reprex_0.3.0     lubridate_1.8.0 
+[45] assertthat_0.2.1 httr_1.4.2       rstudioapi_0.13  R6_2.5.1        
+[49] compiler_4.0.3  
+DBUS_SESSION_BUS_ADDRESS
+                        unix:path=/run/user/5699/bus
+EDITOR                  vi
+HOME                    /home/njury
+http_proxy              http://fwdproxy1.moh.govt.nz:3128/
+https_proxy             http://fwdproxy1.moh.govt.nz:3128/
+LANG                    en_NZ.UTF-8
+LD_LIBRARY_PATH         /usr/lib64:/opt/rh/gcc-toolset-9/root/usr/lib64:/opt/R/4.0.3/lib/R/lib:/usr/local/lib:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.262.b10-0.el8_2.x86_64/jre/lib/amd64/server
+LN_S                    ln -s
+LOGNAME                 njury
+MAKE                    make
+PAGER                   /usr/bin/less
+PATH                    /usr/bin:/opt/rh/gcc-toolset-9/root/usr/bin:/usr/bin:/bin
+PWD                     /home/njury
+R_ARCH                  
+R_BROWSER               xdg-open
+R_BZIPCMD               /usr/bin/bzip2
+R_DOC_DIR               /opt/R/4.0.3/lib/R/doc
+R_GZIPCMD               /usr/bin/gzip
+R_HOME                  /opt/R/4.0.3/lib/R
+R_INCLUDE_DIR           /opt/R/4.0.3/lib/R/include
+R_KEYRING_BACKEND       file
+R_LIBS_SITE             /opt/rprod_lib/R/r_sitelib_4.0.3_20201131
+R_LIBS_USER             /opt/rprod_lib/R/community/r_commlib_4.0.3_20201131
+R_PAPERSIZE             letter
+R_PDFVIEWER             
+R_PLATFORM              x86_64-pc-linux-gnu
+R_PRINTCMD              /usr/bin/lpr
+R_RD4PDF                times,hyper
+R_SESSION_TMPDIR        /opt/rprod_lib/rstudio_projects/tmp_dont_delete/Rtmp1J3AE5
+R_SHARE_DIR             /opt/R/4.0.3/lib/R/share
+R_STRIP_SHARED_LIB      strip --strip-unneeded
+R_STRIP_STATIC_LIB      strip --strip-debug
+R_SYSTEM_ABI            linux,gcc,gxx,gfortran,gfortran
+R_TEXI2DVICMD           /usr/bin/texi2dvi
+R_UNZIPCMD              /usr/bin/unzip
+R_ZIPCMD                /usr/bin/zip
+RSTUDIO_PANDOC          /usr/lib/rstudio-server/bin/pandoc
+SED                     /usr/bin/sed
+SHELL                   /bin/sh
+SHLVL                   1
+SNOWFLAKE_CSV_FORMAT_NAME
+                        FMT_ODBC_UNITSEP_CSV
+SNOWFLAKE_CSV_STAGE_NAME
+                        STG_S3_ODBC_STG_CSV
+SNOWFLAKE_JSON_FORMAT_NAME
+                        FMT_ODBC_JSON
+SNOWFLAKE_JSON_STAGE_NAME
+                        STG_S3_ODBC_STG_JSON
+TAR                     /usr/bin/gtar
+TMPDIR                  /opt/rprod_lib/rstudio_projects/tmp_dont_delete
+TNS_ADMIN               /usr/lib/oracle/19.9/client64/lib/network/admin
+TZDIR                   /usr/share/zoneinfo
+USER                    njury
+XDG_RUNTIME_DIR         /run/user/5699
+XDG_SESSION_ID          60353
+[1] ‘2.11.4’
+[1] "attempting to render code"
+
+
+processing file: readme.rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |......................................................................| 100%
+   inline R code fragments
+
+
+output file: readme.knit.md
+
+/usr/lib/rstudio-server/bin/pandoc/pandoc +RTS -K512m -RTS readme.utf8.md --to markdown_strict --from markdown+autolink_bare_uris+tex_math_single_backslash --output /home/njury/network_drives/wxchfpd1/CVIP_Intel/CVIP_analytics/uptake/weekly_vacc/data_to_load/readme.md --standalone 
+
+Output created: /home/njury/network_drives/wxchfpd1/CVIP_Intel/CVIP_analytics/uptake/weekly_vacc/data_to_load/readme.md
+[1] "file: dhb_plan.csv has been added"
+[1] "file: grouped_dhb_mapping.csv has been added"
+[1] "file: hsu_population.csv has been added"
+[1] "created directory vaccine-data/2021-12-22"
+[1] "file: cumulative_planned_administered_stock.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: cumulative_planned_administered_stock.csv has been copied to vaccine-data/latest/"
+[1] "file: dhb_plan.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: dhb_plan.csv has been copied to vaccine-data/latest/"
+[1] "file: dhb_residence_uptake.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: dhb_residence_uptake.csv has been copied to vaccine-data/latest/"
+[1] "file: doses_by_date.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: doses_by_date.csv has been copied to vaccine-data/latest/"
+[1] "file: doses_by_vaccine.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: doses_by_vaccine.csv has been copied to vaccine-data/latest/"
+[1] "file: grouped_dhb_mapping.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: grouped_dhb_mapping.csv has been copied to vaccine-data/latest/"
+[1] "file: hsu_population.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: hsu_population.csv has been copied to vaccine-data/latest/"
+[1] "file: readme.md has been copied to vaccine-data/2021-12-22"
+[1] "file: readme.md has been copied to vaccine-data/latest/"
+[1] "file: sa2_all_ethnicity.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: sa2_all_ethnicity.csv has been copied to vaccine-data/latest/"
+[1] "file: sa2_maori_pacific.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: sa2_maori_pacific.csv has been copied to vaccine-data/latest/"
+[1] "file: tla_uptake.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: tla_uptake.csv has been copied to vaccine-data/latest/"
+[1] "file: vaccine_for_distribution.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: vaccine_for_distribution.csv has been copied to vaccine-data/latest/"
+[1] "file: workforce.csv has been copied to vaccine-data/2021-12-22"
+[1] "file: workforce.csv has been copied to vaccine-data/latest/"
+[1] "file: workforce.csv has been removed from ~/network_drives/wxchfpd1/CVIP_Intel/CVIP_analytics/uptake/weekly_vacc/data_to_load/"
+[1] "file: uptake_sa2_dhb_20211222.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_sa2_dhb_latest.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_sa2_dhb_maori_20211222.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_sa2_dhb_maori_latest.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_sa2_dhb_pacific_20211222.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_sa2_dhb_pacific_latest.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_tla_dhb_20211222.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_tla_dhb_latest.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_tla_dhb_maori_20211222.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_tla_dhb_maori_latest.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_tla_dhb_pacific_20211222.csv has been copied to vaccine-data/sa2-data/"
+[1] "file: uptake_tla_dhb_pacific_latest.csv has been copied to vaccine-data/sa2-data/"
+Switched to branch 'CVIP-Staging'
+M	vaccine-data/latest/cumulative_planned_administered_stock.csv
+M	vaccine-data/latest/dhb_residence_uptake.csv
+M	vaccine-data/latest/doses_by_date.csv
+M	vaccine-data/latest/doses_by_vaccine.csv
+M	vaccine-data/latest/readme.md
+M	vaccine-data/latest/sa2_all_ethnicity.csv
+M	vaccine-data/latest/sa2_maori_pacific.csv
+M	vaccine-data/latest/tla_uptake.csv
+M	vaccine-data/latest/vaccine_for_distribution.csv
+M	vaccine-data/latest/workforce.csv
+M	vaccine-data/sa2-data/uptake_sa2_dhb_latest.csv
+M	vaccine-data/sa2-data/uptake_sa2_dhb_maori_latest.csv
+M	vaccine-data/sa2-data/uptake_sa2_dhb_pacific_latest.csv
+M	vaccine-data/sa2-data/uptake_tla_dhb_latest.csv
+M	vaccine-data/sa2-data/uptake_tla_dhb_maori_latest.csv
+M	vaccine-data/sa2-data/uptake_tla_dhb_pacific_latest.csv
+Your branch is up to date with 'origin/CVIP-Staging'.
+Already up to date.
