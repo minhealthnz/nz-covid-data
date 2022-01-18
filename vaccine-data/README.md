@@ -4,6 +4,21 @@ This directory contains a copy of the data released [here](https://www.health.go
 
 
 Release notes:
+
+- [18 Jan 2022]
+
+Since August 2021, the Ministry of Health has been making vaccination data available to third-party developers on AGOL and GITHUB to enable them to receive this information as efficiently as possible.
+
+The Ministry is making some interim changes to our reporting as we start vaccinating 5 to 11-year-olds to protect the privacy of individual children.
+
+In particular, because at this early stage of the 5 to 11-year-old rollout the numbers of children being vaccinated is relatively small, we are not initially providing breakdowns of the data by geographical region or ethnicity.
+As a consequence, the usual data will not be available for an interim period beginning on 18 January 2022.
+Instead the Ministry will provide CSV files containing detailed vaccination data for the 12+ age group on our website for use by third party developers. These will be updated daily and weekly.
+
+The usual daily and weekly website updates will continue, and we will report separate data for 5 to 11-year-olds, including daily totals and a cumulative total.
+
+Thank you for your understanding during this interim period. We will provide a replacement API incorporating 5 to 11-year-old data once the rollout is further advanced.
+
 - [8 Sep 2021] Changed file name “planned_administered_stock” to “cumulative_planned_administered_stock”
 - [7 Oct 2021] Added uptake data by SA2
 
