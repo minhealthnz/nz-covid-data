@@ -2,3 +2,17 @@
 .Rhistory
 .RData
 .Ruserdata
+readme.rmd
+vacc_data_archive.R
+vacc_data_move.R
+Github_Weekly_loads_job.R
+git_automation.R
+sa2_data_move.R
+remove_data_to_load_files.R
+github load_schedule.R
+readme.html
+Github_Weekly_loads_job-`date+%Y-%m-%d_%H%M%S`.log
+Github_Weekly_loads_job.log
+Github_Weekly_loads_job-`date+%Y-%m-%d_%H:%M:%S`.log
+*.log
+

@@ -1,0 +1,3244 @@
+DHB of residence,Ethnic group,Age group,Gender,At least partially vaccinated,Fully vaccinated,Population,At least partially vaccinated uptake per 1000 people,Fully vaccinated uptake per 1000 people
+Auckland,Asian,12-15,Female,3130,3019,2947,1062,1024
+Auckland,Asian,12-15,Male,3277,3139,3085,1062,1018
+Auckland,Asian,16-19,Female,3268,3219,2904,1125,1108
+Auckland,Asian,16-19,Male,3387,3337,2826,1199,1181
+Auckland,Asian,16-19,Unknown/Other,42,42,9,4667,4667
+Auckland,Asian,20-24,Female,5995,5923,5122,1170,1156
+Auckland,Asian,20-24,Male,6224,6115,4850,1283,1261
+Auckland,Asian,20-24,Unknown/Other,77,74,12,6417,6167
+Auckland,Asian,25-29,Female,7968,7900,8392,949,941
+Auckland,Asian,25-29,Male,9114,9011,7740,1178,1164
+Auckland,Asian,25-29,Unknown/Other,133,129,25,5320,5160
+Auckland,Asian,30-34,Female,8970,8871,9316,963,952
+Auckland,Asian,30-34,Male,9060,8937,8382,1081,1066
+Auckland,Asian,30-34,Unknown/Other,110,106,19,5789,5579
+Auckland,Asian,35-39,Female,7685,7565,8154,942,928
+Auckland,Asian,35-39,Male,7743,7668,7336,1055,1045
+Auckland,Asian,35-39,Unknown/Other,65,63,14,4643,4500
+Auckland,Asian,40-44,Female,5711,5636,5623,1016,1002
+Auckland,Asian,40-44,Male,5701,5636,5231,1090,1077
+Auckland,Asian,40-44,Unknown/Other,43,41,15,2867,2733
+Auckland,Asian,45-49,Female,4704,4646,4861,968,956
+Auckland,Asian,45-49,Male,4265,4214,3985,1070,1057
+Auckland,Asian,50-54,Female,4315,4258,4411,978,965
+Auckland,Asian,50-54,Male,3425,3391,3467,988,978
+Auckland,Asian,55-59,Female,3940,3889,4228,932,920
+Auckland,Asian,55-59,Male,3372,3324,3468,972,958
+Auckland,Asian,60-64,Female,3209,3175,3608,889,880
+Auckland,Asian,60-64,Male,2693,2670,2922,922,914
+Auckland,Asian,65-69,Female,2735,2706,2935,932,922
+Auckland,Asian,65-69,Male,2286,2267,2584,885,877
+Auckland,Asian,70-74,Female,1777,1759,1918,926,917
+Auckland,Asian,70-74,Male,1644,1632,1743,943,936
+Auckland,Asian,75-79,Female,1107,1099,1240,893,886
+Auckland,Asian,75-79,Male,954,936,1080,883,867
+Auckland,Asian,80-84,Female,817,801,943,866,849
+Auckland,Asian,80-84,Male,703,696,819,858,850
+Auckland,Asian,85-89,Female,407,392,441,923,889
+Auckland,Asian,85-89,Male,396,383,420,943,912
+Auckland,Asian,90+,Female,176,168,179,983,939
+Auckland,Asian,90+,Male,109,107,126,865,849
+Auckland,European or Other,12-15,Female,4928,4790,4934,999,971
+Auckland,European or Other,12-15,Male,5044,4896,5110,987,958
+Auckland,European or Other,12-15,Unknown/Other,7,7,5,1400,1400
+Auckland,European or Other,16-19,Female,4750,4710,4912,967,959
+Auckland,European or Other,16-19,Male,4666,4610,4777,977,965
+Auckland,European or Other,16-19,Unknown/Other,10,9,12,833,750
+Auckland,European or Other,20-24,Female,8371,8287,9005,930,920
+Auckland,European or Other,20-24,Male,7695,7570,7930,970,955
+Auckland,European or Other,20-24,Unknown/Other,35,34,29,1207,1172
+Auckland,European or Other,25-29,Female,10251,10143,11855,865,856
+Auckland,European or Other,25-29,Male,10390,10221,10769,965,949
+Auckland,European or Other,25-29,Unknown/Other,47,47,23,2043,2043
+Auckland,European or Other,30-34,Female,9404,9302,10714,878,868
+Auckland,European or Other,30-34,Male,10263,10103,10361,991,975
+Auckland,European or Other,30-34,Unknown/Other,45,44,22,2045,2000
+Auckland,European or Other,35-39,Female,7599,7499,8521,892,880
+Auckland,European or Other,35-39,Male,8195,8078,8574,956,942
+Auckland,European or Other,35-39,Unknown/Other,17,16,15,1133,1067
+Auckland,European or Other,40-44,Female,7140,7059,8032,889,879
+Auckland,European or Other,40-44,Male,7438,7351,8027,927,916
+Auckland,European or Other,45-49,Female,7972,7905,8961,890,882
+Auckland,European or Other,45-49,Male,8117,8016,8951,907,896
+Auckland,European or Other,50-54,Female,8052,7985,8362,963,955
+Auckland,European or Other,50-54,Male,8533,8440,8858,963,953
+Auckland,European or Other,50-54,Unknown/Other,9,9,5,1800,1800
+Auckland,European or Other,55-59,Female,7440,7370,8093,919,911
+Auckland,European or Other,55-59,Male,8013,7932,8644,927,918
+Auckland,European or Other,60-64,Female,6700,6646,6988,959,951
+Auckland,European or Other,60-64,Male,7164,7104,7440,963,955
+Auckland,European or Other,65-69,Female,5664,5627,5985,946,940
+Auckland,European or Other,65-69,Male,5843,5792,6084,960,952
+Auckland,European or Other,70-74,Female,5122,5087,5399,949,942
+Auckland,European or Other,70-74,Male,4956,4922,5182,956,950
+Auckland,European or Other,75-79,Female,3771,3740,3829,985,977
+Auckland,European or Other,75-79,Male,3382,3348,3442,983,973
+Auckland,European or Other,80-84,Female,2884,2859,2825,1021,1012
+Auckland,European or Other,80-84,Male,2323,2304,2219,1047,1038
+Auckland,European or Other,85-89,Female,1820,1797,1874,971,959
+Auckland,European or Other,85-89,Male,1187,1173,1257,944,933
+Auckland,European or Other,90+,Female,1615,1575,1629,991,967
+Auckland,European or Other,90+,Male,804,788,782,1028,1008
+Auckland,Maori,12-15,Female,1086,1001,1131,960,885
+Auckland,Maori,12-15,Male,1128,1060,1225,921,865
+Auckland,Maori,16-19,Female,1087,1009,1162,935,868
+Auckland,Maori,16-19,Male,1017,936,1120,908,836
+Auckland,Maori,20-24,Female,1605,1508,1762,911,856
+Auckland,Maori,20-24,Male,1524,1419,1662,917,854
+Auckland,Maori,25-29,Female,1487,1402,1774,838,790
+Auckland,Maori,25-29,Male,1539,1418,1611,955,880
+Auckland,Maori,30-34,Female,1244,1162,1398,890,831
+Auckland,Maori,30-34,Male,1209,1130,1265,956,893
+Auckland,Maori,35-39,Female,985,935,1101,895,849
+Auckland,Maori,35-39,Male,926,862,1003,923,859
+Auckland,Maori,40-44,Female,883,827,1032,856,801
+Auckland,Maori,40-44,Male,888,835,997,891,838
+Auckland,Maori,45-49,Female,1018,991,1169,871,848
+Auckland,Maori,45-49,Male,981,935,1053,932,888
+Auckland,Maori,50-54,Female,988,959,1055,936,909
+Auckland,Maori,50-54,Male,905,863,911,993,947
+Auckland,Maori,55-59,Female,903,881,988,914,892
+Auckland,Maori,55-59,Male,875,853,915,956,932
+Auckland,Maori,60-64,Female,734,722,744,987,970
+Auckland,Maori,60-64,Male,642,629,607,1058,1036
+Auckland,Maori,65-69,Female,500,494,520,962,950
+Auckland,Maori,65-69,Male,378,375,421,898,891
+Auckland,Maori,70-74,Female,305,301,304,1003,990
+Auckland,Maori,70-74,Male,275,269,261,1054,1031
+Auckland,Maori,75-79,Female,150,149,158,949,943
+Auckland,Maori,75-79,Male,139,136,138,1007,986
+Auckland,Maori,80-84,Female,112,112,122,918,918
+Auckland,Maori,80-84,Male,71,69,74,959,932
+Auckland,Maori,85-89,Female,53,50,53,1000,943
+Auckland,Maori,85-89,Male,25,24,27,926,889
+Auckland,Maori,90+,Female,24,23,22,1091,1045
+Auckland,Pacific Peoples,12-15,Female,1849,1740,1958,944,889
+Auckland,Pacific Peoples,12-15,Male,1866,1754,2031,919,864
+Auckland,Pacific Peoples,16-19,Female,1838,1758,2005,917,877
+Auckland,Pacific Peoples,16-19,Male,1779,1652,2065,862,800
+Auckland,Pacific Peoples,20-24,Female,2489,2387,2760,902,865
+Auckland,Pacific Peoples,20-24,Male,2288,2125,2498,916,851
+Auckland,Pacific Peoples,25-29,Female,2326,2207,2713,857,813
+Auckland,Pacific Peoples,25-29,Male,2353,2182,2582,911,845
+Auckland,Pacific Peoples,30-34,Female,1954,1857,2120,922,876
+Auckland,Pacific Peoples,30-34,Male,1922,1794,1958,982,916
+Auckland,Pacific Peoples,35-39,Female,1589,1538,1819,874,846
+Auckland,Pacific Peoples,35-39,Male,1587,1499,1791,886,837
+Auckland,Pacific Peoples,40-44,Female,1582,1534,1764,897,870
+Auckland,Pacific Peoples,40-44,Male,1572,1511,1630,964,927
+Auckland,Pacific Peoples,45-49,Female,1575,1537,1728,911,889
+Auckland,Pacific Peoples,45-49,Male,1551,1497,1671,928,896
+Auckland,Pacific Peoples,50-54,Female,1626,1602,1810,898,885
+Auckland,Pacific Peoples,50-54,Male,1595,1559,1678,951,929
+Auckland,Pacific Peoples,55-59,Female,1521,1497,1566,971,956
+Auckland,Pacific Peoples,55-59,Male,1392,1362,1431,973,952
+Auckland,Pacific Peoples,60-64,Female,1197,1183,1274,940,929
+Auckland,Pacific Peoples,60-64,Male,1133,1124,1187,955,947
+Auckland,Pacific Peoples,65-69,Female,879,865,974,902,888
+Auckland,Pacific Peoples,65-69,Male,858,848,915,938,927
+Auckland,Pacific Peoples,70-74,Female,661,654,666,992,982
+Auckland,Pacific Peoples,70-74,Male,535,527,559,957,943
+Auckland,Pacific Peoples,75-79,Female,419,409,482,869,849
+Auckland,Pacific Peoples,75-79,Male,304,298,336,905,887
+Auckland,Pacific Peoples,80-84,Female,311,301,326,954,923
+Auckland,Pacific Peoples,80-84,Male,167,163,185,903,881
+Auckland,Pacific Peoples,85-89,Female,149,142,185,805,768
+Auckland,Pacific Peoples,85-89,Male,73,70,79,924,886
+Auckland,Pacific Peoples,90+,Female,73,67,81,901,827
+Auckland,Pacific Peoples,90+,Male,22,21,24,917,875
+Auckland,Unknown,12-15,Female,160,141,22,7273,6409
+Auckland,Unknown,12-15,Male,169,135,13,13000,10385
+Auckland,Unknown,16-19,Female,158,149,16,9875,9312
+Auckland,Unknown,16-19,Male,163,138,10,16300,13800
+Auckland,Unknown,20-24,Female,321,303,24,13375,12625
+Auckland,Unknown,20-24,Male,356,336,28,12714,12000
+Auckland,Unknown,25-29,Female,643,620,50,12860,12400
+Auckland,Unknown,25-29,Male,629,590,46,13674,12826
+Auckland,Unknown,30-34,Female,552,525,48,11500,10938
+Auckland,Unknown,30-34,Male,751,716,58,12948,12345
+Auckland,Unknown,35-39,Female,350,322,50,7000,6440
+Auckland,Unknown,35-39,Male,585,548,98,5969,5592
+Auckland,Unknown,40-44,Female,245,231,50,4900,4620
+Auckland,Unknown,40-44,Male,425,408,81,5247,5037
+Auckland,Unknown,45-49,Female,200,192,42,4762,4571
+Auckland,Unknown,45-49,Male,327,304,103,3175,2951
+Auckland,Unknown,50-54,Female,146,133,40,3650,3325
+Auckland,Unknown,50-54,Male,280,256,91,3077,2813
+Auckland,Unknown,55-59,Female,135,128,40,3375,3200
+Auckland,Unknown,55-59,Male,256,241,87,2943,2770
+Auckland,Unknown,60-64,Female,137,127,39,3513,3256
+Auckland,Unknown,60-64,Male,211,201,82,2573,2451
+Auckland,Unknown,65-69,Female,89,85,43,2070,1977
+Auckland,Unknown,65-69,Male,129,124,77,1675,1610
+Auckland,Unknown,70-74,Female,63,59,44,1432,1341
+Auckland,Unknown,70-74,Male,72,67,47,1532,1426
+Auckland,Unknown,75-79,Female,29,26,26,1115,1000
+Auckland,Unknown,75-79,Male,17,16,18,944,889
+Auckland,Unknown,80-84,Female,11,10,22,500,455
+Auckland,Unknown,80-84,Male,15,15,10,1500,1500
+Auckland,Unknown,85-89,Female,8,7,12,667,583
+Auckland,Unknown,90+,Male,5,5,5,1000,1000
+Bay of Plenty,Asian,12-15,Female,426,397,380,1121,1045
+Bay of Plenty,Asian,12-15,Male,473,434,421,1124,1031
+Bay of Plenty,Asian,16-19,Female,352,346,289,1218,1197
+Bay of Plenty,Asian,16-19,Male,406,389,305,1331,1275
+Bay of Plenty,Asian,20-24,Female,452,449,353,1280,1272
+Bay of Plenty,Asian,20-24,Male,1081,1041,546,1980,1907
+Bay of Plenty,Asian,25-29,Female,1026,1013,948,1082,1069
+Bay of Plenty,Asian,25-29,Male,1703,1654,1083,1572,1527
+Bay of Plenty,Asian,30-34,Female,1336,1303,1117,1196,1167
+Bay of Plenty,Asian,30-34,Male,1414,1375,1026,1378,1340
+Bay of Plenty,Asian,35-39,Female,1009,986,919,1098,1073
+Bay of Plenty,Asian,35-39,Male,982,955,739,1329,1292
+Bay of Plenty,Asian,40-44,Female,770,752,678,1136,1109
+Bay of Plenty,Asian,40-44,Male,721,712,604,1194,1179
+Bay of Plenty,Asian,45-49,Female,618,610,556,1112,1097
+Bay of Plenty,Asian,45-49,Male,556,549,407,1366,1349
+Bay of Plenty,Asian,50-54,Female,417,414,399,1045,1038
+Bay of Plenty,Asian,50-54,Male,366,362,318,1151,1138
+Bay of Plenty,Asian,55-59,Female,356,348,328,1085,1061
+Bay of Plenty,Asian,55-59,Male,247,245,240,1029,1021
+Bay of Plenty,Asian,60-64,Female,301,299,313,962,955
+Bay of Plenty,Asian,60-64,Male,182,179,206,883,869
+Bay of Plenty,Asian,65-69,Female,240,238,249,964,956
+Bay of Plenty,Asian,65-69,Male,199,193,192,1036,1005
+Bay of Plenty,Asian,70-74,Female,159,157,157,1013,1000
+Bay of Plenty,Asian,70-74,Male,123,121,132,932,917
+Bay of Plenty,Asian,75-79,Female,65,62,73,890,849
+Bay of Plenty,Asian,75-79,Male,67,66,63,1063,1048
+Bay of Plenty,Asian,80-84,Female,43,43,45,956,956
+Bay of Plenty,Asian,80-84,Male,34,34,42,810,810
+Bay of Plenty,Asian,85-89,Female,11,11,9,1222,1222
+Bay of Plenty,Asian,85-89,Male,13,13,14,929,929
+Bay of Plenty,Asian,90+,Male,5,0,5,1000,800
+Bay of Plenty,European or Other,12-15,Female,3398,3164,3739,909,846
+Bay of Plenty,European or Other,12-15,Male,3593,3323,3990,901,833
+Bay of Plenty,European or Other,16-19,Female,3030,2911,3257,930,894
+Bay of Plenty,European or Other,16-19,Male,3244,3056,3453,939,885
+Bay of Plenty,European or Other,20-24,Female,3179,3075,3592,885,856
+Bay of Plenty,European or Other,20-24,Male,3371,3193,3718,907,859
+Bay of Plenty,European or Other,25-29,Female,3882,3725,4548,854,819
+Bay of Plenty,European or Other,25-29,Male,3683,3483,4018,917,867
+Bay of Plenty,European or Other,25-29,Unknown/Other,10,10,8,1250,1250
+Bay of Plenty,European or Other,30-34,Female,4698,4500,5173,908,870
+Bay of Plenty,European or Other,30-34,Male,4210,3982,4364,965,912
+Bay of Plenty,European or Other,35-39,Female,4573,4389,4998,915,878
+Bay of Plenty,European or Other,35-39,Male,4114,3936,4396,936,895
+Bay of Plenty,European or Other,40-44,Female,4350,4220,4905,887,860
+Bay of Plenty,European or Other,40-44,Male,4044,3883,4551,889,853
+Bay of Plenty,European or Other,45-49,Female,5042,4914,6005,840,818
+Bay of Plenty,European or Other,45-49,Male,4775,4626,5473,872,845
+Bay of Plenty,European or Other,50-54,Female,5705,5602,6249,913,896
+Bay of Plenty,European or Other,50-54,Male,5179,5057,5645,917,896
+Bay of Plenty,European or Other,55-59,Female,5916,5824,6542,904,890
+Bay of Plenty,European or Other,55-59,Male,5589,5477,6142,910,892
+Bay of Plenty,European or Other,60-64,Female,6158,6067,6497,948,934
+Bay of Plenty,European or Other,60-64,Male,5623,5537,6024,933,919
+Bay of Plenty,European or Other,65-69,Female,6026,5964,6364,947,937
+Bay of Plenty,European or Other,65-69,Male,5610,5548,5918,948,937
+Bay of Plenty,European or Other,70-74,Female,5886,5838,6119,962,954
+Bay of Plenty,European or Other,70-74,Male,5518,5474,5809,950,942
+Bay of Plenty,European or Other,75-79,Female,4548,4501,4782,951,941
+Bay of Plenty,European or Other,75-79,Male,4123,4099,4228,975,969
+Bay of Plenty,European or Other,80-84,Female,3356,3330,3210,1045,1037
+Bay of Plenty,European or Other,80-84,Male,2938,2914,2866,1025,1017
+Bay of Plenty,European or Other,85-89,Female,1881,1849,1980,950,934
+Bay of Plenty,European or Other,85-89,Male,1451,1432,1477,982,970
+Bay of Plenty,European or Other,90+,Female,1249,1222,1302,959,939
+Bay of Plenty,European or Other,90+,Male,764,744,724,1055,1028
+Bay of Plenty,Maori,12-15,Female,1947,1671,2540,767,658
+Bay of Plenty,Maori,12-15,Male,1996,1693,2634,758,643
+Bay of Plenty,Maori,16-19,Female,1842,1619,2146,858,754
+Bay of Plenty,Maori,16-19,Male,1809,1518,2199,823,690
+Bay of Plenty,Maori,20-24,Female,1848,1589,2469,748,644
+Bay of Plenty,Maori,20-24,Male,1872,1583,2356,795,672
+Bay of Plenty,Maori,25-29,Female,1794,1567,2388,751,656
+Bay of Plenty,Maori,25-29,Male,1667,1418,2195,759,646
+Bay of Plenty,Maori,30-34,Female,1669,1486,2116,789,702
+Bay of Plenty,Maori,30-34,Male,1528,1315,1894,807,694
+Bay of Plenty,Maori,35-39,Female,1560,1420,1916,814,741
+Bay of Plenty,Maori,35-39,Male,1355,1186,1674,809,708
+Bay of Plenty,Maori,40-44,Female,1560,1444,1834,851,787
+Bay of Plenty,Maori,40-44,Male,1354,1226,1639,826,748
+Bay of Plenty,Maori,45-49,Female,1629,1549,1896,859,817
+Bay of Plenty,Maori,45-49,Male,1383,1285,1638,844,784
+Bay of Plenty,Maori,50-54,Female,1567,1500,1746,897,859
+Bay of Plenty,Maori,50-54,Male,1379,1297,1564,882,829
+Bay of Plenty,Maori,55-59,Female,1581,1524,1790,883,851
+Bay of Plenty,Maori,55-59,Male,1330,1267,1525,872,831
+Bay of Plenty,Maori,60-64,Female,1418,1378,1514,937,910
+Bay of Plenty,Maori,60-64,Male,1187,1156,1172,1013,986
+Bay of Plenty,Maori,65-69,Female,1106,1085,1077,1027,1007
+Bay of Plenty,Maori,65-69,Male,880,859,947,929,907
+Bay of Plenty,Maori,70-74,Female,729,717,730,999,982
+Bay of Plenty,Maori,70-74,Male,663,646,633,1047,1021
+Bay of Plenty,Maori,75-79,Female,391,382,435,899,878
+Bay of Plenty,Maori,75-79,Male,349,344,342,1020,1006
+Bay of Plenty,Maori,80-84,Female,276,269,278,993,968
+Bay of Plenty,Maori,80-84,Male,178,174,180,989,967
+Bay of Plenty,Maori,85-89,Female,123,117,126,976,929
+Bay of Plenty,Maori,85-89,Male,71,66,72,986,917
+Bay of Plenty,Maori,90+,Female,45,42,50,900,840
+Bay of Plenty,Maori,90+,Male,19,18,18,1056,1000
+Bay of Plenty,Pacific Peoples,12-15,Female,161,144,164,982,878
+Bay of Plenty,Pacific Peoples,12-15,Male,180,156,202,891,772
+Bay of Plenty,Pacific Peoples,16-19,Female,129,122,146,884,836
+Bay of Plenty,Pacific Peoples,16-19,Male,176,161,156,1128,1032
+Bay of Plenty,Pacific Peoples,20-24,Female,190,173,175,1086,989
+Bay of Plenty,Pacific Peoples,20-24,Male,327,311,197,1660,1579
+Bay of Plenty,Pacific Peoples,25-29,Female,188,173,173,1087,1000
+Bay of Plenty,Pacific Peoples,25-29,Male,451,431,211,2137,2043
+Bay of Plenty,Pacific Peoples,30-34,Female,194,180,188,1032,957
+Bay of Plenty,Pacific Peoples,30-34,Male,416,397,214,1944,1855
+Bay of Plenty,Pacific Peoples,35-39,Female,147,143,147,1000,973
+Bay of Plenty,Pacific Peoples,35-39,Male,404,395,211,1915,1872
+Bay of Plenty,Pacific Peoples,40-44,Female,160,153,169,947,905
+Bay of Plenty,Pacific Peoples,40-44,Male,325,309,186,1747,1661
+Bay of Plenty,Pacific Peoples,45-49,Female,143,138,134,1067,1030
+Bay of Plenty,Pacific Peoples,45-49,Male,201,195,130,1546,1500
+Bay of Plenty,Pacific Peoples,50-54,Female,118,116,126,937,921
+Bay of Plenty,Pacific Peoples,50-54,Male,177,171,136,1301,1257
+Bay of Plenty,Pacific Peoples,55-59,Female,112,111,102,1098,1088
+Bay of Plenty,Pacific Peoples,55-59,Male,86,83,80,1075,1038
+Bay of Plenty,Pacific Peoples,60-64,Female,62,59,67,925,881
+Bay of Plenty,Pacific Peoples,60-64,Male,81,79,79,1025,1000
+Bay of Plenty,Pacific Peoples,65-69,Female,56,56,51,1098,1098
+Bay of Plenty,Pacific Peoples,65-69,Male,52,49,61,852,803
+Bay of Plenty,Pacific Peoples,70-74,Female,45,44,52,865,846
+Bay of Plenty,Pacific Peoples,70-74,Male,31,31,29,1069,1069
+Bay of Plenty,Pacific Peoples,75-79,Female,36,36,35,1029,1029
+Bay of Plenty,Pacific Peoples,75-79,Male,20,20,23,870,870
+Bay of Plenty,Pacific Peoples,80-84,Female,11,11,12,917,917
+Bay of Plenty,Pacific Peoples,80-84,Male,9,9,12,750,750
+Bay of Plenty,Unknown,20-24,Male,28,27,6,4667,4500
+Bay of Plenty,Unknown,25-29,Female,49,46,9,5444,5111
+Bay of Plenty,Unknown,25-29,Male,77,74,13,5923,5692
+Bay of Plenty,Unknown,30-34,Female,38,37,8,4750,4625
+Bay of Plenty,Unknown,30-34,Male,66,60,12,5500,5000
+Bay of Plenty,Unknown,35-39,Female,32,30,7,4571,4286
+Bay of Plenty,Unknown,35-39,Male,53,52,9,5889,5778
+Bay of Plenty,Unknown,40-44,Female,29,27,8,3625,3375
+Bay of Plenty,Unknown,40-44,Male,61,60,18,3389,3333
+Bay of Plenty,Unknown,45-49,Female,15,13,6,2500,2167
+Bay of Plenty,Unknown,45-49,Male,42,40,21,2000,1905
+Bay of Plenty,Unknown,50-54,Female,13,12,7,1857,1714
+Bay of Plenty,Unknown,50-54,Male,41,40,19,2158,2105
+Bay of Plenty,Unknown,55-59,Female,12,12,6,2000,2000
+Bay of Plenty,Unknown,55-59,Male,54,50,19,2842,2632
+Bay of Plenty,Unknown,60-64,Female,18,17,10,1800,1700
+Bay of Plenty,Unknown,60-64,Male,32,29,15,2133,1933
+Bay of Plenty,Unknown,65-69,Female,7,7,10,700,700
+Bay of Plenty,Unknown,65-69,Male,17,16,9,1889,1778
+Bay of Plenty,Unknown,70-74,Male,19,19,19,1000,1000
+Bay of Plenty,Unknown,75-79,Female,5,5,5,1000,1000
+Bay of Plenty,Unknown,75-79,Male,11,10,9,1222,1111
+Canterbury,Asian,12-15,Female,1653,1560,1488,1111,1048
+Canterbury,Asian,12-15,Male,1759,1664,1601,1099,1039
+Canterbury,Asian,16-19,Female,1450,1427,1264,1147,1129
+Canterbury,Asian,16-19,Male,1686,1648,1318,1279,1250
+Canterbury,Asian,20-24,Female,2071,2043,1773,1168,1152
+Canterbury,Asian,20-24,Male,2680,2624,1829,1465,1435
+Canterbury,Asian,20-24,Unknown/Other,50,49,7,7143,7000
+Canterbury,Asian,25-29,Female,3468,3423,3186,1089,1074
+Canterbury,Asian,25-29,Male,4035,3968,3111,1297,1275
+Canterbury,Asian,25-29,Unknown/Other,76,75,8,9500,9375
+Canterbury,Asian,30-34,Female,4521,4453,4229,1069,1053
+Canterbury,Asian,30-34,Male,4385,4343,3730,1176,1164
+Canterbury,Asian,30-34,Unknown/Other,33,33,6,5500,5500
+Canterbury,Asian,35-39,Female,4123,4068,4047,1019,1005
+Canterbury,Asian,35-39,Male,4096,4046,3696,1108,1095
+Canterbury,Asian,35-39,Unknown/Other,23,23,7,3286,3286
+Canterbury,Asian,40-44,Female,3067,3028,2851,1076,1062
+Canterbury,Asian,40-44,Male,3078,3046,2646,1163,1151
+Canterbury,Asian,40-44,Unknown/Other,11,11,6,1833,1833
+Canterbury,Asian,45-49,Female,2241,2215,2126,1054,1042
+Canterbury,Asian,45-49,Male,2128,2098,1857,1146,1130
+Canterbury,Asian,50-54,Female,1687,1664,1537,1098,1083
+Canterbury,Asian,50-54,Male,1495,1481,1309,1142,1131
+Canterbury,Asian,55-59,Female,1239,1228,1275,972,963
+Canterbury,Asian,55-59,Male,981,966,972,1009,994
+Canterbury,Asian,60-64,Female,1177,1162,1294,910,898
+Canterbury,Asian,60-64,Male,805,793,852,945,931
+Canterbury,Asian,65-69,Female,969,957,996,973,961
+Canterbury,Asian,65-69,Male,729,722,834,874,866
+Canterbury,Asian,70-74,Female,530,522,516,1027,1012
+Canterbury,Asian,70-74,Male,498,492,476,1046,1034
+Canterbury,Asian,75-79,Female,250,246,287,871,857
+Canterbury,Asian,75-79,Male,215,213,241,892,884
+Canterbury,Asian,80-84,Female,184,182,184,1000,989
+Canterbury,Asian,80-84,Male,144,142,154,935,922
+Canterbury,Asian,85-89,Female,77,74,79,975,937
+Canterbury,Asian,85-89,Male,56,53,64,875,828
+Canterbury,Asian,90+,Female,39,38,35,1114,1086
+Canterbury,Asian,90+,Male,27,27,28,964,964
+Canterbury,European or Other,12-15,Female,9431,8932,9585,984,932
+Canterbury,European or Other,12-15,Male,9953,9397,10084,987,932
+Canterbury,European or Other,16-19,Female,9648,9424,9984,966,944
+Canterbury,European or Other,16-19,Male,9832,9506,10205,963,932
+Canterbury,European or Other,16-19,Unknown/Other,6,5,5,1200,1000
+Canterbury,European or Other,20-24,Female,12538,12277,13154,953,933
+Canterbury,European or Other,20-24,Male,13239,12855,13845,956,928
+Canterbury,European or Other,20-24,Unknown/Other,11,11,12,917,917
+Canterbury,European or Other,25-29,Female,12829,12487,14413,890,866
+Canterbury,European or Other,25-29,Male,12963,12451,14024,924,888
+Canterbury,European or Other,25-29,Unknown/Other,29,28,20,1450,1400
+Canterbury,European or Other,30-34,Female,13349,12956,14097,947,919
+Canterbury,European or Other,30-34,Male,13570,13017,13919,975,935
+Canterbury,European or Other,30-34,Unknown/Other,23,23,7,3286,3286
+Canterbury,European or Other,35-39,Female,11972,11679,12782,937,914
+Canterbury,European or Other,35-39,Male,11797,11384,12323,957,924
+Canterbury,European or Other,35-39,Unknown/Other,9,9,5,1800,1800
+Canterbury,European or Other,40-44,Female,12206,11970,12889,947,929
+Canterbury,European or Other,40-44,Male,11437,11099,12314,929,901
+Canterbury,European or Other,40-44,Unknown/Other,8,7,7,1143,1000
+Canterbury,European or Other,45-49,Female,13970,13735,15519,900,885
+Canterbury,European or Other,45-49,Male,13128,12843,14433,910,890
+Canterbury,European or Other,50-54,Female,15268,15053,15684,973,960
+Canterbury,European or Other,50-54,Male,14754,14461,15302,964,945
+Canterbury,European or Other,55-59,Female,15133,14944,15922,950,939
+Canterbury,European or Other,55-59,Male,14742,14527,15603,945,931
+Canterbury,European or Other,60-64,Female,14292,14140,14458,989,978
+Canterbury,European or Other,60-64,Male,14038,13873,14215,988,976
+Canterbury,European or Other,65-69,Female,12388,12298,12622,981,974
+Canterbury,European or Other,65-69,Male,11935,11816,12116,985,975
+Canterbury,European or Other,70-74,Female,11651,11575,11648,1000,994
+Canterbury,European or Other,70-74,Male,10818,10734,10748,1007,999
+Canterbury,European or Other,75-79,Female,8226,8169,8212,1002,995
+Canterbury,European or Other,75-79,Male,7352,7299,7310,1006,998
+Canterbury,European or Other,80-84,Female,6236,6176,5990,1041,1031
+Canterbury,European or Other,80-84,Male,4939,4881,4678,1056,1043
+Canterbury,European or Other,85-89,Female,3759,3688,3860,974,955
+Canterbury,European or Other,85-89,Male,2595,2554,2644,981,966
+Canterbury,European or Other,90+,Female,2688,2604,2642,1017,986
+Canterbury,European or Other,90+,Male,1395,1360,1332,1047,1021
+Canterbury,Maori,12-15,Female,1771,1598,1851,957,863
+Canterbury,Maori,12-15,Male,1855,1678,1964,945,854
+Canterbury,Maori,16-19,Female,1618,1525,1739,930,877
+Canterbury,Maori,16-19,Male,1618,1484,1741,929,852
+Canterbury,Maori,20-24,Female,2078,1941,2319,896,837
+Canterbury,Maori,20-24,Male,2018,1836,2273,888,808
+Canterbury,Maori,25-29,Female,1774,1640,2108,842,778
+Canterbury,Maori,25-29,Male,1755,1586,2139,820,741
+Canterbury,Maori,30-34,Female,1657,1526,1858,892,821
+Canterbury,Maori,30-34,Male,1595,1425,1768,902,806
+Canterbury,Maori,35-39,Female,1256,1168,1356,926,861
+Canterbury,Maori,35-39,Male,1242,1123,1359,914,826
+Canterbury,Maori,40-44,Female,1225,1152,1371,894,840
+Canterbury,Maori,40-44,Male,1126,1043,1270,887,821
+Canterbury,Maori,45-49,Female,1273,1235,1409,903,877
+Canterbury,Maori,45-49,Male,1149,1093,1240,927,881
+Canterbury,Maori,50-54,Female,1319,1275,1365,966,934
+Canterbury,Maori,50-54,Male,1261,1211,1311,962,924
+Canterbury,Maori,55-59,Female,1104,1085,1180,936,919
+Canterbury,Maori,55-59,Male,950,910,1008,942,903
+Canterbury,Maori,60-64,Female,872,855,848,1028,1008
+Canterbury,Maori,60-64,Male,833,808,833,1000,970
+Canterbury,Maori,65-69,Female,582,577,577,1009,1000
+Canterbury,Maori,65-69,Male,539,533,570,946,935
+Canterbury,Maori,70-74,Female,423,418,401,1055,1042
+Canterbury,Maori,70-74,Male,403,402,350,1151,1149
+Canterbury,Maori,75-79,Female,232,229,223,1040,1027
+Canterbury,Maori,75-79,Male,227,225,223,1018,1009
+Canterbury,Maori,80-84,Female,124,122,114,1088,1070
+Canterbury,Maori,80-84,Male,97,94,83,1169,1133
+Canterbury,Maori,85-89,Female,45,43,47,957,915
+Canterbury,Maori,85-89,Male,31,30,37,838,811
+Canterbury,Maori,90+,Female,32,31,23,1391,1348
+Canterbury,Maori,90+,Male,13,13,11,1182,1182
+Canterbury,Pacific Peoples,12-15,Female,566,521,613,923,850
+Canterbury,Pacific Peoples,12-15,Male,638,571,639,998,894
+Canterbury,Pacific Peoples,16-19,Female,480,463,516,930,897
+Canterbury,Pacific Peoples,16-19,Male,585,548,594,985,923
+Canterbury,Pacific Peoples,20-24,Female,677,645,717,944,900
+Canterbury,Pacific Peoples,20-24,Male,822,769,788,1043,976
+Canterbury,Pacific Peoples,25-29,Female,675,644,715,944,901
+Canterbury,Pacific Peoples,25-29,Male,716,663,781,917,849
+Canterbury,Pacific Peoples,30-34,Female,655,631,747,877,845
+Canterbury,Pacific Peoples,30-34,Male,703,668,733,959,911
+Canterbury,Pacific Peoples,35-39,Female,553,533,549,1007,971
+Canterbury,Pacific Peoples,35-39,Male,597,567,604,988,939
+Canterbury,Pacific Peoples,40-44,Female,471,456,492,957,927
+Canterbury,Pacific Peoples,40-44,Male,569,543,534,1066,1017
+Canterbury,Pacific Peoples,45-49,Female,420,413,431,974,958
+Canterbury,Pacific Peoples,45-49,Male,484,465,498,972,934
+Canterbury,Pacific Peoples,50-54,Female,366,362,374,979,968
+Canterbury,Pacific Peoples,50-54,Male,353,346,349,1011,991
+Canterbury,Pacific Peoples,55-59,Female,318,309,357,891,866
+Canterbury,Pacific Peoples,55-59,Male,311,301,320,972,941
+Canterbury,Pacific Peoples,60-64,Female,276,270,262,1053,1031
+Canterbury,Pacific Peoples,60-64,Male,265,262,258,1027,1016
+Canterbury,Pacific Peoples,65-69,Female,186,179,189,984,947
+Canterbury,Pacific Peoples,65-69,Male,185,182,186,995,978
+Canterbury,Pacific Peoples,70-74,Female,116,113,116,1000,974
+Canterbury,Pacific Peoples,70-74,Male,115,113,111,1036,1018
+Canterbury,Pacific Peoples,75-79,Female,77,75,82,939,915
+Canterbury,Pacific Peoples,75-79,Male,63,62,64,984,969
+Canterbury,Pacific Peoples,80-84,Female,44,43,47,936,915
+Canterbury,Pacific Peoples,80-84,Male,35,35,34,1029,1029
+Canterbury,Pacific Peoples,85-89,Female,17,16,13,1308,1231
+Canterbury,Pacific Peoples,85-89,Male,7,7,11,636,636
+Canterbury,Pacific Peoples,90+,Female,5,5,8,625,625
+Canterbury,Unknown,12-15,Female,30,29,8,3750,3625
+Canterbury,Unknown,12-15,Male,42,40,15,2800,2667
+Canterbury,Unknown,16-19,Female,44,44,14,3143,3143
+Canterbury,Unknown,16-19,Male,41,39,22,1864,1773
+Canterbury,Unknown,20-24,Female,73,68,39,1872,1744
+Canterbury,Unknown,20-24,Male,119,118,41,2902,2878
+Canterbury,Unknown,25-29,Female,152,149,62,2452,2403
+Canterbury,Unknown,25-29,Male,196,186,96,2042,1938
+Canterbury,Unknown,30-34,Female,163,157,81,2012,1938
+Canterbury,Unknown,30-34,Male,275,257,120,2292,2142
+Canterbury,Unknown,35-39,Female,144,140,68,2118,2059
+Canterbury,Unknown,35-39,Male,372,355,183,2033,1940
+Canterbury,Unknown,40-44,Female,116,111,71,1634,1563
+Canterbury,Unknown,40-44,Male,304,296,155,1961,1910
+Canterbury,Unknown,45-49,Female,193,189,193,1000,979
+Canterbury,Unknown,45-49,Male,338,325,216,1565,1505
+Canterbury,Unknown,50-54,Female,180,173,141,1277,1227
+Canterbury,Unknown,50-54,Male,329,322,206,1597,1563
+Canterbury,Unknown,55-59,Female,116,112,86,1349,1302
+Canterbury,Unknown,55-59,Male,303,289,188,1612,1537
+Canterbury,Unknown,60-64,Female,109,108,72,1514,1500
+Canterbury,Unknown,60-64,Male,223,217,150,1487,1447
+Canterbury,Unknown,65-69,Female,80,79,62,1290,1274
+Canterbury,Unknown,65-69,Male,139,137,85,1635,1612
+Canterbury,Unknown,70-74,Female,54,52,52,1038,1000
+Canterbury,Unknown,70-74,Male,85,83,67,1269,1239
+Canterbury,Unknown,75-79,Female,40,39,42,952,929
+Canterbury,Unknown,75-79,Male,36,35,30,1200,1167
+Canterbury,Unknown,80-84,Female,19,19,21,905,905
+Canterbury,Unknown,80-84,Male,16,15,16,1000,938
+Canterbury,Unknown,85-89,Female,6,6,8,750,750
+Canterbury,Unknown,85-89,Male,14,14,5,2800,2800
+Capital and Coast,Asian,12-15,Female,999,960,955,1046,1005
+Capital and Coast,Asian,12-15,Male,1048,995,984,1065,1011
+Capital and Coast,Asian,16-19,Female,925,917,859,1077,1068
+Capital and Coast,Asian,16-19,Male,993,980,868,1144,1129
+Capital and Coast,Asian,20-24,Female,1639,1626,1449,1131,1122
+Capital and Coast,Asian,20-24,Male,1549,1524,1204,1287,1266
+Capital and Coast,Asian,20-24,Unknown/Other,13,13,6,2167,2167
+Capital and Coast,Asian,25-29,Female,2304,2287,2255,1022,1014
+Capital and Coast,Asian,25-29,Male,2259,2233,1867,1210,1196
+Capital and Coast,Asian,25-29,Unknown/Other,30,30,16,1875,1875
+Capital and Coast,Asian,30-34,Female,2738,2717,2769,989,981
+Capital and Coast,Asian,30-34,Male,2393,2370,2154,1111,1100
+Capital and Coast,Asian,30-34,Unknown/Other,26,26,7,3714,3714
+Capital and Coast,Asian,35-39,Female,2545,2524,2576,988,980
+Capital and Coast,Asian,35-39,Male,2294,2271,2230,1029,1018
+Capital and Coast,Asian,35-39,Unknown/Other,23,23,6,3833,3833
+Capital and Coast,Asian,40-44,Female,1870,1853,1819,1028,1019
+Capital and Coast,Asian,40-44,Male,1782,1764,1564,1139,1128
+Capital and Coast,Asian,45-49,Female,1514,1498,1508,1004,993
+Capital and Coast,Asian,45-49,Male,1389,1375,1208,1150,1138
+Capital and Coast,Asian,50-54,Female,1313,1302,1283,1023,1015
+Capital and Coast,Asian,50-54,Male,967,963,940,1029,1024
+Capital and Coast,Asian,55-59,Female,1184,1171,1183,1001,990
+Capital and Coast,Asian,55-59,Male,955,950,913,1046,1041
+Capital and Coast,Asian,60-64,Female,912,901,962,948,937
+Capital and Coast,Asian,60-64,Male,685,676,714,959,947
+Capital and Coast,Asian,65-69,Female,805,797,871,924,915
+Capital and Coast,Asian,65-69,Male,598,596,630,949,946
+Capital and Coast,Asian,70-74,Female,572,562,564,1014,996
+Capital and Coast,Asian,70-74,Male,443,437,481,921,909
+Capital and Coast,Asian,75-79,Female,320,315,338,947,932
+Capital and Coast,Asian,75-79,Male,257,256,257,1000,996
+Capital and Coast,Asian,80-84,Female,222,217,210,1057,1033
+Capital and Coast,Asian,80-84,Male,191,189,195,979,969
+Capital and Coast,Asian,85-89,Female,114,113,128,891,883
+Capital and Coast,Asian,85-89,Male,81,80,90,900,889
+Capital and Coast,Asian,90+,Female,54,52,51,1059,1020
+Capital and Coast,Asian,90+,Male,39,37,34,1147,1088
+Capital and Coast,European or Other,12-15,Female,4633,4444,4539,1021,979
+Capital and Coast,European or Other,12-15,Male,4770,4573,4586,1040,997
+Capital and Coast,European or Other,12-15,Unknown/Other,22,21,12,1833,1750
+Capital and Coast,European or Other,16-19,Female,4827,4777,4968,972,962
+Capital and Coast,European or Other,16-19,Male,4568,4467,4666,979,957
+Capital and Coast,European or Other,16-19,Unknown/Other,35,35,14,2500,2500
+Capital and Coast,European or Other,20-24,Female,8281,8198,8745,947,937
+Capital and Coast,European or Other,20-24,Male,7304,7170,7571,965,947
+Capital and Coast,European or Other,20-24,Unknown/Other,33,33,24,1375,1375
+Capital and Coast,European or Other,25-29,Female,8134,8040,9015,902,892
+Capital and Coast,European or Other,25-29,Male,8016,7867,8217,976,957
+Capital and Coast,European or Other,25-29,Unknown/Other,52,50,27,1926,1852
+Capital and Coast,European or Other,30-34,Female,7352,7264,7728,951,940
+Capital and Coast,European or Other,30-34,Male,7336,7198,7234,1014,995
+Capital and Coast,European or Other,30-34,Unknown/Other,37,36,22,1682,1636
+Capital and Coast,European or Other,35-39,Female,6526,6429,7118,917,903
+Capital and Coast,European or Other,35-39,Male,6282,6184,6631,947,933
+Capital and Coast,European or Other,35-39,Unknown/Other,25,24,7,3571,3429
+Capital and Coast,European or Other,40-44,Female,6595,6516,7072,933,921
+Capital and Coast,European or Other,40-44,Male,6441,6334,6832,943,927
+Capital and Coast,European or Other,40-44,Unknown/Other,13,13,5,2600,2600
+Capital and Coast,European or Other,45-49,Female,7242,7168,8064,898,889
+Capital and Coast,European or Other,45-49,Male,6944,6849,7395,939,926
+Capital and Coast,European or Other,50-54,Female,7475,7405,7657,976,967
+Capital and Coast,European or Other,50-54,Male,7080,7007,7310,969,959
+Capital and Coast,European or Other,55-59,Female,7030,6976,7316,961,954
+Capital and Coast,European or Other,55-59,Male,6801,6722,7071,962,951
+Capital and Coast,European or Other,60-64,Female,6012,5957,6115,983,974
+Capital and Coast,European or Other,60-64,Male,5919,5870,5970,991,983
+Capital and Coast,European or Other,65-69,Female,5085,5056,5195,979,973
+Capital and Coast,European or Other,65-69,Male,4693,4658,4887,960,953
+Capital and Coast,European or Other,70-74,Female,4571,4549,4777,957,952
+Capital and Coast,European or Other,70-74,Male,4235,4201,4333,977,970
+Capital and Coast,European or Other,75-79,Female,3468,3433,3545,978,968
+Capital and Coast,European or Other,75-79,Male,3027,3001,2962,1022,1013
+Capital and Coast,European or Other,80-84,Female,2597,2572,2537,1024,1014
+Capital and Coast,European or Other,80-84,Male,1909,1891,1852,1031,1021
+Capital and Coast,European or Other,85-89,Female,1616,1589,1631,991,974
+Capital and Coast,European or Other,85-89,Male,1105,1090,1138,971,958
+Capital and Coast,European or Other,90+,Female,1079,1048,1101,980,952
+Capital and Coast,European or Other,90+,Male,588,569,561,1048,1014
+Capital and Coast,Maori,12-15,Female,1148,1041,1200,957,868
+Capital and Coast,Maori,12-15,Male,1181,1074,1258,939,854
+Capital and Coast,Maori,16-19,Female,1081,1022,1249,865,818
+Capital and Coast,Maori,16-19,Male,1101,1010,1231,894,820
+Capital and Coast,Maori,20-24,Female,1832,1763,1990,921,886
+Capital and Coast,Maori,20-24,Male,1580,1492,1709,925,873
+Capital and Coast,Maori,25-29,Female,1476,1403,1666,886,842
+Capital and Coast,Maori,25-29,Male,1456,1364,1584,919,861
+Capital and Coast,Maori,30-34,Female,1159,1081,1242,933,870
+Capital and Coast,Maori,30-34,Male,1152,1075,1227,939,876
+Capital and Coast,Maori,35-39,Female,887,840,1047,847,802
+Capital and Coast,Maori,35-39,Male,777,725,873,890,830
+Capital and Coast,Maori,40-44,Female,949,910,1045,908,871
+Capital and Coast,Maori,40-44,Male,838,797,912,919,874
+Capital and Coast,Maori,45-49,Female,1016,996,1076,944,926
+Capital and Coast,Maori,45-49,Male,884,842,996,888,845
+Capital and Coast,Maori,50-54,Female,943,922,1007,936,916
+Capital and Coast,Maori,50-54,Male,851,833,918,927,907
+Capital and Coast,Maori,55-59,Female,837,828,873,959,948
+Capital and Coast,Maori,55-59,Male,797,774,798,999,970
+Capital and Coast,Maori,60-64,Female,634,629,646,981,974
+Capital and Coast,Maori,60-64,Male,555,546,515,1078,1060
+Capital and Coast,Maori,65-69,Female,418,414,432,968,958
+Capital and Coast,Maori,65-69,Male,381,373,389,979,959
+Capital and Coast,Maori,70-74,Female,278,274,267,1041,1026
+Capital and Coast,Maori,70-74,Male,247,244,222,1113,1099
+Capital and Coast,Maori,75-79,Female,179,179,179,1000,1000
+Capital and Coast,Maori,75-79,Male,131,130,133,985,977
+Capital and Coast,Maori,80-84,Female,116,115,112,1036,1027
+Capital and Coast,Maori,80-84,Male,82,81,82,1000,988
+Capital and Coast,Maori,85-89,Female,41,41,39,1051,1051
+Capital and Coast,Maori,85-89,Male,20,20,19,1053,1053
+Capital and Coast,Maori,90+,Female,21,19,17,1235,1118
+Capital and Coast,Pacific Peoples,12-15,Female,730,670,771,947,869
+Capital and Coast,Pacific Peoples,12-15,Male,734,677,735,999,921
+Capital and Coast,Pacific Peoples,16-19,Female,779,745,830,939,898
+Capital and Coast,Pacific Peoples,16-19,Male,721,671,815,885,823
+Capital and Coast,Pacific Peoples,20-24,Female,1055,1001,1161,909,862
+Capital and Coast,Pacific Peoples,20-24,Male,1003,935,1068,939,875
+Capital and Coast,Pacific Peoples,25-29,Female,915,884,1004,911,880
+Capital and Coast,Pacific Peoples,25-29,Male,924,858,967,956,887
+Capital and Coast,Pacific Peoples,30-34,Female,795,767,907,877,846
+Capital and Coast,Pacific Peoples,30-34,Male,807,749,849,951,882
+Capital and Coast,Pacific Peoples,35-39,Female,665,645,717,927,900
+Capital and Coast,Pacific Peoples,35-39,Male,697,658,739,943,890
+Capital and Coast,Pacific Peoples,40-44,Female,666,644,764,872,843
+Capital and Coast,Pacific Peoples,40-44,Male,625,599,707,884,847
+Capital and Coast,Pacific Peoples,45-49,Female,759,744,779,974,955
+Capital and Coast,Pacific Peoples,45-49,Male,677,653,723,936,903
+Capital and Coast,Pacific Peoples,50-54,Female,703,687,767,917,896
+Capital and Coast,Pacific Peoples,50-54,Male,639,619,669,955,925
+Capital and Coast,Pacific Peoples,55-59,Female,603,597,636,948,939
+Capital and Coast,Pacific Peoples,55-59,Male,563,553,573,983,965
+Capital and Coast,Pacific Peoples,60-64,Female,508,498,531,957,938
+Capital and Coast,Pacific Peoples,60-64,Male,442,436,431,1026,1012
+Capital and Coast,Pacific Peoples,65-69,Female,347,341,371,935,919
+Capital and Coast,Pacific Peoples,65-69,Male,356,352,353,1008,997
+Capital and Coast,Pacific Peoples,70-74,Female,322,320,322,1000,994
+Capital and Coast,Pacific Peoples,70-74,Male,264,263,275,960,956
+Capital and Coast,Pacific Peoples,75-79,Female,191,186,204,936,912
+Capital and Coast,Pacific Peoples,75-79,Male,156,152,176,886,864
+Capital and Coast,Pacific Peoples,80-84,Female,116,114,127,913,898
+Capital and Coast,Pacific Peoples,80-84,Male,85,85,79,1076,1076
+Capital and Coast,Pacific Peoples,85-89,Female,57,56,62,919,903
+Capital and Coast,Pacific Peoples,85-89,Male,34,32,34,1000,941
+Capital and Coast,Pacific Peoples,90+,Female,14,13,16,875,812
+Capital and Coast,Pacific Peoples,90+,Male,9,8,9,1000,889
+Capital and Coast,Unknown,12-15,Female,43,40,20,2150,2000
+Capital and Coast,Unknown,12-15,Male,38,36,14,2714,2571
+Capital and Coast,Unknown,16-19,Female,48,47,21,2286,2238
+Capital and Coast,Unknown,16-19,Male,36,35,22,1636,1591
+Capital and Coast,Unknown,20-24,Female,68,64,44,1545,1455
+Capital and Coast,Unknown,20-24,Male,56,54,30,1867,1800
+Capital and Coast,Unknown,25-29,Female,124,121,62,2000,1952
+Capital and Coast,Unknown,25-29,Male,193,190,79,2443,2405
+Capital and Coast,Unknown,30-34,Female,146,145,82,1780,1768
+Capital and Coast,Unknown,30-34,Male,205,195,77,2662,2532
+Capital and Coast,Unknown,35-39,Female,140,135,91,1538,1484
+Capital and Coast,Unknown,35-39,Male,215,210,126,1706,1667
+Capital and Coast,Unknown,40-44,Female,148,145,77,1922,1883
+Capital and Coast,Unknown,40-44,Male,225,219,122,1844,1795
+Capital and Coast,Unknown,45-49,Female,103,103,81,1272,1272
+Capital and Coast,Unknown,45-49,Male,223,217,139,1604,1561
+Capital and Coast,Unknown,50-54,Female,88,86,67,1313,1284
+Capital and Coast,Unknown,50-54,Male,223,219,156,1429,1404
+Capital and Coast,Unknown,55-59,Female,65,65,66,985,985
+Capital and Coast,Unknown,55-59,Male,225,217,169,1331,1284
+Capital and Coast,Unknown,60-64,Female,72,69,75,960,920
+Capital and Coast,Unknown,60-64,Male,231,225,186,1242,1210
+Capital and Coast,Unknown,65-69,Female,65,63,63,1032,1000
+Capital and Coast,Unknown,65-69,Male,139,138,127,1094,1087
+Capital and Coast,Unknown,70-74,Female,67,67,74,905,905
+Capital and Coast,Unknown,70-74,Male,112,112,121,926,926
+Capital and Coast,Unknown,75-79,Female,58,56,45,1289,1244
+Capital and Coast,Unknown,75-79,Male,81,79,73,1110,1082
+Capital and Coast,Unknown,80-84,Female,26,25,29,897,862
+Capital and Coast,Unknown,80-84,Male,30,30,30,1000,1000
+Capital and Coast,Unknown,85-89,Female,13,13,15,867,867
+Capital and Coast,Unknown,85-89,Male,9,9,13,692,692
+Counties Manukau,Asian,12-15,Female,3671,3572,3369,1090,1060
+Counties Manukau,Asian,12-15,Male,4023,3881,3784,1063,1026
+Counties Manukau,Asian,16-19,Female,3210,3179,3005,1068,1058
+Counties Manukau,Asian,16-19,Male,3643,3594,3217,1132,1117
+Counties Manukau,Asian,16-19,Unknown/Other,14,14,7,2000,2000
+Counties Manukau,Asian,20-24,Female,4153,4115,4218,985,976
+Counties Manukau,Asian,20-24,Male,5338,5257,4765,1120,1103
+Counties Manukau,Asian,20-24,Unknown/Other,56,55,9,6222,6111
+Counties Manukau,Asian,25-29,Female,6778,6700,7287,930,919
+Counties Manukau,Asian,25-29,Male,8444,8320,7949,1062,1047
+Counties Manukau,Asian,25-29,Unknown/Other,54,52,15,3600,3467
+Counties Manukau,Asian,30-34,Female,8845,8738,8763,1009,997
+Counties Manukau,Asian,30-34,Male,9334,9233,8477,1101,1089
+Counties Manukau,Asian,30-34,Unknown/Other,61,59,20,3050,2950
+Counties Manukau,Asian,35-39,Female,8130,8038,8190,993,981
+Counties Manukau,Asian,35-39,Male,8168,8102,7504,1088,1080
+Counties Manukau,Asian,35-39,Unknown/Other,37,36,11,3364,3273
+Counties Manukau,Asian,40-44,Female,5973,5918,5748,1039,1030
+Counties Manukau,Asian,40-44,Male,6432,6388,5549,1159,1151
+Counties Manukau,Asian,40-44,Unknown/Other,45,45,7,6429,6429
+Counties Manukau,Asian,45-49,Female,4720,4679,4617,1022,1013
+Counties Manukau,Asian,45-49,Male,4747,4705,4515,1051,1042
+Counties Manukau,Asian,50-54,Female,4163,4111,4225,985,973
+Counties Manukau,Asian,50-54,Male,3946,3914,3865,1021,1013
+Counties Manukau,Asian,50-54,Unknown/Other,14,13,5,2800,2600
+Counties Manukau,Asian,55-59,Female,3936,3890,4152,948,937
+Counties Manukau,Asian,55-59,Male,3706,3681,3697,1002,996
+Counties Manukau,Asian,55-59,Unknown/Other,5,5,6,833,833
+Counties Manukau,Asian,60-64,Female,3542,3514,3874,914,907
+Counties Manukau,Asian,60-64,Male,3114,3090,3344,931,924
+Counties Manukau,Asian,60-64,Unknown/Other,6,6,7,857,857
+Counties Manukau,Asian,65-69,Female,3055,3033,3318,921,914
+Counties Manukau,Asian,65-69,Male,2720,2700,2937,926,919
+Counties Manukau,Asian,70-74,Female,1943,1914,2050,948,934
+Counties Manukau,Asian,70-74,Male,1877,1864,2012,933,926
+Counties Manukau,Asian,75-79,Female,1119,1111,1251,894,888
+Counties Manukau,Asian,75-79,Male,985,977,1091,903,896
+Counties Manukau,Asian,80-84,Female,681,669,773,881,865
+Counties Manukau,Asian,80-84,Male,605,596,728,831,819
+Counties Manukau,Asian,85-89,Female,357,346,363,983,953
+Counties Manukau,Asian,85-89,Male,260,254,284,915,894
+Counties Manukau,Asian,90+,Female,117,113,131,893,863
+Counties Manukau,Asian,90+,Male,87,83,91,956,912
+Counties Manukau,European or Other,12-15,Female,4342,4218,4527,959,932
+Counties Manukau,European or Other,12-15,Male,4579,4417,4859,942,909
+Counties Manukau,European or Other,16-19,Female,4041,3978,4262,948,933
+Counties Manukau,European or Other,16-19,Male,4346,4248,4595,946,924
+Counties Manukau,European or Other,20-24,Female,4574,4493,5144,889,873
+Counties Manukau,European or Other,20-24,Male,5121,5012,5399,949,928
+Counties Manukau,European or Other,25-29,Female,5005,4913,5988,836,820
+Counties Manukau,European or Other,25-29,Male,4957,4827,5529,897,873
+Counties Manukau,European or Other,25-29,Unknown/Other,7,6,7,1000,857
+Counties Manukau,European or Other,30-34,Female,5421,5312,5982,906,888
+Counties Manukau,European or Other,30-34,Male,5379,5236,5657,951,926
+Counties Manukau,European or Other,30-34,Unknown/Other,8,7,9,889,778
+Counties Manukau,European or Other,35-39,Female,5323,5208,5899,902,883
+Counties Manukau,European or Other,35-39,Male,5173,5058,5686,910,890
+Counties Manukau,European or Other,35-39,Unknown/Other,14,12,7,2000,1714
+Counties Manukau,European or Other,40-44,Female,5402,5315,6042,894,880
+Counties Manukau,European or Other,40-44,Male,5330,5234,5778,922,906
+Counties Manukau,European or Other,45-49,Female,6355,6281,7292,872,861
+Counties Manukau,European or Other,45-49,Male,6271,6153,7241,866,850
+Counties Manukau,European or Other,50-54,Female,6904,6823,7359,938,927
+Counties Manukau,European or Other,50-54,Male,7152,7037,7602,941,926
+Counties Manukau,European or Other,55-59,Female,6640,6568,7252,916,906
+Counties Manukau,European or Other,55-59,Male,7171,7092,7763,924,914
+Counties Manukau,European or Other,60-64,Female,6054,5980,6372,950,938
+Counties Manukau,European or Other,60-64,Male,6448,6377,6741,957,946
+Counties Manukau,European or Other,65-69,Female,5213,5173,5457,955,948
+Counties Manukau,European or Other,65-69,Male,5198,5150,5437,956,947
+Counties Manukau,European or Other,70-74,Female,4835,4809,5098,948,943
+Counties Manukau,European or Other,70-74,Male,4759,4731,5007,950,945
+Counties Manukau,European or Other,75-79,Female,3812,3797,3948,966,962
+Counties Manukau,European or Other,75-79,Male,3429,3401,3597,953,946
+Counties Manukau,European or Other,80-84,Female,2847,2820,2814,1012,1002
+Counties Manukau,European or Other,80-84,Male,2327,2305,2294,1014,1005
+Counties Manukau,European or Other,85-89,Female,1675,1643,1762,951,932
+Counties Manukau,European or Other,85-89,Male,1165,1143,1223,953,935
+Counties Manukau,European or Other,90+,Female,1131,1095,1182,957,926
+Counties Manukau,European or Other,90+,Male,613,595,640,958,930
+Counties Manukau,Maori,12-15,Female,3021,2727,3376,895,808
+Counties Manukau,Maori,12-15,Male,3081,2740,3533,872,776
+Counties Manukau,Maori,16-19,Female,2667,2415,3118,855,775
+Counties Manukau,Maori,16-19,Male,2704,2383,3142,861,758
+Counties Manukau,Maori,20-24,Female,3170,2892,3957,801,731
+Counties Manukau,Maori,20-24,Male,3132,2771,3608,868,768
+Counties Manukau,Maori,25-29,Female,3144,2871,4029,780,713
+Counties Manukau,Maori,25-29,Male,2688,2416,3278,820,737
+Counties Manukau,Maori,30-34,Female,2941,2684,3437,856,781
+Counties Manukau,Maori,30-34,Male,2391,2134,2767,864,771
+Counties Manukau,Maori,35-39,Female,2219,2070,2571,863,805
+Counties Manukau,Maori,35-39,Male,1735,1578,2039,851,774
+Counties Manukau,Maori,40-44,Female,2112,1986,2411,876,824
+Counties Manukau,Maori,40-44,Male,1702,1597,1943,876,822
+Counties Manukau,Maori,45-49,Female,2195,2108,2559,858,824
+Counties Manukau,Maori,45-49,Male,1814,1726,2171,836,795
+Counties Manukau,Maori,50-54,Female,2278,2174,2443,932,890
+Counties Manukau,Maori,50-54,Male,1894,1817,2024,936,898
+Counties Manukau,Maori,55-59,Female,1917,1864,2128,901,876
+Counties Manukau,Maori,55-59,Male,1678,1624,1799,933,903
+Counties Manukau,Maori,60-64,Female,1516,1490,1579,960,944
+Counties Manukau,Maori,60-64,Male,1246,1225,1260,989,972
+Counties Manukau,Maori,65-69,Female,1034,1015,1076,961,943
+Counties Manukau,Maori,65-69,Male,805,797,829,971,961
+Counties Manukau,Maori,70-74,Female,679,665,681,997,977
+Counties Manukau,Maori,70-74,Male,507,499,516,983,967
+Counties Manukau,Maori,75-79,Female,354,346,399,887,867
+Counties Manukau,Maori,75-79,Male,283,278,273,1037,1018
+Counties Manukau,Maori,80-84,Female,233,227,233,1000,974
+Counties Manukau,Maori,80-84,Male,144,138,150,960,920
+Counties Manukau,Maori,85-89,Female,78,76,89,876,854
+Counties Manukau,Maori,85-89,Male,38,36,39,974,923
+Counties Manukau,Maori,90+,Female,30,30,26,1154,1154
+Counties Manukau,Maori,90+,Male,9,9,9,1000,1000
+Counties Manukau,Pacific Peoples,12-15,Female,5061,4755,5417,934,878
+Counties Manukau,Pacific Peoples,12-15,Male,5129,4821,5577,920,864
+Counties Manukau,Pacific Peoples,16-19,Female,5009,4801,5467,916,878
+Counties Manukau,Pacific Peoples,16-19,Male,4826,4451,5443,887,818
+Counties Manukau,Pacific Peoples,20-24,Female,6345,6014,7193,882,836
+Counties Manukau,Pacific Peoples,20-24,Male,6028,5511,6637,908,830
+Counties Manukau,Pacific Peoples,20-24,Unknown/Other,24,21,6,4000,3500
+Counties Manukau,Pacific Peoples,25-29,Female,5857,5559,6800,861,818
+Counties Manukau,Pacific Peoples,25-29,Male,5440,5002,6045,900,827
+Counties Manukau,Pacific Peoples,30-34,Female,5087,4844,5627,904,861
+Counties Manukau,Pacific Peoples,30-34,Male,4807,4503,5160,932,873
+Counties Manukau,Pacific Peoples,35-39,Female,4508,4348,4921,916,884
+Counties Manukau,Pacific Peoples,35-39,Male,4218,3992,4562,925,875
+Counties Manukau,Pacific Peoples,35-39,Unknown/Other,8,8,5,1600,1600
+Counties Manukau,Pacific Peoples,40-44,Female,4071,3973,4420,921,899
+Counties Manukau,Pacific Peoples,40-44,Male,3979,3835,4196,948,914
+Counties Manukau,Pacific Peoples,40-44,Unknown/Other,13,13,5,2600,2600
+Counties Manukau,Pacific Peoples,45-49,Female,3988,3887,4343,918,895
+Counties Manukau,Pacific Peoples,45-49,Male,3596,3474,3965,907,876
+Counties Manukau,Pacific Peoples,50-54,Female,3971,3906,4367,909,894
+Counties Manukau,Pacific Peoples,50-54,Male,3650,3567,3849,948,927
+Counties Manukau,Pacific Peoples,55-59,Female,3487,3420,3639,958,940
+Counties Manukau,Pacific Peoples,55-59,Male,3170,3116,3317,956,939
+Counties Manukau,Pacific Peoples,60-64,Female,2663,2628,2855,933,920
+Counties Manukau,Pacific Peoples,60-64,Male,2409,2383,2475,973,963
+Counties Manukau,Pacific Peoples,65-69,Female,2011,1990,2099,958,948
+Counties Manukau,Pacific Peoples,65-69,Male,1748,1725,1902,919,907
+Counties Manukau,Pacific Peoples,70-74,Female,1424,1402,1539,925,911
+Counties Manukau,Pacific Peoples,70-74,Male,1230,1216,1370,898,888
+Counties Manukau,Pacific Peoples,75-79,Female,945,924,1005,940,919
+Counties Manukau,Pacific Peoples,75-79,Male,740,723,755,980,958
+Counties Manukau,Pacific Peoples,80-84,Female,509,492,547,931,899
+Counties Manukau,Pacific Peoples,80-84,Male,360,356,410,878,868
+Counties Manukau,Pacific Peoples,85-89,Female,208,199,277,751,718
+Counties Manukau,Pacific Peoples,85-89,Male,108,104,131,824,794
+Counties Manukau,Pacific Peoples,90+,Female,96,93,117,821,795
+Counties Manukau,Pacific Peoples,90+,Male,35,33,42,833,786
+Counties Manukau,Unknown,12-15,Female,31,29,19,1632,1526
+Counties Manukau,Unknown,12-15,Male,53,48,14,3786,3429
+Counties Manukau,Unknown,16-19,Female,61,60,16,3812,3750
+Counties Manukau,Unknown,16-19,Male,51,49,12,4250,4083
+Counties Manukau,Unknown,20-24,Female,80,76,45,1778,1689
+Counties Manukau,Unknown,20-24,Male,115,109,49,2347,2224
+Counties Manukau,Unknown,25-29,Female,138,133,57,2421,2333
+Counties Manukau,Unknown,25-29,Male,154,141,55,2800,2564
+Counties Manukau,Unknown,30-34,Female,130,120,50,2600,2400
+Counties Manukau,Unknown,30-34,Male,195,184,72,2708,2556
+Counties Manukau,Unknown,30-34,Unknown/Other,14,13,5,2800,2600
+Counties Manukau,Unknown,35-39,Female,93,90,43,2163,2093
+Counties Manukau,Unknown,35-39,Male,218,209,86,2535,2430
+Counties Manukau,Unknown,40-44,Female,81,81,70,1157,1157
+Counties Manukau,Unknown,40-44,Male,216,205,109,1982,1881
+Counties Manukau,Unknown,45-49,Female,76,74,40,1900,1850
+Counties Manukau,Unknown,45-49,Male,214,201,134,1597,1500
+Counties Manukau,Unknown,50-54,Female,65,63,40,1625,1575
+Counties Manukau,Unknown,50-54,Male,220,214,163,1350,1313
+Counties Manukau,Unknown,55-59,Female,59,56,41,1439,1366
+Counties Manukau,Unknown,55-59,Male,234,226,183,1279,1235
+Counties Manukau,Unknown,60-64,Female,65,63,35,1857,1800
+Counties Manukau,Unknown,60-64,Male,213,210,169,1260,1243
+Counties Manukau,Unknown,65-69,Female,58,54,38,1526,1421
+Counties Manukau,Unknown,65-69,Male,163,158,136,1199,1162
+Counties Manukau,Unknown,70-74,Female,62,61,51,1216,1196
+Counties Manukau,Unknown,70-74,Male,124,123,107,1159,1150
+Counties Manukau,Unknown,75-79,Female,37,36,41,902,878
+Counties Manukau,Unknown,75-79,Male,55,55,60,917,917
+Counties Manukau,Unknown,80-84,Female,32,31,20,1600,1550
+Counties Manukau,Unknown,80-84,Male,35,35,31,1129,1129
+Counties Manukau,Unknown,85-89,Female,24,23,26,923,885
+Counties Manukau,Unknown,85-89,Male,9,9,12,750,750
+Counties Manukau,Unknown,90+,Female,11,11,9,1222,1222
+Counties Manukau,Unknown,90+,Male,8,8,8,1000,1000
+Hawkes Bay,Asian,12-15,Female,222,208,213,1042,977
+Hawkes Bay,Asian,12-15,Male,239,222,203,1177,1094
+Hawkes Bay,Asian,16-19,Female,177,173,146,1212,1185
+Hawkes Bay,Asian,16-19,Male,185,178,174,1063,1023
+Hawkes Bay,Asian,20-24,Female,218,214,181,1204,1182
+Hawkes Bay,Asian,20-24,Male,261,256,199,1312,1286
+Hawkes Bay,Asian,25-29,Female,491,477,447,1098,1067
+Hawkes Bay,Asian,25-29,Male,660,645,446,1480,1446
+Hawkes Bay,Asian,25-29,Unknown/Other,35,35,5,7000,7000
+Hawkes Bay,Asian,30-34,Female,677,667,576,1175,1158
+Hawkes Bay,Asian,30-34,Male,726,705,529,1372,1333
+Hawkes Bay,Asian,30-34,Unknown/Other,27,26,6,4500,4333
+Hawkes Bay,Asian,35-39,Female,443,433,397,1116,1091
+Hawkes Bay,Asian,35-39,Male,574,568,403,1424,1409
+Hawkes Bay,Asian,40-44,Female,367,358,354,1037,1011
+Hawkes Bay,Asian,40-44,Male,412,402,307,1342,1309
+Hawkes Bay,Asian,45-49,Female,290,286,271,1070,1055
+Hawkes Bay,Asian,45-49,Male,273,272,211,1294,1289
+Hawkes Bay,Asian,50-54,Female,207,205,186,1113,1102
+Hawkes Bay,Asian,50-54,Male,180,175,173,1040,1012
+Hawkes Bay,Asian,55-59,Female,187,182,181,1033,1006
+Hawkes Bay,Asian,55-59,Male,148,148,137,1080,1080
+Hawkes Bay,Asian,60-64,Female,156,153,171,912,895
+Hawkes Bay,Asian,60-64,Male,107,106,100,1070,1060
+Hawkes Bay,Asian,65-69,Female,127,123,130,977,946
+Hawkes Bay,Asian,65-69,Male,71,71,74,959,959
+Hawkes Bay,Asian,70-74,Female,85,84,78,1090,1077
+Hawkes Bay,Asian,70-74,Male,52,52,69,754,754
+Hawkes Bay,Asian,75-79,Female,39,39,51,765,765
+Hawkes Bay,Asian,75-79,Male,38,38,44,864,864
+Hawkes Bay,Asian,80-84,Female,44,44,37,1189,1189
+Hawkes Bay,Asian,80-84,Male,23,23,26,885,885
+Hawkes Bay,Asian,85-89,Female,16,15,16,1000,938
+Hawkes Bay,Asian,85-89,Male,19,19,20,950,950
+Hawkes Bay,European or Other,12-15,Female,2479,2335,2623,945,890
+Hawkes Bay,European or Other,12-15,Male,2475,2314,2646,935,875
+Hawkes Bay,European or Other,16-19,Female,2127,2046,2240,950,913
+Hawkes Bay,European or Other,16-19,Male,2271,2158,2394,949,901
+Hawkes Bay,European or Other,20-24,Female,2137,2069,2335,915,886
+Hawkes Bay,European or Other,20-24,Male,2353,2202,2597,906,848
+Hawkes Bay,European or Other,25-29,Female,2415,2327,2883,838,807
+Hawkes Bay,European or Other,25-29,Male,2403,2278,2705,888,842
+Hawkes Bay,European or Other,25-29,Unknown/Other,7,6,8,875,750
+Hawkes Bay,European or Other,30-34,Female,2777,2652,2972,934,892
+Hawkes Bay,European or Other,30-34,Male,2649,2503,2765,958,905
+Hawkes Bay,European or Other,35-39,Female,2619,2525,3004,872,841
+Hawkes Bay,European or Other,35-39,Male,2488,2372,2739,908,866
+Hawkes Bay,European or Other,40-44,Female,2956,2875,3313,892,868
+Hawkes Bay,European or Other,40-44,Male,2656,2572,2987,889,861
+Hawkes Bay,European or Other,45-49,Female,3576,3509,4128,866,850
+Hawkes Bay,European or Other,45-49,Male,3231,3138,3702,873,848
+Hawkes Bay,European or Other,50-54,Female,3951,3887,4096,965,949
+Hawkes Bay,European or Other,50-54,Male,3684,3587,3928,938,913
+Hawkes Bay,European or Other,55-59,Female,4193,4122,4612,909,894
+Hawkes Bay,European or Other,55-59,Male,3896,3837,4301,906,892
+Hawkes Bay,European or Other,60-64,Female,4172,4115,4361,957,944
+Hawkes Bay,European or Other,60-64,Male,4049,4003,4125,982,970
+Hawkes Bay,European or Other,65-69,Female,3980,3952,4174,954,947
+Hawkes Bay,European or Other,65-69,Male,3660,3627,3822,958,949
+Hawkes Bay,European or Other,70-74,Female,3860,3822,3942,979,970
+Hawkes Bay,European or Other,70-74,Male,3617,3594,3734,969,963
+Hawkes Bay,European or Other,75-79,Female,2772,2749,2792,993,985
+Hawkes Bay,European or Other,75-79,Male,2564,2547,2604,985,978
+Hawkes Bay,European or Other,80-84,Female,2036,2014,1961,1038,1027
+Hawkes Bay,European or Other,80-84,Male,1666,1651,1636,1018,1009
+Hawkes Bay,European or Other,85-89,Female,1195,1179,1242,962,949
+Hawkes Bay,European or Other,85-89,Male,859,842,871,986,967
+Hawkes Bay,European or Other,90+,Female,765,738,791,967,933
+Hawkes Bay,European or Other,90+,Male,422,415,437,966,950
+Hawkes Bay,Maori,12-15,Female,1611,1400,1885,855,743
+Hawkes Bay,Maori,12-15,Male,1530,1311,1828,837,717
+Hawkes Bay,Maori,16-19,Female,1414,1239,1619,873,765
+Hawkes Bay,Maori,16-19,Male,1364,1143,1567,870,729
+Hawkes Bay,Maori,20-24,Female,1499,1286,1857,807,693
+Hawkes Bay,Maori,20-24,Male,1446,1205,1755,824,687
+Hawkes Bay,Maori,25-29,Female,1407,1233,1795,784,687
+Hawkes Bay,Maori,25-29,Male,1332,1143,1624,820,704
+Hawkes Bay,Maori,30-34,Female,1372,1210,1641,836,737
+Hawkes Bay,Maori,30-34,Male,1123,956,1348,833,709
+Hawkes Bay,Maori,35-39,Female,1105,1007,1339,825,752
+Hawkes Bay,Maori,35-39,Male,978,845,1108,883,763
+Hawkes Bay,Maori,40-44,Female,1096,1013,1278,858,793
+Hawkes Bay,Maori,40-44,Male,945,869,1064,888,817
+Hawkes Bay,Maori,45-49,Female,1233,1174,1434,860,819
+Hawkes Bay,Maori,45-49,Male,991,927,1193,831,777
+Hawkes Bay,Maori,50-54,Female,1171,1114,1289,908,864
+Hawkes Bay,Maori,50-54,Male,931,865,1005,926,861
+Hawkes Bay,Maori,55-59,Female,1132,1092,1266,894,863
+Hawkes Bay,Maori,55-59,Male,934,903,1050,890,860
+Hawkes Bay,Maori,60-64,Female,1006,986,1000,1006,986
+Hawkes Bay,Maori,60-64,Male,852,828,850,1002,974
+Hawkes Bay,Maori,65-69,Female,738,725,749,985,968
+Hawkes Bay,Maori,65-69,Male,598,584,621,963,940
+Hawkes Bay,Maori,70-74,Female,507,500,523,969,956
+Hawkes Bay,Maori,70-74,Male,443,438,404,1097,1084
+Hawkes Bay,Maori,75-79,Female,301,297,286,1052,1038
+Hawkes Bay,Maori,75-79,Male,199,193,219,909,881
+Hawkes Bay,Maori,80-84,Female,148,144,183,809,787
+Hawkes Bay,Maori,80-84,Male,116,112,114,1018,982
+Hawkes Bay,Maori,85-89,Female,77,75,89,865,843
+Hawkes Bay,Maori,85-89,Male,44,43,49,898,878
+Hawkes Bay,Maori,90+,Female,23,22,17,1353,1294
+Hawkes Bay,Maori,90+,Male,7,7,9,778,778
+Hawkes Bay,Pacific Peoples,12-15,Female,232,216,253,917,854
+Hawkes Bay,Pacific Peoples,12-15,Male,225,198,245,918,808
+Hawkes Bay,Pacific Peoples,16-19,Female,204,192,224,911,857
+Hawkes Bay,Pacific Peoples,16-19,Male,257,228,240,1071,950
+Hawkes Bay,Pacific Peoples,20-24,Female,252,234,282,894,830
+Hawkes Bay,Pacific Peoples,20-24,Male,529,493,338,1565,1459
+Hawkes Bay,Pacific Peoples,25-29,Female,262,244,261,1004,935
+Hawkes Bay,Pacific Peoples,25-29,Male,656,619,311,2109,1990
+Hawkes Bay,Pacific Peoples,30-34,Female,226,210,239,946,879
+Hawkes Bay,Pacific Peoples,30-34,Male,607,571,278,2183,2054
+Hawkes Bay,Pacific Peoples,35-39,Female,190,175,190,1000,921
+Hawkes Bay,Pacific Peoples,35-39,Male,476,464,257,1852,1805
+Hawkes Bay,Pacific Peoples,40-44,Female,175,164,167,1048,982
+Hawkes Bay,Pacific Peoples,40-44,Male,368,356,207,1778,1720
+Hawkes Bay,Pacific Peoples,45-49,Female,170,166,162,1049,1025
+Hawkes Bay,Pacific Peoples,45-49,Male,258,251,190,1358,1321
+Hawkes Bay,Pacific Peoples,50-54,Female,153,151,174,879,868
+Hawkes Bay,Pacific Peoples,50-54,Male,184,180,167,1102,1078
+Hawkes Bay,Pacific Peoples,55-59,Female,129,126,124,1040,1016
+Hawkes Bay,Pacific Peoples,55-59,Male,126,123,118,1068,1042
+Hawkes Bay,Pacific Peoples,60-64,Female,96,95,99,970,960
+Hawkes Bay,Pacific Peoples,60-64,Male,112,112,119,941,941
+Hawkes Bay,Pacific Peoples,65-69,Female,76,73,78,974,936
+Hawkes Bay,Pacific Peoples,65-69,Male,81,80,73,1110,1096
+Hawkes Bay,Pacific Peoples,70-74,Female,49,47,54,907,870
+Hawkes Bay,Pacific Peoples,70-74,Male,52,48,58,897,828
+Hawkes Bay,Pacific Peoples,75-79,Female,25,24,27,926,889
+Hawkes Bay,Pacific Peoples,75-79,Male,20,18,24,833,750
+Hawkes Bay,Pacific Peoples,80-84,Female,14,14,21,667,667
+Hawkes Bay,Pacific Peoples,80-84,Male,13,13,12,1083,1083
+Hawkes Bay,Pacific Peoples,85-89,Female,12,12,14,857,857
+Hawkes Bay,Pacific Peoples,85-89,Male,7,7,6,1167,1167
+Hawkes Bay,Unknown,12-15,Female,16,15,9,1778,1667
+Hawkes Bay,Unknown,12-15,Male,14,14,5,2800,2800
+Hawkes Bay,Unknown,25-29,Female,48,45,8,6000,5625
+Hawkes Bay,Unknown,25-29,Male,69,52,15,4600,3467
+Hawkes Bay,Unknown,30-34,Female,47,47,11,4273,4273
+Hawkes Bay,Unknown,30-34,Male,96,81,17,5647,4765
+Hawkes Bay,Unknown,35-39,Female,33,31,13,2538,2385
+Hawkes Bay,Unknown,35-39,Male,72,58,19,3789,3053
+Hawkes Bay,Unknown,40-44,Female,29,29,5,5800,5800
+Hawkes Bay,Unknown,40-44,Male,79,70,29,2724,2414
+Hawkes Bay,Unknown,45-49,Female,15,15,8,1875,1875
+Hawkes Bay,Unknown,45-49,Male,71,66,35,2029,1886
+Hawkes Bay,Unknown,50-54,Female,18,16,10,1800,1600
+Hawkes Bay,Unknown,50-54,Male,66,59,28,2357,2107
+Hawkes Bay,Unknown,55-59,Female,20,20,18,1111,1111
+Hawkes Bay,Unknown,55-59,Male,52,49,25,2080,1960
+Hawkes Bay,Unknown,60-64,Female,14,13,13,1077,1000
+Hawkes Bay,Unknown,60-64,Male,40,38,23,1739,1652
+Hawkes Bay,Unknown,65-69,Female,26,26,20,1300,1300
+Hawkes Bay,Unknown,65-69,Male,42,41,37,1135,1108
+Hawkes Bay,Unknown,70-74,Female,20,19,14,1429,1357
+Hawkes Bay,Unknown,70-74,Male,30,29,22,1364,1318
+Hawkes Bay,Unknown,75-79,Male,11,8,10,1100,800
+Hutt Valley,Asian,12-15,Female,503,486,440,1143,1105
+Hutt Valley,Asian,12-15,Male,477,460,436,1094,1055
+Hutt Valley,Asian,16-19,Female,404,398,373,1083,1067
+Hutt Valley,Asian,16-19,Male,407,403,378,1077,1066
+Hutt Valley,Asian,20-24,Female,466,461,438,1064,1053
+Hutt Valley,Asian,20-24,Male,569,562,510,1116,1102
+Hutt Valley,Asian,25-29,Female,947,941,951,996,989
+Hutt Valley,Asian,25-29,Male,1144,1136,935,1224,1215
+Hutt Valley,Asian,30-34,Female,1479,1465,1442,1026,1016
+Hutt Valley,Asian,30-34,Male,1337,1319,1146,1167,1151
+Hutt Valley,Asian,35-39,Female,1249,1229,1214,1029,1012
+Hutt Valley,Asian,35-39,Male,1334,1322,1204,1108,1098
+Hutt Valley,Asian,40-44,Female,867,860,806,1076,1067
+Hutt Valley,Asian,40-44,Male,894,887,768,1164,1155
+Hutt Valley,Asian,45-49,Female,675,662,682,990,971
+Hutt Valley,Asian,45-49,Male,632,626,585,1080,1070
+Hutt Valley,Asian,50-54,Female,571,563,566,1009,995
+Hutt Valley,Asian,50-54,Male,512,506,464,1103,1091
+Hutt Valley,Asian,55-59,Female,520,517,555,937,932
+Hutt Valley,Asian,55-59,Male,402,399,388,1036,1028
+Hutt Valley,Asian,60-64,Female,479,475,504,950,942
+Hutt Valley,Asian,60-64,Male,331,330,387,855,853
+Hutt Valley,Asian,65-69,Female,404,401,439,920,913
+Hutt Valley,Asian,65-69,Male,334,328,339,985,968
+Hutt Valley,Asian,70-74,Female,272,271,261,1042,1038
+Hutt Valley,Asian,70-74,Male,221,220,229,965,961
+Hutt Valley,Asian,75-79,Female,133,132,154,864,857
+Hutt Valley,Asian,75-79,Male,123,121,126,976,960
+Hutt Valley,Asian,80-84,Female,116,114,119,975,958
+Hutt Valley,Asian,80-84,Male,93,90,90,1033,1000
+Hutt Valley,Asian,85-89,Female,58,57,56,1036,1018
+Hutt Valley,Asian,85-89,Male,45,43,46,978,935
+Hutt Valley,Asian,90+,Female,25,25,23,1087,1087
+Hutt Valley,Asian,90+,Male,12,12,12,1000,1000
+Hutt Valley,European or Other,12-15,Female,2055,1983,2072,992,957
+Hutt Valley,European or Other,12-15,Male,2188,2100,2212,989,949
+Hutt Valley,European or Other,16-19,Female,1808,1774,1958,923,906
+Hutt Valley,European or Other,16-19,Male,1979,1910,2133,928,895
+Hutt Valley,European or Other,16-19,Unknown/Other,6,6,8,750,750
+Hutt Valley,European or Other,20-24,Female,2148,2091,2384,901,877
+Hutt Valley,European or Other,20-24,Male,2348,2281,2446,960,933
+Hutt Valley,European or Other,25-29,Female,2625,2566,3001,875,855
+Hutt Valley,European or Other,25-29,Male,2516,2423,2823,891,858
+Hutt Valley,European or Other,30-34,Female,3101,3031,3348,926,905
+Hutt Valley,European or Other,30-34,Male,2876,2769,3142,915,881
+Hutt Valley,European or Other,35-39,Female,3021,2958,3223,937,918
+Hutt Valley,European or Other,35-39,Male,2843,2759,2985,952,924
+Hutt Valley,European or Other,40-44,Female,3012,2964,3212,938,923
+Hutt Valley,European or Other,40-44,Male,2882,2814,2968,971,948
+Hutt Valley,European or Other,45-49,Female,3207,3153,3631,883,868
+Hutt Valley,European or Other,45-49,Male,3151,3087,3477,906,888
+Hutt Valley,European or Other,50-54,Female,3412,3366,3544,963,950
+Hutt Valley,European or Other,50-54,Male,3461,3403,3593,963,947
+Hutt Valley,European or Other,55-59,Female,3301,3274,3580,922,915
+Hutt Valley,European or Other,55-59,Male,3247,3192,3530,920,904
+Hutt Valley,European or Other,60-64,Female,3180,3153,3229,985,976
+Hutt Valley,European or Other,60-64,Male,3228,3186,3284,983,970
+Hutt Valley,European or Other,65-69,Female,2438,2422,2505,973,967
+Hutt Valley,European or Other,65-69,Male,2480,2451,2504,990,979
+Hutt Valley,European or Other,70-74,Female,2333,2316,2458,949,942
+Hutt Valley,European or Other,70-74,Male,2207,2192,2241,985,978
+Hutt Valley,European or Other,75-79,Female,1837,1819,1873,981,971
+Hutt Valley,European or Other,75-79,Male,1477,1465,1605,920,913
+Hutt Valley,European or Other,80-84,Female,1409,1393,1396,1009,998
+Hutt Valley,European or Other,80-84,Male,1085,1075,1027,1056,1047
+Hutt Valley,European or Other,85-89,Female,882,861,914,965,942
+Hutt Valley,European or Other,85-89,Male,563,547,598,941,915
+Hutt Valley,European or Other,90+,Female,568,541,579,981,934
+Hutt Valley,European or Other,90+,Male,307,294,274,1120,1073
+Hutt Valley,Maori,12-15,Female,760,665,869,875,765
+Hutt Valley,Maori,12-15,Male,894,786,993,900,792
+Hutt Valley,Maori,16-19,Female,769,698,843,912,828
+Hutt Valley,Maori,16-19,Male,779,687,882,883,779
+Hutt Valley,Maori,20-24,Female,886,797,1080,820,738
+Hutt Valley,Maori,20-24,Male,1002,898,1087,922,826
+Hutt Valley,Maori,25-29,Female,922,846,1086,849,779
+Hutt Valley,Maori,25-29,Male,853,756,979,871,772
+Hutt Valley,Maori,30-34,Female,798,751,942,847,797
+Hutt Valley,Maori,30-34,Male,835,745,935,893,797
+Hutt Valley,Maori,35-39,Female,749,702,819,915,857
+Hutt Valley,Maori,35-39,Male,640,586,695,921,843
+Hutt Valley,Maori,40-44,Female,655,620,755,868,821
+Hutt Valley,Maori,40-44,Male,635,583,695,914,839
+Hutt Valley,Maori,45-49,Female,714,680,791,903,860
+Hutt Valley,Maori,45-49,Male,618,588,676,914,870
+Hutt Valley,Maori,50-54,Female,677,654,718,943,911
+Hutt Valley,Maori,50-54,Male,578,556,592,976,939
+Hutt Valley,Maori,55-59,Female,578,569,626,923,909
+Hutt Valley,Maori,55-59,Male,557,542,589,946,920
+Hutt Valley,Maori,60-64,Female,532,520,547,973,951
+Hutt Valley,Maori,60-64,Male,463,454,473,979,960
+Hutt Valley,Maori,65-69,Female,348,345,342,1018,1009
+Hutt Valley,Maori,65-69,Male,292,285,323,904,882
+Hutt Valley,Maori,70-74,Female,217,216,202,1074,1069
+Hutt Valley,Maori,70-74,Male,205,202,191,1073,1058
+Hutt Valley,Maori,75-79,Female,111,108,124,895,871
+Hutt Valley,Maori,75-79,Male,106,103,111,955,928
+Hutt Valley,Maori,80-84,Female,59,59,59,1000,1000
+Hutt Valley,Maori,80-84,Male,50,48,38,1316,1263
+Hutt Valley,Maori,85-89,Female,25,25,24,1042,1042
+Hutt Valley,Maori,85-89,Male,18,18,15,1200,1200
+Hutt Valley,Maori,90+,Female,12,12,9,1333,1333
+Hutt Valley,Pacific Peoples,12-15,Female,421,384,392,1074,980
+Hutt Valley,Pacific Peoples,12-15,Male,431,391,463,931,844
+Hutt Valley,Pacific Peoples,16-19,Female,348,332,411,847,808
+Hutt Valley,Pacific Peoples,16-19,Male,408,370,411,993,900
+Hutt Valley,Pacific Peoples,20-24,Female,440,407,487,903,836
+Hutt Valley,Pacific Peoples,20-24,Male,466,430,500,932,860
+Hutt Valley,Pacific Peoples,25-29,Female,428,404,479,894,843
+Hutt Valley,Pacific Peoples,25-29,Male,431,394,480,898,821
+Hutt Valley,Pacific Peoples,30-34,Female,406,384,477,851,805
+Hutt Valley,Pacific Peoples,30-34,Male,398,377,457,871,825
+Hutt Valley,Pacific Peoples,35-39,Female,413,396,453,912,874
+Hutt Valley,Pacific Peoples,35-39,Male,390,366,423,922,865
+Hutt Valley,Pacific Peoples,40-44,Female,381,371,405,941,916
+Hutt Valley,Pacific Peoples,40-44,Male,398,380,428,930,888
+Hutt Valley,Pacific Peoples,45-49,Female,361,349,385,938,906
+Hutt Valley,Pacific Peoples,45-49,Male,385,376,382,1008,984
+Hutt Valley,Pacific Peoples,50-54,Female,339,327,353,960,926
+Hutt Valley,Pacific Peoples,50-54,Male,346,337,364,951,926
+Hutt Valley,Pacific Peoples,55-59,Female,306,299,304,1007,984
+Hutt Valley,Pacific Peoples,55-59,Male,304,300,305,997,984
+Hutt Valley,Pacific Peoples,60-64,Female,236,228,254,929,898
+Hutt Valley,Pacific Peoples,60-64,Male,224,222,224,1000,991
+Hutt Valley,Pacific Peoples,65-69,Female,201,200,220,914,909
+Hutt Valley,Pacific Peoples,65-69,Male,194,190,224,866,848
+Hutt Valley,Pacific Peoples,70-74,Female,141,139,150,940,927
+Hutt Valley,Pacific Peoples,70-74,Male,139,139,142,979,979
+Hutt Valley,Pacific Peoples,75-79,Female,104,103,98,1061,1051
+Hutt Valley,Pacific Peoples,75-79,Male,81,79,92,880,859
+Hutt Valley,Pacific Peoples,80-84,Female,48,45,53,906,849
+Hutt Valley,Pacific Peoples,80-84,Male,34,33,27,1259,1222
+Hutt Valley,Pacific Peoples,85-89,Female,22,22,25,880,880
+Hutt Valley,Pacific Peoples,85-89,Male,9,8,13,692,615
+Hutt Valley,Pacific Peoples,90+,Female,9,8,9,1000,889
+Hutt Valley,Unknown,20-24,Female,15,15,7,2143,2143
+Hutt Valley,Unknown,20-24,Male,11,11,5,2200,2200
+Hutt Valley,Unknown,25-29,Female,26,25,12,2167,2083
+Hutt Valley,Unknown,25-29,Male,22,22,15,1467,1467
+Hutt Valley,Unknown,30-34,Female,24,21,15,1600,1400
+Hutt Valley,Unknown,30-34,Male,45,41,18,2500,2278
+Hutt Valley,Unknown,35-39,Female,29,27,14,2071,1929
+Hutt Valley,Unknown,35-39,Male,50,49,30,1667,1633
+Hutt Valley,Unknown,40-44,Female,20,19,9,2222,2111
+Hutt Valley,Unknown,40-44,Male,57,52,23,2478,2261
+Hutt Valley,Unknown,45-49,Female,17,17,12,1417,1417
+Hutt Valley,Unknown,45-49,Male,34,32,19,1789,1684
+Hutt Valley,Unknown,50-54,Female,10,10,7,1429,1429
+Hutt Valley,Unknown,50-54,Male,44,43,27,1630,1593
+Hutt Valley,Unknown,55-59,Female,12,12,18,667,667
+Hutt Valley,Unknown,55-59,Male,47,47,29,1621,1621
+Hutt Valley,Unknown,60-64,Female,19,17,16,1188,1062
+Hutt Valley,Unknown,60-64,Male,42,41,27,1556,1519
+Hutt Valley,Unknown,65-69,Female,13,13,10,1300,1300
+Hutt Valley,Unknown,65-69,Male,26,25,20,1300,1250
+Hutt Valley,Unknown,70-74,Male,17,15,10,1700,1500
+Hutt Valley,Unknown,80-84,Male,6,6,5,1200,1200
+Lakes,Asian,12-15,Female,187,182,184,1016,989
+Lakes,Asian,12-15,Male,173,165,167,1036,988
+Lakes,Asian,16-19,Female,137,137,121,1132,1132
+Lakes,Asian,16-19,Male,177,174,143,1238,1217
+Lakes,Asian,20-24,Female,188,185,155,1213,1194
+Lakes,Asian,20-24,Male,370,365,207,1787,1763
+Lakes,Asian,25-29,Female,460,457,469,981,974
+Lakes,Asian,25-29,Male,708,694,482,1469,1440
+Lakes,Asian,30-34,Female,641,632,596,1076,1060
+Lakes,Asian,30-34,Male,652,643,523,1247,1229
+Lakes,Asian,35-39,Female,499,495,436,1144,1135
+Lakes,Asian,35-39,Male,540,535,437,1236,1224
+Lakes,Asian,40-44,Female,307,302,321,956,941
+Lakes,Asian,40-44,Male,361,359,307,1176,1169
+Lakes,Asian,45-49,Female,310,305,291,1065,1048
+Lakes,Asian,45-49,Male,224,222,211,1062,1052
+Lakes,Asian,50-54,Female,227,227,209,1086,1086
+Lakes,Asian,50-54,Male,166,165,147,1129,1122
+Lakes,Asian,55-59,Female,199,199,207,961,961
+Lakes,Asian,55-59,Male,126,122,110,1145,1109
+Lakes,Asian,60-64,Female,161,161,153,1052,1052
+Lakes,Asian,60-64,Male,89,89,95,937,937
+Lakes,Asian,65-69,Female,116,114,117,991,974
+Lakes,Asian,65-69,Male,68,68,73,932,932
+Lakes,Asian,70-74,Female,58,57,64,906,891
+Lakes,Asian,70-74,Male,42,41,56,750,732
+Lakes,Asian,75-79,Female,18,18,29,621,621
+Lakes,Asian,75-79,Male,18,18,21,857,857
+Lakes,Asian,80-84,Female,21,21,13,1615,1615
+Lakes,Asian,80-84,Male,15,14,23,652,609
+Lakes,Asian,85-89,Female,5,5,6,833,833
+Lakes,Asian,85-89,Male,9,9,9,1000,1000
+Lakes,Asian,90+,Female,6,6,8,750,750
+Lakes,European or Other,12-15,Female,1280,1196,1379,928,867
+Lakes,European or Other,12-15,Male,1460,1365,1491,979,915
+Lakes,European or Other,16-19,Female,1122,1084,1221,919,888
+Lakes,European or Other,16-19,Male,1218,1155,1306,933,884
+Lakes,European or Other,20-24,Female,1164,1131,1373,848,824
+Lakes,European or Other,20-24,Male,1324,1249,1464,904,853
+Lakes,European or Other,25-29,Female,1381,1326,1700,812,780
+Lakes,European or Other,25-29,Male,1301,1237,1572,828,787
+Lakes,European or Other,30-34,Female,1612,1544,1853,870,833
+Lakes,European or Other,30-34,Male,1444,1378,1631,885,845
+Lakes,European or Other,35-39,Female,1527,1478,1686,906,877
+Lakes,European or Other,35-39,Male,1425,1367,1581,901,865
+Lakes,European or Other,40-44,Female,1663,1615,1908,872,846
+Lakes,European or Other,40-44,Male,1487,1429,1693,878,844
+Lakes,European or Other,45-49,Female,1856,1809,2174,854,832
+Lakes,European or Other,45-49,Male,1828,1785,2133,857,837
+Lakes,European or Other,50-54,Female,2086,2044,2257,924,906
+Lakes,European or Other,50-54,Male,2062,2012,2187,943,920
+Lakes,European or Other,55-59,Female,2251,2222,2489,904,893
+Lakes,European or Other,55-59,Male,2165,2132,2436,889,875
+Lakes,European or Other,60-64,Female,2203,2165,2283,965,948
+Lakes,European or Other,60-64,Male,2174,2147,2266,959,947
+Lakes,European or Other,65-69,Female,2093,2078,2198,952,945
+Lakes,European or Other,65-69,Male,2021,2004,2123,952,944
+Lakes,European or Other,70-74,Female,2066,2045,2116,976,966
+Lakes,European or Other,70-74,Male,2038,2023,2084,978,971
+Lakes,European or Other,75-79,Female,1444,1436,1499,963,958
+Lakes,European or Other,75-79,Male,1360,1350,1405,968,961
+Lakes,European or Other,80-84,Female,983,973,959,1025,1015
+Lakes,European or Other,80-84,Male,894,885,846,1057,1046
+Lakes,European or Other,85-89,Female,591,577,634,932,910
+Lakes,European or Other,85-89,Male,434,428,449,967,953
+Lakes,European or Other,90+,Female,380,361,386,984,935
+Lakes,European or Other,90+,Male,202,195,212,953,920
+Lakes,Maori,12-15,Female,1321,1122,1532,862,732
+Lakes,Maori,12-15,Male,1351,1155,1625,831,711
+Lakes,Maori,16-19,Female,1110,988,1307,849,756
+Lakes,Maori,16-19,Male,1160,1001,1403,827,713
+Lakes,Maori,20-24,Female,1205,1050,1591,757,660
+Lakes,Maori,20-24,Male,1201,1010,1449,829,697
+Lakes,Maori,25-29,Female,1161,997,1539,754,648
+Lakes,Maori,25-29,Male,1088,924,1398,778,661
+Lakes,Maori,30-34,Female,1221,1085,1514,806,717
+Lakes,Maori,30-34,Male,1089,932,1251,871,745
+Lakes,Maori,35-39,Female,1032,945,1197,862,789
+Lakes,Maori,35-39,Male,831,752,1029,808,731
+Lakes,Maori,40-44,Female,1000,927,1139,878,814
+Lakes,Maori,40-44,Male,836,748,955,875,783
+Lakes,Maori,45-49,Female,1051,994,1224,859,812
+Lakes,Maori,45-49,Male,894,832,1055,847,789
+Lakes,Maori,50-54,Female,1094,1050,1177,929,892
+Lakes,Maori,50-54,Male,905,850,967,936,879
+Lakes,Maori,55-59,Female,998,965,1178,847,819
+Lakes,Maori,55-59,Male,848,817,937,905,872
+Lakes,Maori,60-64,Female,949,926,970,978,955
+Lakes,Maori,60-64,Male,785,769,812,967,947
+Lakes,Maori,65-69,Female,642,627,656,979,956
+Lakes,Maori,65-69,Male,518,507,511,1014,992
+Lakes,Maori,70-74,Female,455,447,444,1025,1007
+Lakes,Maori,70-74,Male,351,348,337,1042,1033
+Lakes,Maori,75-79,Female,252,245,272,926,901
+Lakes,Maori,75-79,Male,190,188,185,1027,1016
+Lakes,Maori,80-84,Female,165,161,165,1000,976
+Lakes,Maori,80-84,Male,105,102,107,981,953
+Lakes,Maori,85-89,Female,67,66,66,1015,1000
+Lakes,Maori,85-89,Male,44,44,47,936,936
+Lakes,Maori,90+,Female,27,25,33,818,758
+Lakes,Maori,90+,Male,13,12,10,1300,1200
+Lakes,Pacific Peoples,12-15,Female,76,72,88,864,818
+Lakes,Pacific Peoples,12-15,Male,76,66,86,884,767
+Lakes,Pacific Peoples,16-19,Female,70,65,81,864,802
+Lakes,Pacific Peoples,16-19,Male,92,85,89,1034,955
+Lakes,Pacific Peoples,20-24,Female,93,87,97,959,897
+Lakes,Pacific Peoples,20-24,Male,91,82,99,919,828
+Lakes,Pacific Peoples,25-29,Female,88,84,118,746,712
+Lakes,Pacific Peoples,25-29,Male,122,112,133,917,842
+Lakes,Pacific Peoples,30-34,Female,100,94,110,909,855
+Lakes,Pacific Peoples,30-34,Male,119,109,131,908,832
+Lakes,Pacific Peoples,35-39,Female,90,86,93,968,925
+Lakes,Pacific Peoples,35-39,Male,118,110,121,975,909
+Lakes,Pacific Peoples,40-44,Female,91,88,103,883,854
+Lakes,Pacific Peoples,40-44,Male,93,86,101,921,851
+Lakes,Pacific Peoples,45-49,Female,78,78,90,867,867
+Lakes,Pacific Peoples,45-49,Male,95,90,93,1022,968
+Lakes,Pacific Peoples,50-54,Female,68,68,85,800,800
+Lakes,Pacific Peoples,50-54,Male,83,80,90,922,889
+Lakes,Pacific Peoples,55-59,Female,75,75,76,987,987
+Lakes,Pacific Peoples,55-59,Male,73,70,70,1043,1000
+Lakes,Pacific Peoples,60-64,Female,59,58,66,894,879
+Lakes,Pacific Peoples,60-64,Male,61,61,66,924,924
+Lakes,Pacific Peoples,65-69,Female,44,44,38,1158,1158
+Lakes,Pacific Peoples,65-69,Male,53,53,46,1152,1152
+Lakes,Pacific Peoples,70-74,Female,26,25,22,1182,1136
+Lakes,Pacific Peoples,70-74,Male,29,29,23,1261,1261
+Lakes,Pacific Peoples,75-79,Female,13,13,18,722,722
+Lakes,Pacific Peoples,75-79,Male,10,9,16,625,562
+Lakes,Pacific Peoples,80-84,Female,10,10,14,714,714
+Lakes,Pacific Peoples,80-84,Male,12,12,7,1714,1714
+Lakes,Pacific Peoples,85-89,Female,6,6,9,667,667
+Lakes,Pacific Peoples,85-89,Male,5,0,5,1000,800
+Lakes,Unknown,20-24,Female,16,16,9,1778,1778
+Lakes,Unknown,20-24,Male,17,16,8,2125,2000
+Lakes,Unknown,25-29,Female,28,28,23,1217,1217
+Lakes,Unknown,25-29,Male,44,42,16,2750,2625
+Lakes,Unknown,30-34,Female,30,29,31,968,935
+Lakes,Unknown,30-34,Male,49,48,40,1225,1200
+Lakes,Unknown,35-39,Female,38,37,30,1267,1233
+Lakes,Unknown,35-39,Male,43,41,29,1483,1414
+Lakes,Unknown,40-44,Female,24,23,30,800,767
+Lakes,Unknown,40-44,Male,41,40,38,1079,1053
+Lakes,Unknown,45-49,Female,16,16,9,1778,1778
+Lakes,Unknown,45-49,Male,59,55,46,1283,1196
+Lakes,Unknown,50-54,Female,11,11,12,917,917
+Lakes,Unknown,50-54,Male,56,51,49,1143,1041
+Lakes,Unknown,55-59,Female,16,15,12,1333,1250
+Lakes,Unknown,55-59,Male,50,49,43,1163,1140
+Lakes,Unknown,60-64,Female,18,17,20,900,850
+Lakes,Unknown,60-64,Male,56,52,36,1556,1444
+Lakes,Unknown,65-69,Female,22,20,16,1375,1250
+Lakes,Unknown,65-69,Male,54,52,37,1459,1405
+Lakes,Unknown,70-74,Female,20,20,18,1111,1111
+Lakes,Unknown,70-74,Male,43,41,31,1387,1323
+Lakes,Unknown,75-79,Female,8,7,6,1333,1167
+Lakes,Unknown,75-79,Male,14,13,15,933,867
+Lakes,Unknown,80-84,Male,11,11,6,1833,1833
+Lakes,Unknown,85-89,Female,6,6,8,750,750
+MidCentral,Asian,12-15,Female,342,325,316,1082,1028
+MidCentral,Asian,12-15,Male,351,339,332,1057,1021
+MidCentral,Asian,16-19,Female,303,296,268,1131,1104
+MidCentral,Asian,16-19,Male,366,357,302,1212,1182
+MidCentral,Asian,20-24,Female,482,476,361,1335,1319
+MidCentral,Asian,20-24,Male,516,511,326,1583,1567
+MidCentral,Asian,25-29,Female,649,644,596,1089,1081
+MidCentral,Asian,25-29,Male,735,727,517,1422,1406
+MidCentral,Asian,30-34,Female,858,845,813,1055,1039
+MidCentral,Asian,30-34,Male,797,786,610,1307,1289
+MidCentral,Asian,35-39,Female,713,704,675,1056,1043
+MidCentral,Asian,35-39,Male,728,723,609,1195,1187
+MidCentral,Asian,40-44,Female,554,540,532,1041,1015
+MidCentral,Asian,40-44,Male,545,538,453,1203,1188
+MidCentral,Asian,45-49,Female,430,426,424,1014,1005
+MidCentral,Asian,45-49,Male,380,375,328,1159,1143
+MidCentral,Asian,50-54,Female,321,316,325,988,972
+MidCentral,Asian,50-54,Male,273,270,253,1079,1067
+MidCentral,Asian,55-59,Female,315,310,317,994,978
+MidCentral,Asian,55-59,Male,209,209,232,901,901
+MidCentral,Asian,60-64,Female,272,267,281,968,950
+MidCentral,Asian,60-64,Male,201,196,211,953,929
+MidCentral,Asian,65-69,Female,217,215,232,935,927
+MidCentral,Asian,65-69,Male,156,155,151,1033,1026
+MidCentral,Asian,70-74,Female,146,146,151,967,967
+MidCentral,Asian,70-74,Male,119,119,134,888,888
+MidCentral,Asian,75-79,Female,95,94,92,1033,1022
+MidCentral,Asian,75-79,Male,75,74,71,1056,1042
+MidCentral,Asian,80-84,Female,38,38,57,667,667
+MidCentral,Asian,80-84,Male,45,45,51,882,882
+MidCentral,Asian,85-89,Female,25,24,31,806,774
+MidCentral,Asian,85-89,Male,24,23,18,1333,1278
+MidCentral,Asian,90+,Female,18,17,15,1200,1133
+MidCentral,Asian,90+,Male,8,8,7,1143,1143
+MidCentral,European or Other,12-15,Female,2820,2661,2954,955,901
+MidCentral,European or Other,12-15,Male,2896,2734,3089,938,885
+MidCentral,European or Other,16-19,Female,2709,2625,2913,930,901
+MidCentral,European or Other,16-19,Male,2746,2617,2949,931,887
+MidCentral,European or Other,20-24,Female,3538,3428,3906,906,878
+MidCentral,European or Other,20-24,Male,3512,3351,3688,952,909
+MidCentral,European or Other,25-29,Female,3309,3185,3899,849,817
+MidCentral,European or Other,25-29,Male,3571,3407,3741,955,911
+MidCentral,European or Other,30-34,Female,3423,3292,3762,910,875
+MidCentral,European or Other,30-34,Male,3295,3139,3409,967,921
+MidCentral,European or Other,35-39,Female,3248,3147,3534,919,890
+MidCentral,European or Other,35-39,Male,2994,2858,3124,958,915
+MidCentral,European or Other,40-44,Female,3249,3160,3541,918,892
+MidCentral,European or Other,40-44,Male,3000,2896,3150,952,919
+MidCentral,European or Other,45-49,Female,3674,3605,4229,869,852
+MidCentral,European or Other,45-49,Male,3358,3273,3792,886,863
+MidCentral,European or Other,50-54,Female,4235,4158,4518,937,920
+MidCentral,European or Other,50-54,Male,3761,3665,4105,916,893
+MidCentral,European or Other,55-59,Female,4491,4424,4879,920,907
+MidCentral,European or Other,55-59,Male,4242,4166,4655,911,895
+MidCentral,European or Other,60-64,Female,4472,4432,4708,950,941
+MidCentral,European or Other,60-64,Male,4347,4286,4403,987,973
+MidCentral,European or Other,65-69,Female,4117,4071,4310,955,945
+MidCentral,European or Other,65-69,Male,3844,3814,4098,938,931
+MidCentral,European or Other,70-74,Female,4004,3975,4052,988,981
+MidCentral,European or Other,70-74,Male,3627,3590,3778,960,950
+MidCentral,European or Other,75-79,Female,2923,2885,2992,977,964
+MidCentral,European or Other,75-79,Male,2746,2719,2763,994,984
+MidCentral,European or Other,80-84,Female,2117,2088,2125,996,983
+MidCentral,European or Other,80-84,Male,1827,1810,1780,1026,1017
+MidCentral,European or Other,85-89,Female,1288,1263,1363,945,927
+MidCentral,European or Other,85-89,Male,886,872,926,957,942
+MidCentral,European or Other,90+,Female,833,803,837,995,959
+MidCentral,European or Other,90+,Male,440,420,432,1019,972
+MidCentral,Maori,12-15,Female,1144,1004,1306,876,769
+MidCentral,Maori,12-15,Male,1237,1065,1421,871,749
+MidCentral,Maori,16-19,Female,1077,955,1196,901,798
+MidCentral,Maori,16-19,Male,1045,910,1158,902,786
+MidCentral,Maori,20-24,Female,1246,1141,1439,866,793
+MidCentral,Maori,20-24,Male,1242,1104,1357,915,814
+MidCentral,Maori,25-29,Female,1058,960,1338,791,717
+MidCentral,Maori,25-29,Male,1108,974,1196,926,814
+MidCentral,Maori,30-34,Female,1069,968,1203,889,805
+MidCentral,Maori,30-34,Male,892,787,969,921,812
+MidCentral,Maori,35-39,Female,834,756,957,871,790
+MidCentral,Maori,35-39,Male,689,613,765,901,801
+MidCentral,Maori,40-44,Female,769,718,875,879,821
+MidCentral,Maori,40-44,Male,685,628,725,945,866
+MidCentral,Maori,45-49,Female,849,808,971,874,832
+MidCentral,Maori,45-49,Male,702,658,763,920,862
+MidCentral,Maori,50-54,Female,847,808,900,941,898
+MidCentral,Maori,50-54,Male,692,659,734,943,898
+MidCentral,Maori,55-59,Female,862,824,917,940,899
+MidCentral,Maori,55-59,Male,637,611,708,900,863
+MidCentral,Maori,60-64,Female,663,645,701,946,920
+MidCentral,Maori,60-64,Male,550,523,548,1004,954
+MidCentral,Maori,65-69,Female,488,482,477,1023,1010
+MidCentral,Maori,65-69,Male,389,379,372,1046,1019
+MidCentral,Maori,70-74,Female,343,336,310,1106,1084
+MidCentral,Maori,70-74,Male,277,273,262,1057,1042
+MidCentral,Maori,75-79,Female,202,195,209,967,933
+MidCentral,Maori,75-79,Male,158,154,157,1006,981
+MidCentral,Maori,80-84,Female,119,117,114,1044,1026
+MidCentral,Maori,80-84,Male,80,79,76,1053,1039
+MidCentral,Maori,85-89,Female,49,48,45,1089,1067
+MidCentral,Maori,85-89,Male,25,25,27,926,926
+MidCentral,Maori,90+,Female,17,14,19,895,737
+MidCentral,Maori,90+,Male,7,6,8,875,750
+MidCentral,Pacific Peoples,12-15,Female,219,206,219,1000,941
+MidCentral,Pacific Peoples,12-15,Male,220,200,260,846,769
+MidCentral,Pacific Peoples,16-19,Female,193,177,193,1000,917
+MidCentral,Pacific Peoples,16-19,Male,238,220,210,1133,1048
+MidCentral,Pacific Peoples,20-24,Female,249,240,272,915,882
+MidCentral,Pacific Peoples,20-24,Male,256,234,231,1108,1013
+MidCentral,Pacific Peoples,25-29,Female,231,215,235,983,915
+MidCentral,Pacific Peoples,25-29,Male,254,236,258,984,915
+MidCentral,Pacific Peoples,30-34,Female,202,188,225,898,836
+MidCentral,Pacific Peoples,30-34,Male,235,224,218,1078,1028
+MidCentral,Pacific Peoples,35-39,Female,187,179,211,886,848
+MidCentral,Pacific Peoples,35-39,Male,185,177,208,889,851
+MidCentral,Pacific Peoples,40-44,Female,149,142,160,931,888
+MidCentral,Pacific Peoples,40-44,Male,185,173,168,1101,1030
+MidCentral,Pacific Peoples,45-49,Female,142,136,138,1029,986
+MidCentral,Pacific Peoples,45-49,Male,146,138,161,907,857
+MidCentral,Pacific Peoples,50-54,Female,133,131,130,1023,1008
+MidCentral,Pacific Peoples,50-54,Male,145,138,154,942,896
+MidCentral,Pacific Peoples,55-59,Female,117,114,129,907,884
+MidCentral,Pacific Peoples,55-59,Male,126,125,119,1059,1050
+MidCentral,Pacific Peoples,60-64,Female,102,97,100,1020,970
+MidCentral,Pacific Peoples,60-64,Male,70,69,80,875,862
+MidCentral,Pacific Peoples,65-69,Female,83,81,92,902,880
+MidCentral,Pacific Peoples,65-69,Male,69,67,66,1045,1015
+MidCentral,Pacific Peoples,70-74,Female,60,58,61,984,951
+MidCentral,Pacific Peoples,70-74,Male,53,53,56,946,946
+MidCentral,Pacific Peoples,75-79,Female,33,32,29,1138,1103
+MidCentral,Pacific Peoples,75-79,Male,36,36,31,1161,1161
+MidCentral,Pacific Peoples,80-84,Female,18,18,24,750,750
+MidCentral,Pacific Peoples,80-84,Male,15,14,15,1000,933
+MidCentral,Pacific Peoples,85-89,Female,9,9,8,1125,1125
+MidCentral,Unknown,12-15,Female,16,13,6,2667,2167
+MidCentral,Unknown,12-15,Male,14,13,10,1400,1300
+MidCentral,Unknown,16-19,Female,14,13,5,2800,2600
+MidCentral,Unknown,16-19,Male,23,22,14,1643,1571
+MidCentral,Unknown,20-24,Female,24,23,14,1714,1643
+MidCentral,Unknown,20-24,Male,29,26,19,1526,1368
+MidCentral,Unknown,25-29,Female,50,49,22,2273,2227
+MidCentral,Unknown,25-29,Male,56,52,30,1867,1733
+MidCentral,Unknown,30-34,Female,51,49,26,1962,1885
+MidCentral,Unknown,30-34,Male,82,77,61,1344,1262
+MidCentral,Unknown,35-39,Female,51,49,29,1759,1690
+MidCentral,Unknown,35-39,Male,129,116,80,1612,1450
+MidCentral,Unknown,40-44,Female,47,45,39,1205,1154
+MidCentral,Unknown,40-44,Male,142,138,79,1797,1747
+MidCentral,Unknown,45-49,Female,36,35,23,1565,1522
+MidCentral,Unknown,45-49,Male,121,118,81,1494,1457
+MidCentral,Unknown,50-54,Female,30,29,26,1154,1115
+MidCentral,Unknown,50-54,Male,118,112,77,1532,1455
+MidCentral,Unknown,55-59,Female,29,28,23,1261,1217
+MidCentral,Unknown,55-59,Male,115,109,97,1186,1124
+MidCentral,Unknown,60-64,Female,32,32,21,1524,1524
+MidCentral,Unknown,60-64,Male,123,118,85,1447,1388
+MidCentral,Unknown,65-69,Female,21,19,18,1167,1056
+MidCentral,Unknown,65-69,Male,71,65,49,1449,1327
+MidCentral,Unknown,70-74,Female,27,27,24,1125,1125
+MidCentral,Unknown,70-74,Male,65,63,50,1300,1260
+MidCentral,Unknown,75-79,Female,15,15,12,1250,1250
+MidCentral,Unknown,75-79,Male,29,28,32,906,875
+MidCentral,Unknown,80-84,Female,6,6,11,545,545
+MidCentral,Unknown,80-84,Male,16,16,10,1600,1600
+Nelson Marlborough,Asian,12-15,Female,211,201,209,1010,962
+Nelson Marlborough,Asian,12-15,Male,224,212,226,991,938
+Nelson Marlborough,Asian,16-19,Female,176,172,133,1323,1293
+Nelson Marlborough,Asian,16-19,Male,197,192,172,1145,1116
+Nelson Marlborough,Asian,20-24,Female,172,168,177,972,949
+Nelson Marlborough,Asian,20-24,Male,255,246,184,1386,1337
+Nelson Marlborough,Asian,25-29,Female,455,446,332,1370,1343
+Nelson Marlborough,Asian,25-29,Male,515,505,311,1656,1624
+Nelson Marlborough,Asian,30-34,Female,559,549,491,1138,1118
+Nelson Marlborough,Asian,30-34,Male,551,542,417,1321,1300
+Nelson Marlborough,Asian,35-39,Female,515,508,446,1155,1139
+Nelson Marlborough,Asian,35-39,Male,449,444,310,1448,1432
+Nelson Marlborough,Asian,40-44,Female,361,354,344,1049,1029
+Nelson Marlborough,Asian,40-44,Male,321,316,234,1372,1350
+Nelson Marlborough,Asian,45-49,Female,279,275,282,989,975
+Nelson Marlborough,Asian,45-49,Male,253,252,198,1278,1273
+Nelson Marlborough,Asian,50-54,Female,199,195,188,1059,1037
+Nelson Marlborough,Asian,50-54,Male,153,153,119,1286,1286
+Nelson Marlborough,Asian,55-59,Female,170,167,159,1069,1050
+Nelson Marlborough,Asian,55-59,Male,115,114,97,1186,1175
+Nelson Marlborough,Asian,60-64,Female,116,115,119,975,966
+Nelson Marlborough,Asian,60-64,Male,71,71,69,1029,1029
+Nelson Marlborough,Asian,65-69,Female,81,78,87,931,897
+Nelson Marlborough,Asian,65-69,Male,30,28,40,750,700
+Nelson Marlborough,Asian,70-74,Female,44,44,40,1100,1100
+Nelson Marlborough,Asian,70-74,Male,33,30,32,1031,938
+Nelson Marlborough,Asian,75-79,Female,19,18,18,1056,1000
+Nelson Marlborough,Asian,75-79,Male,15,15,13,1154,1154
+Nelson Marlborough,Asian,80-84,Female,10,8,15,667,533
+Nelson Marlborough,European or Other,12-15,Female,2647,2476,2936,902,843
+Nelson Marlborough,European or Other,12-15,Male,2752,2546,3040,905,838
+Nelson Marlborough,European or Other,16-19,Female,2397,2295,2639,908,870
+Nelson Marlborough,European or Other,16-19,Male,2552,2403,2764,923,869
+Nelson Marlborough,European or Other,20-24,Female,2283,2183,2592,881,842
+Nelson Marlborough,European or Other,20-24,Male,2558,2370,2929,873,809
+Nelson Marlborough,European or Other,25-29,Female,2602,2496,3039,856,821
+Nelson Marlborough,European or Other,25-29,Male,2746,2545,3016,910,844
+Nelson Marlborough,European or Other,25-29,Unknown/Other,18,16,7,2571,2286
+Nelson Marlborough,European or Other,30-34,Female,3068,2925,3512,874,833
+Nelson Marlborough,European or Other,30-34,Male,2995,2820,3207,934,879
+Nelson Marlborough,European or Other,35-39,Female,3204,3072,3631,882,846
+Nelson Marlborough,European or Other,35-39,Male,2882,2743,3283,878,836
+Nelson Marlborough,European or Other,40-44,Female,3361,3252,3748,897,868
+Nelson Marlborough,European or Other,40-44,Male,3160,3040,3560,888,854
+Nelson Marlborough,European or Other,45-49,Female,3946,3858,4698,840,821
+Nelson Marlborough,European or Other,45-49,Male,3850,3718,4446,866,836
+Nelson Marlborough,European or Other,50-54,Female,4552,4454,5022,906,887
+Nelson Marlborough,European or Other,50-54,Male,4336,4227,4805,902,880
+Nelson Marlborough,European or Other,55-59,Female,4873,4778,5473,890,873
+Nelson Marlborough,European or Other,55-59,Male,4753,4640,5292,898,877
+Nelson Marlborough,European or Other,60-64,Female,4928,4873,5154,956,945
+Nelson Marlborough,European or Other,60-64,Male,4849,4758,5209,931,913
+Nelson Marlborough,European or Other,65-69,Female,4668,4636,4930,947,940
+Nelson Marlborough,European or Other,65-69,Male,4569,4522,4745,963,953
+Nelson Marlborough,European or Other,70-74,Female,4472,4428,4592,974,964
+Nelson Marlborough,European or Other,70-74,Male,4447,4422,4567,974,968
+Nelson Marlborough,European or Other,75-79,Female,3063,3035,3082,994,985
+Nelson Marlborough,European or Other,75-79,Male,3028,3001,3085,982,973
+Nelson Marlborough,European or Other,80-84,Female,2062,2041,2015,1023,1013
+Nelson Marlborough,European or Other,80-84,Male,1928,1903,1829,1054,1040
+Nelson Marlborough,European or Other,85-89,Female,1202,1181,1255,958,941
+Nelson Marlborough,European or Other,85-89,Male,982,966,971,1011,995
+Nelson Marlborough,European or Other,90+,Female,785,759,789,995,962
+Nelson Marlborough,European or Other,90+,Male,451,431,452,998,954
+Nelson Marlborough,Maori,12-15,Female,541,484,603,897,803
+Nelson Marlborough,Maori,12-15,Male,576,493,642,897,768
+Nelson Marlborough,Maori,16-19,Female,475,426,526,903,810
+Nelson Marlborough,Maori,16-19,Male,482,404,559,862,723
+Nelson Marlborough,Maori,20-24,Female,434,393,543,799,724
+Nelson Marlborough,Maori,20-24,Male,487,419,572,851,733
+Nelson Marlborough,Maori,25-29,Female,422,372,574,735,648
+Nelson Marlborough,Maori,25-29,Male,449,399,555,809,719
+Nelson Marlborough,Maori,30-34,Female,431,383,511,843,750
+Nelson Marlborough,Maori,30-34,Male,391,339,430,909,788
+Nelson Marlborough,Maori,35-39,Female,386,350,443,871,790
+Nelson Marlborough,Maori,35-39,Male,317,287,367,864,782
+Nelson Marlborough,Maori,40-44,Female,334,310,389,859,797
+Nelson Marlborough,Maori,40-44,Male,293,273,373,786,732
+Nelson Marlborough,Maori,45-49,Female,391,375,455,859,824
+Nelson Marlborough,Maori,45-49,Male,325,300,418,778,718
+Nelson Marlborough,Maori,50-54,Female,451,441,492,917,896
+Nelson Marlborough,Maori,50-54,Male,332,309,363,915,851
+Nelson Marlborough,Maori,55-59,Female,413,397,449,920,884
+Nelson Marlborough,Maori,55-59,Male,328,319,336,976,949
+Nelson Marlborough,Maori,60-64,Female,348,346,357,975,969
+Nelson Marlborough,Maori,60-64,Male,244,237,250,976,948
+Nelson Marlborough,Maori,65-69,Female,249,244,243,1025,1004
+Nelson Marlborough,Maori,65-69,Male,173,169,172,1006,983
+Nelson Marlborough,Maori,70-74,Female,190,189,194,979,974
+Nelson Marlborough,Maori,70-74,Male,114,114,104,1096,1096
+Nelson Marlborough,Maori,75-79,Female,109,107,116,940,922
+Nelson Marlborough,Maori,75-79,Male,74,73,80,925,912
+Nelson Marlborough,Maori,80-84,Female,57,57,52,1096,1096
+Nelson Marlborough,Maori,80-84,Male,40,40,34,1176,1176
+Nelson Marlborough,Maori,85-89,Female,17,17,19,895,895
+Nelson Marlborough,Maori,85-89,Male,11,11,11,1000,1000
+Nelson Marlborough,Maori,90+,Female,8,7,10,800,700
+Nelson Marlborough,Pacific Peoples,12-15,Female,96,92,98,980,939
+Nelson Marlborough,Pacific Peoples,12-15,Male,122,104,122,1000,852
+Nelson Marlborough,Pacific Peoples,16-19,Female,76,71,75,1013,947
+Nelson Marlborough,Pacific Peoples,16-19,Male,139,126,105,1324,1200
+Nelson Marlborough,Pacific Peoples,20-24,Female,101,93,100,1010,930
+Nelson Marlborough,Pacific Peoples,20-24,Male,408,393,144,2833,2729
+Nelson Marlborough,Pacific Peoples,25-29,Female,96,87,93,1032,935
+Nelson Marlborough,Pacific Peoples,25-29,Male,548,526,147,3728,3578
+Nelson Marlborough,Pacific Peoples,30-34,Female,112,107,111,1009,964
+Nelson Marlborough,Pacific Peoples,30-34,Male,537,523,131,4099,3992
+Nelson Marlborough,Pacific Peoples,35-39,Female,115,111,103,1117,1078
+Nelson Marlborough,Pacific Peoples,35-39,Male,456,442,134,3403,3299
+Nelson Marlborough,Pacific Peoples,40-44,Female,86,83,74,1162,1122
+Nelson Marlborough,Pacific Peoples,40-44,Male,312,304,112,2786,2714
+Nelson Marlborough,Pacific Peoples,45-49,Female,67,66,53,1264,1245
+Nelson Marlborough,Pacific Peoples,45-49,Male,216,210,99,2182,2121
+Nelson Marlborough,Pacific Peoples,50-54,Female,57,56,64,891,875
+Nelson Marlborough,Pacific Peoples,50-54,Male,110,108,68,1618,1588
+Nelson Marlborough,Pacific Peoples,55-59,Female,56,55,53,1057,1038
+Nelson Marlborough,Pacific Peoples,55-59,Male,69,68,43,1605,1581
+Nelson Marlborough,Pacific Peoples,60-64,Female,31,31,31,1000,1000
+Nelson Marlborough,Pacific Peoples,60-64,Male,39,39,37,1054,1054
+Nelson Marlborough,Pacific Peoples,65-69,Female,27,27,21,1286,1286
+Nelson Marlborough,Pacific Peoples,65-69,Male,27,27,30,900,900
+Nelson Marlborough,Pacific Peoples,70-74,Female,20,20,21,952,952
+Nelson Marlborough,Pacific Peoples,70-74,Male,13,13,13,1000,1000
+Nelson Marlborough,Pacific Peoples,75-79,Female,9,9,9,1000,1000
+Nelson Marlborough,Pacific Peoples,80-84,Female,10,10,9,1111,1111
+Nelson Marlborough,Unknown,25-29,Female,41,39,9,4556,4333
+Nelson Marlborough,Unknown,25-29,Male,81,78,5,16200,15600
+Nelson Marlborough,Unknown,30-34,Female,32,31,11,2909,2818
+Nelson Marlborough,Unknown,30-34,Male,101,98,6,16833,16333
+Nelson Marlborough,Unknown,35-39,Female,21,21,11,1909,1909
+Nelson Marlborough,Unknown,35-39,Male,74,73,16,4625,4562
+Nelson Marlborough,Unknown,40-44,Female,53,52,84,631,619
+Nelson Marlborough,Unknown,40-44,Male,68,62,26,2615,2385
+Nelson Marlborough,Unknown,45-49,Female,125,122,100,1250,1220
+Nelson Marlborough,Unknown,45-49,Male,68,64,23,2957,2783
+Nelson Marlborough,Unknown,50-54,Female,65,63,43,1512,1465
+Nelson Marlborough,Unknown,50-54,Male,47,46,21,2238,2190
+Nelson Marlborough,Unknown,55-59,Female,46,45,39,1179,1154
+Nelson Marlborough,Unknown,55-59,Male,44,42,28,1571,1500
+Nelson Marlborough,Unknown,60-64,Female,34,32,24,1417,1333
+Nelson Marlborough,Unknown,60-64,Male,33,33,18,1833,1833
+Nelson Marlborough,Unknown,65-69,Female,37,36,23,1609,1565
+Nelson Marlborough,Unknown,65-69,Male,21,19,17,1235,1118
+Nelson Marlborough,Unknown,70-74,Female,13,12,8,1625,1500
+Nelson Marlborough,Unknown,70-74,Male,15,14,7,2143,2000
+Nelson Marlborough,Unknown,75-79,Male,6,6,9,667,667
+Northland,Asian,12-15,Female,144,140,133,1083,1053
+Northland,Asian,12-15,Male,143,141,140,1021,1007
+Northland,Asian,16-19,Female,107,102,94,1138,1085
+Northland,Asian,16-19,Male,121,117,115,1052,1017
+Northland,Asian,20-24,Female,146,143,132,1106,1083
+Northland,Asian,20-24,Male,200,196,169,1183,1160
+Northland,Asian,25-29,Female,339,332,370,916,897
+Northland,Asian,25-29,Male,484,479,348,1391,1376
+Northland,Asian,30-34,Female,525,516,519,1012,994
+Northland,Asian,30-34,Male,506,500,437,1158,1144
+Northland,Asian,35-39,Female,403,396,378,1066,1048
+Northland,Asian,35-39,Male,428,424,337,1270,1258
+Northland,Asian,40-44,Female,292,286,286,1021,1000
+Northland,Asian,40-44,Male,340,336,241,1411,1394
+Northland,Asian,45-49,Female,243,241,257,946,938
+Northland,Asian,45-49,Male,245,242,201,1219,1204
+Northland,Asian,50-54,Female,276,269,268,1030,1004
+Northland,Asian,50-54,Male,159,157,121,1314,1298
+Northland,Asian,55-59,Female,213,210,219,973,959
+Northland,Asian,55-59,Male,112,111,114,982,974
+Northland,Asian,60-64,Female,195,192,193,1010,995
+Northland,Asian,60-64,Male,75,73,81,926,901
+Northland,Asian,65-69,Female,115,114,125,920,912
+Northland,Asian,65-69,Male,54,52,60,900,867
+Northland,Asian,70-74,Female,78,77,75,1040,1027
+Northland,Asian,70-74,Male,46,44,47,979,936
+Northland,Asian,75-79,Female,38,38,37,1027,1027
+Northland,Asian,75-79,Male,20,20,24,833,833
+Northland,Asian,80-84,Female,18,18,19,947,947
+Northland,Asian,80-84,Male,12,11,10,1200,1100
+Northland,Asian,85-89,Female,11,11,11,1000,1000
+Northland,Asian,90+,Female,6,6,7,857,857
+Northland,European or Other,12-15,Female,1989,1880,2343,849,802
+Northland,European or Other,12-15,Male,2087,1935,2424,861,798
+Northland,European or Other,16-19,Female,1803,1717,1968,916,872
+Northland,European or Other,16-19,Male,1832,1709,2115,866,808
+Northland,European or Other,20-24,Female,1687,1619,2070,815,782
+Northland,European or Other,20-24,Male,1890,1769,2156,877,821
+Northland,European or Other,25-29,Female,2095,1972,2670,785,739
+Northland,European or Other,25-29,Male,1985,1863,2484,799,750
+Northland,European or Other,30-34,Female,2476,2361,2863,865,825
+Northland,European or Other,30-34,Male,2339,2178,2752,850,791
+Northland,European or Other,35-39,Female,2487,2391,2888,861,828
+Northland,European or Other,35-39,Male,2414,2276,2738,882,831
+Northland,European or Other,40-44,Female,2440,2363,2931,832,806
+Northland,European or Other,40-44,Male,2302,2190,2695,854,813
+Northland,European or Other,45-49,Female,3006,2922,3598,835,812
+Northland,European or Other,45-49,Male,2833,2744,3489,812,786
+Northland,European or Other,50-54,Female,3709,3612,4157,892,869
+Northland,European or Other,50-54,Male,3600,3500,4051,889,864
+Northland,European or Other,55-59,Female,4225,4142,4864,869,852
+Northland,European or Other,55-59,Male,4070,3972,4691,868,847
+Northland,European or Other,60-64,Female,4498,4437,4900,918,906
+Northland,European or Other,60-64,Male,4556,4483,5105,892,878
+Northland,European or Other,65-69,Female,4400,4344,4762,924,912
+Northland,European or Other,65-69,Male,4711,4654,4953,951,940
+Northland,European or Other,70-74,Female,4209,4174,4404,956,948
+Northland,European or Other,70-74,Male,4481,4441,4769,940,931
+Northland,European or Other,75-79,Female,2868,2840,2914,984,975
+Northland,European or Other,75-79,Male,3071,3043,3113,987,978
+Northland,European or Other,80-84,Female,1954,1933,1955,999,989
+Northland,European or Other,80-84,Male,1920,1894,1889,1016,1003
+Northland,European or Other,85-89,Female,1079,1051,1109,973,948
+Northland,European or Other,85-89,Male,923,902,968,954,932
+Northland,European or Other,90+,Female,708,678,768,922,883
+Northland,European or Other,90+,Male,429,413,430,998,960
+Northland,Maori,12-15,Female,2082,1781,2593,803,687
+Northland,Maori,12-15,Male,2189,1857,2749,796,676
+Northland,Maori,16-19,Female,1855,1615,2203,842,733
+Northland,Maori,16-19,Male,1720,1458,2169,793,672
+Northland,Maori,20-24,Female,1772,1529,2359,751,648
+Northland,Maori,20-24,Male,1838,1495,2365,777,632
+Northland,Maori,25-29,Female,1663,1440,2349,708,613
+Northland,Maori,25-29,Male,1632,1357,2237,730,607
+Northland,Maori,30-34,Female,1841,1645,2298,801,716
+Northland,Maori,30-34,Male,1594,1341,2001,797,670
+Northland,Maori,35-39,Female,1475,1339,1790,824,748
+Northland,Maori,35-39,Male,1338,1173,1641,815,715
+Northland,Maori,40-44,Female,1459,1350,1708,854,790
+Northland,Maori,40-44,Male,1204,1091,1527,788,714
+Northland,Maori,45-49,Female,1755,1650,2112,831,781
+Northland,Maori,45-49,Male,1403,1304,1725,813,756
+Northland,Maori,50-54,Female,1794,1717,1971,910,871
+Northland,Maori,50-54,Male,1510,1421,1751,862,812
+Northland,Maori,55-59,Female,1866,1788,2113,883,846
+Northland,Maori,55-59,Male,1549,1483,1801,860,823
+Northland,Maori,60-64,Female,1707,1684,1823,936,924
+Northland,Maori,60-64,Male,1328,1293,1466,906,882
+Northland,Maori,65-69,Female,1259,1230,1293,974,951
+Northland,Maori,65-69,Male,970,943,1036,936,910
+Northland,Maori,70-74,Female,853,830,880,969,943
+Northland,Maori,70-74,Male,703,688,701,1003,981
+Northland,Maori,75-79,Female,498,484,541,921,895
+Northland,Maori,75-79,Male,398,391,410,971,954
+Northland,Maori,80-84,Female,300,292,332,904,880
+Northland,Maori,80-84,Male,220,214,238,924,899
+Northland,Maori,85-89,Female,118,114,129,915,884
+Northland,Maori,85-89,Male,94,88,88,1068,1000
+Northland,Maori,90+,Female,55,53,57,965,930
+Northland,Maori,90+,Male,25,24,30,833,800
+Northland,Pacific Peoples,12-15,Female,131,119,133,985,895
+Northland,Pacific Peoples,12-15,Male,117,102,138,848,739
+Northland,Pacific Peoples,16-19,Female,108,101,113,956,894
+Northland,Pacific Peoples,16-19,Male,94,80,101,931,792
+Northland,Pacific Peoples,20-24,Female,101,92,107,944,860
+Northland,Pacific Peoples,20-24,Male,130,118,125,1040,944
+Northland,Pacific Peoples,25-29,Female,119,110,156,763,705
+Northland,Pacific Peoples,25-29,Male,170,156,145,1172,1076
+Northland,Pacific Peoples,30-34,Female,125,114,136,919,838
+Northland,Pacific Peoples,30-34,Male,166,153,166,1000,922
+Northland,Pacific Peoples,35-39,Female,119,112,107,1112,1047
+Northland,Pacific Peoples,35-39,Male,169,158,151,1119,1046
+Northland,Pacific Peoples,40-44,Female,91,89,108,843,824
+Northland,Pacific Peoples,40-44,Male,131,120,141,929,851
+Northland,Pacific Peoples,45-49,Female,106,102,120,883,850
+Northland,Pacific Peoples,45-49,Male,126,123,131,962,939
+Northland,Pacific Peoples,50-54,Female,97,94,107,907,879
+Northland,Pacific Peoples,50-54,Male,117,110,118,992,932
+Northland,Pacific Peoples,55-59,Female,93,89,95,979,937
+Northland,Pacific Peoples,55-59,Male,85,82,84,1012,976
+Northland,Pacific Peoples,60-64,Female,78,77,78,1000,987
+Northland,Pacific Peoples,60-64,Male,68,68,62,1097,1097
+Northland,Pacific Peoples,65-69,Female,49,48,62,790,774
+Northland,Pacific Peoples,65-69,Male,67,65,79,848,823
+Northland,Pacific Peoples,70-74,Female,55,54,42,1310,1286
+Northland,Pacific Peoples,70-74,Male,41,39,38,1079,1026
+Northland,Pacific Peoples,75-79,Female,28,28,32,875,875
+Northland,Pacific Peoples,75-79,Male,22,22,18,1222,1222
+Northland,Pacific Peoples,80-84,Female,19,19,13,1462,1462
+Northland,Unknown,25-29,Female,34,33,9,3778,3667
+Northland,Unknown,25-29,Male,24,21,6,4000,3500
+Northland,Unknown,30-34,Female,43,42,5,8600,8400
+Northland,Unknown,30-34,Male,41,40,7,5857,5714
+Northland,Unknown,35-39,Female,33,33,12,2750,2750
+Northland,Unknown,35-39,Male,73,70,25,2920,2800
+Northland,Unknown,40-44,Female,22,21,9,2444,2333
+Northland,Unknown,40-44,Male,39,35,20,1950,1750
+Northland,Unknown,45-49,Female,18,18,8,2250,2250
+Northland,Unknown,45-49,Male,36,29,19,1895,1526
+Northland,Unknown,50-54,Female,15,15,7,2143,2143
+Northland,Unknown,50-54,Male,44,41,19,2316,2158
+Northland,Unknown,55-59,Female,19,18,13,1462,1385
+Northland,Unknown,55-59,Male,62,59,23,2696,2565
+Northland,Unknown,60-64,Female,31,30,16,1938,1875
+Northland,Unknown,60-64,Male,38,34,20,1900,1700
+Northland,Unknown,65-69,Female,17,17,14,1214,1214
+Northland,Unknown,65-69,Male,26,26,19,1368,1368
+Northland,Unknown,70-74,Female,11,10,12,917,833
+Northland,Unknown,70-74,Male,23,22,14,1643,1571
+Overseas / Unknown,Asian,12-15,Female,7,5,48,146,104
+Overseas / Unknown,Asian,12-15,Male,5,0,40,125,100
+Overseas / Unknown,Asian,16-19,Female,6,6,45,133,133
+Overseas / Unknown,Asian,16-19,Male,7,7,41,171,171
+Overseas / Unknown,Asian,20-24,Female,12,12,131,92,92
+Overseas / Unknown,Asian,20-24,Male,33,32,148,223,216
+Overseas / Unknown,Asian,25-29,Female,41,39,172,238,227
+Overseas / Unknown,Asian,25-29,Male,36,35,227,159,154
+Overseas / Unknown,Asian,30-34,Female,30,28,148,203,189
+Overseas / Unknown,Asian,30-34,Male,37,36,163,227,221
+Overseas / Unknown,Asian,35-39,Female,23,21,91,253,231
+Overseas / Unknown,Asian,35-39,Male,35,35,109,321,321
+Overseas / Unknown,Asian,40-44,Female,9,9,50,180,180
+Overseas / Unknown,Asian,40-44,Male,24,23,92,261,250
+Overseas / Unknown,Asian,45-49,Female,20,20,58,345,345
+Overseas / Unknown,Asian,45-49,Male,14,13,76,184,171
+Overseas / Unknown,Asian,50-54,Female,15,15,71,211,211
+Overseas / Unknown,Asian,55-59,Female,13,13,67,194,194
+Overseas / Unknown,Asian,55-59,Male,6,6,43,140,140
+Overseas / Unknown,Asian,60-64,Female,11,10,68,162,147
+Overseas / Unknown,Asian,60-64,Male,9,9,64,141,141
+Overseas / Unknown,Asian,65-69,Female,16,16,51,314,314
+Overseas / Unknown,Asian,70-74,Female,5,5,30,167,167
+Overseas / Unknown,European or Other,12-15,Female,27,27,99,273,273
+Overseas / Unknown,European or Other,12-15,Male,16,16,107,150,150
+Overseas / Unknown,European or Other,16-19,Female,25,24,184,136,130
+Overseas / Unknown,European or Other,16-19,Male,29,26,199,146,131
+Overseas / Unknown,European or Other,20-24,Female,59,58,474,124,122
+Overseas / Unknown,European or Other,20-24,Male,64,58,533,120,109
+Overseas / Unknown,European or Other,25-29,Female,85,82,582,146,141
+Overseas / Unknown,European or Other,25-29,Male,105,102,849,124,120
+Overseas / Unknown,European or Other,30-34,Female,68,65,432,157,150
+Overseas / Unknown,European or Other,30-34,Male,96,90,675,142,133
+Overseas / Unknown,European or Other,35-39,Female,47,44,243,193,181
+Overseas / Unknown,European or Other,35-39,Male,60,56,474,127,118
+Overseas / Unknown,European or Other,40-44,Female,31,29,171,181,170
+Overseas / Unknown,European or Other,40-44,Male,48,45,342,140,132
+Overseas / Unknown,European or Other,45-49,Female,65,65,198,328,328
+Overseas / Unknown,European or Other,45-49,Male,57,53,370,154,143
+Overseas / Unknown,European or Other,50-54,Female,68,67,204,333,328
+Overseas / Unknown,European or Other,50-54,Male,60,57,407,147,140
+Overseas / Unknown,European or Other,55-59,Female,80,77,281,285,274
+Overseas / Unknown,European or Other,55-59,Male,54,51,365,148,140
+Overseas / Unknown,European or Other,60-64,Female,62,59,301,206,196
+Overseas / Unknown,European or Other,60-64,Male,47,46,374,126,123
+Overseas / Unknown,European or Other,65-69,Female,76,75,326,233,230
+Overseas / Unknown,European or Other,65-69,Male,49,47,324,151,145
+Overseas / Unknown,European or Other,70-74,Female,27,27,302,89,89
+Overseas / Unknown,European or Other,70-74,Male,42,40,336,125,119
+Overseas / Unknown,European or Other,75-79,Female,27,26,184,147,141
+Overseas / Unknown,European or Other,75-79,Male,25,25,185,135,135
+Overseas / Unknown,European or Other,80-84,Female,19,19,105,181,181
+Overseas / Unknown,European or Other,80-84,Male,12,11,110,109,100
+Overseas / Unknown,European or Other,85-89,Female,12,10,51,235,196
+Overseas / Unknown,European or Other,85-89,Male,7,7,50,140,140
+Overseas / Unknown,European or Other,90+,Male,6,5,16,375,312
+Overseas / Unknown,Maori,12-15,Female,8,8,76,105,105
+Overseas / Unknown,Maori,12-15,Male,13,9,83,157,108
+Overseas / Unknown,Maori,16-19,Female,10,10,59,169,169
+Overseas / Unknown,Maori,16-19,Male,14,11,68,206,162
+Overseas / Unknown,Maori,20-24,Female,15,11,58,259,190
+Overseas / Unknown,Maori,20-24,Male,12,9,226,53,40
+Overseas / Unknown,Maori,25-29,Female,12,11,91,132,121
+Overseas / Unknown,Maori,25-29,Male,23,20,319,72,63
+Overseas / Unknown,Maori,30-34,Female,10,8,65,154,123
+Overseas / Unknown,Maori,30-34,Male,28,25,300,93,83
+Overseas / Unknown,Maori,35-39,Female,9,8,58,155,138
+Overseas / Unknown,Maori,35-39,Male,14,12,212,66,57
+Overseas / Unknown,Maori,40-44,Female,13,11,59,220,186
+Overseas / Unknown,Maori,40-44,Male,8,6,178,45,34
+Overseas / Unknown,Maori,45-49,Female,16,13,45,356,289
+Overseas / Unknown,Maori,45-49,Male,17,17,171,99,99
+Overseas / Unknown,Maori,50-54,Female,17,17,51,333,333
+Overseas / Unknown,Maori,50-54,Male,13,10,130,100,77
+Overseas / Unknown,Maori,55-59,Female,26,25,41,634,610
+Overseas / Unknown,Maori,55-59,Male,8,8,88,91,91
+Overseas / Unknown,Maori,60-64,Female,10,10,34,294,294
+Overseas / Unknown,Maori,65-69,Female,10,7,33,303,212
+Overseas / Unknown,Pacific Peoples,12-15,Female,7,7,22,318,318
+Overseas / Unknown,Pacific Peoples,12-15,Male,8,6,25,320,240
+Overseas / Unknown,Pacific Peoples,16-19,Female,13,13,26,500,500
+Overseas / Unknown,Pacific Peoples,16-19,Male,12,9,30,400,300
+Overseas / Unknown,Pacific Peoples,20-24,Female,5,5,37,135,135
+Overseas / Unknown,Pacific Peoples,20-24,Male,30,28,90,333,311
+Overseas / Unknown,Pacific Peoples,25-29,Female,10,10,41,244,244
+Overseas / Unknown,Pacific Peoples,25-29,Male,53,51,140,379,364
+Overseas / Unknown,Pacific Peoples,30-34,Female,6,6,28,214,214
+Overseas / Unknown,Pacific Peoples,30-34,Male,56,55,106,528,519
+Overseas / Unknown,Pacific Peoples,35-39,Female,6,6,35,171,171
+Overseas / Unknown,Pacific Peoples,35-39,Male,43,39,104,413,375
+Overseas / Unknown,Pacific Peoples,40-44,Male,24,23,73,329,315
+Overseas / Unknown,Pacific Peoples,45-49,Female,10,10,21,476,476
+Overseas / Unknown,Pacific Peoples,45-49,Male,16,15,60,267,250
+Overseas / Unknown,Pacific Peoples,50-54,Female,6,6,23,261,261
+Overseas / Unknown,Pacific Peoples,50-54,Male,7,6,63,111,95
+Overseas / Unknown,Pacific Peoples,55-59,Female,7,7,16,438,438
+Overseas / Unknown,Pacific Peoples,55-59,Male,6,6,43,140,140
+Overseas / Unknown,Pacific Peoples,60-64,Female,10,10,16,625,625
+Overseas / Unknown,Unknown,20-24,Male,8,8,23,348,348
+Overseas / Unknown,Unknown,25-29,Female,9,9,40,225,225
+Overseas / Unknown,Unknown,25-29,Male,15,11,51,294,216
+Overseas / Unknown,Unknown,30-34,Male,17,15,81,210,185
+Overseas / Unknown,Unknown,35-39,Male,12,10,81,148,123
+Overseas / Unknown,Unknown,40-44,Male,7,7,85,82,82
+Overseas / Unknown,Unknown,50-54,Male,7,7,78,90,90
+Overseas / Unknown,Unknown,55-59,Female,8,7,31,258,226
+Overseas / Unknown,Unknown,55-59,Male,7,6,91,77,66
+Overseas / Unknown,Unknown,60-64,Male,7,6,62,113,97
+Overseas / Unknown,Unknown,65-69,Male,6,6,35,171,171
+South Canterbury,Asian,12-15,Female,70,65,80,875,812
+South Canterbury,Asian,12-15,Male,89,84,91,978,923
+South Canterbury,Asian,16-19,Female,71,70,57,1246,1228
+South Canterbury,Asian,16-19,Male,83,81,69,1203,1174
+South Canterbury,Asian,20-24,Female,62,62,56,1107,1107
+South Canterbury,Asian,20-24,Male,75,73,65,1154,1123
+South Canterbury,Asian,25-29,Female,170,166,193,881,860
+South Canterbury,Asian,25-29,Male,224,220,157,1427,1401
+South Canterbury,Asian,30-34,Female,233,230,230,1013,1000
+South Canterbury,Asian,30-34,Male,260,259,213,1221,1216
+South Canterbury,Asian,35-39,Female,175,173,166,1054,1042
+South Canterbury,Asian,35-39,Male,233,228,185,1259,1232
+South Canterbury,Asian,40-44,Female,146,142,144,1014,986
+South Canterbury,Asian,40-44,Male,183,181,152,1204,1191
+South Canterbury,Asian,45-49,Female,96,94,96,1000,979
+South Canterbury,Asian,45-49,Male,129,129,98,1316,1316
+South Canterbury,Asian,50-54,Female,66,66,72,917,917
+South Canterbury,Asian,50-54,Male,70,70,54,1296,1296
+South Canterbury,Asian,55-59,Female,54,54,47,1149,1149
+South Canterbury,Asian,55-59,Male,50,50,39,1282,1282
+South Canterbury,Asian,60-64,Female,36,35,49,735,714
+South Canterbury,Asian,60-64,Male,37,37,24,1542,1542
+South Canterbury,Asian,65-69,Female,20,20,13,1538,1538
+South Canterbury,Asian,65-69,Male,13,13,20,650,650
+South Canterbury,Asian,70-74,Female,11,11,15,733,733
+South Canterbury,Asian,70-74,Male,12,12,15,800,800
+South Canterbury,Asian,75-79,Female,7,7,7,1000,1000
+South Canterbury,Asian,80-84,Female,7,7,10,700,700
+South Canterbury,European or Other,12-15,Female,1036,969,1138,910,851
+South Canterbury,European or Other,12-15,Male,1164,1092,1206,965,905
+South Canterbury,European or Other,16-19,Female,952,919,1039,916,885
+South Canterbury,European or Other,16-19,Male,1022,970,1128,906,860
+South Canterbury,European or Other,20-24,Female,1005,959,1169,860,820
+South Canterbury,European or Other,20-24,Male,1127,1055,1359,829,776
+South Canterbury,European or Other,25-29,Female,1158,1109,1419,816,782
+South Canterbury,European or Other,25-29,Male,1239,1171,1482,836,790
+South Canterbury,European or Other,30-34,Female,1290,1242,1422,907,873
+South Canterbury,European or Other,30-34,Male,1245,1175,1396,892,842
+South Canterbury,European or Other,35-39,Female,1167,1129,1321,883,855
+South Canterbury,European or Other,35-39,Male,1126,1069,1228,917,871
+South Canterbury,European or Other,40-44,Female,1233,1204,1357,909,887
+South Canterbury,European or Other,40-44,Male,1135,1102,1339,848,823
+South Canterbury,European or Other,45-49,Female,1461,1430,1755,832,815
+South Canterbury,European or Other,45-49,Male,1438,1397,1622,887,861
+South Canterbury,European or Other,50-54,Female,1755,1723,1896,926,909
+South Canterbury,European or Other,50-54,Male,1625,1593,1814,896,878
+South Canterbury,European or Other,55-59,Female,1965,1939,2080,945,932
+South Canterbury,European or Other,55-59,Male,1866,1829,2015,926,908
+South Canterbury,European or Other,60-64,Female,1936,1921,1950,993,985
+South Canterbury,European or Other,60-64,Male,1893,1867,1998,947,934
+South Canterbury,European or Other,65-69,Female,1716,1704,1787,960,954
+South Canterbury,European or Other,65-69,Male,1846,1833,1893,975,968
+South Canterbury,European or Other,70-74,Female,1676,1665,1706,982,976
+South Canterbury,European or Other,70-74,Male,1711,1696,1682,1017,1008
+South Canterbury,European or Other,75-79,Female,1242,1227,1248,995,983
+South Canterbury,European or Other,75-79,Male,1144,1137,1185,965,959
+South Canterbury,European or Other,80-84,Female,939,925,965,973,959
+South Canterbury,European or Other,80-84,Male,731,726,736,993,986
+South Canterbury,European or Other,85-89,Female,559,554,554,1009,1000
+South Canterbury,European or Other,85-89,Male,412,405,398,1035,1018
+South Canterbury,European or Other,90+,Female,337,331,340,991,974
+South Canterbury,European or Other,90+,Male,193,188,202,955,931
+South Canterbury,Maori,12-15,Female,175,156,184,951,848
+South Canterbury,Maori,12-15,Male,167,143,200,835,715
+South Canterbury,Maori,16-19,Female,149,131,155,961,845
+South Canterbury,Maori,16-19,Male,155,142,166,934,855
+South Canterbury,Maori,20-24,Female,149,137,187,797,733
+South Canterbury,Maori,20-24,Male,156,132,198,788,667
+South Canterbury,Maori,25-29,Female,132,116,149,886,779
+South Canterbury,Maori,25-29,Male,133,115,181,735,635
+South Canterbury,Maori,30-34,Female,130,115,160,812,719
+South Canterbury,Maori,30-34,Male,122,108,157,777,688
+South Canterbury,Maori,35-39,Female,97,87,111,874,784
+South Canterbury,Maori,35-39,Male,99,85,109,908,780
+South Canterbury,Maori,40-44,Female,101,94,131,771,718
+South Canterbury,Maori,40-44,Male,96,93,127,756,732
+South Canterbury,Maori,45-49,Female,135,130,161,839,807
+South Canterbury,Maori,45-49,Male,95,89,118,805,754
+South Canterbury,Maori,50-54,Female,138,130,137,1007,949
+South Canterbury,Maori,50-54,Male,94,92,98,959,939
+South Canterbury,Maori,55-59,Female,122,119,120,1017,992
+South Canterbury,Maori,55-59,Male,80,80,101,792,792
+South Canterbury,Maori,60-64,Female,78,77,95,821,811
+South Canterbury,Maori,60-64,Male,81,77,72,1125,1069
+South Canterbury,Maori,65-69,Female,78,77,69,1130,1116
+South Canterbury,Maori,65-69,Male,62,62,59,1051,1051
+South Canterbury,Maori,70-74,Female,56,55,49,1143,1122
+South Canterbury,Maori,70-74,Male,40,40,37,1081,1081
+South Canterbury,Maori,75-79,Female,25,23,31,806,742
+South Canterbury,Maori,75-79,Male,17,17,16,1062,1062
+South Canterbury,Maori,80-84,Female,14,14,13,1077,1077
+South Canterbury,Maori,80-84,Male,15,15,14,1071,1071
+South Canterbury,Maori,85-89,Female,6,6,8,750,750
+South Canterbury,Maori,85-89,Male,7,7,7,1000,1000
+South Canterbury,Pacific Peoples,12-15,Female,43,38,31,1387,1226
+South Canterbury,Pacific Peoples,12-15,Male,48,43,40,1200,1075
+South Canterbury,Pacific Peoples,16-19,Female,22,20,30,733,667
+South Canterbury,Pacific Peoples,16-19,Male,39,37,46,848,804
+South Canterbury,Pacific Peoples,20-24,Female,43,38,46,935,826
+South Canterbury,Pacific Peoples,20-24,Male,73,68,63,1159,1079
+South Canterbury,Pacific Peoples,25-29,Female,45,41,42,1071,976
+South Canterbury,Pacific Peoples,25-29,Male,105,98,56,1875,1750
+South Canterbury,Pacific Peoples,30-34,Female,47,45,49,959,918
+South Canterbury,Pacific Peoples,30-34,Male,83,80,66,1258,1212
+South Canterbury,Pacific Peoples,35-39,Female,40,38,40,1000,950
+South Canterbury,Pacific Peoples,35-39,Male,70,66,67,1045,985
+South Canterbury,Pacific Peoples,40-44,Female,46,44,36,1278,1222
+South Canterbury,Pacific Peoples,40-44,Male,63,60,53,1189,1132
+South Canterbury,Pacific Peoples,45-49,Female,22,22,24,917,917
+South Canterbury,Pacific Peoples,45-49,Male,39,37,27,1444,1370
+South Canterbury,Pacific Peoples,50-54,Female,24,23,19,1263,1211
+South Canterbury,Pacific Peoples,50-54,Male,20,19,18,1111,1056
+South Canterbury,Pacific Peoples,55-59,Female,14,14,13,1077,1077
+South Canterbury,Pacific Peoples,55-59,Male,12,12,10,1200,1200
+South Canterbury,Pacific Peoples,60-64,Female,9,9,13,692,692
+South Canterbury,Pacific Peoples,60-64,Male,12,12,11,1091,1091
+South Canterbury,Pacific Peoples,65-69,Female,6,6,7,857,857
+South Canterbury,Pacific Peoples,70-74,Female,5,5,6,833,833
+South Canterbury,Pacific Peoples,75-79,Female,7,7,7,1000,1000
+South Canterbury,Pacific Peoples,75-79,Male,6,6,6,1000,1000
+South Canterbury,Unknown,45-49,Female,14,13,6,2333,2167
+South Canterbury,Unknown,55-59,Female,7,7,6,1167,1167
+Southern,Asian,12-15,Female,463,442,445,1040,993
+Southern,Asian,12-15,Male,557,530,482,1156,1100
+Southern,Asian,16-19,Female,733,728,710,1032,1025
+Southern,Asian,16-19,Male,606,588,556,1090,1058
+Southern,Asian,20-24,Female,1202,1183,1023,1175,1156
+Southern,Asian,20-24,Male,1146,1130,823,1392,1373
+Southern,Asian,25-29,Female,1182,1162,1118,1057,1039
+Southern,Asian,25-29,Male,1461,1428,1031,1417,1385
+Southern,Asian,30-34,Female,1568,1536,1474,1064,1042
+Southern,Asian,30-34,Male,1599,1587,1186,1348,1338
+Southern,Asian,30-34,Unknown/Other,29,28,9,3222,3111
+Southern,Asian,35-39,Female,1360,1326,1261,1079,1052
+Southern,Asian,35-39,Male,1443,1420,1164,1240,1220
+Southern,Asian,40-44,Female,935,915,848,1103,1079
+Southern,Asian,40-44,Male,985,973,819,1203,1188
+Southern,Asian,45-49,Female,693,685,660,1050,1038
+Southern,Asian,45-49,Male,698,691,589,1185,1173
+Southern,Asian,50-54,Female,535,530,531,1008,998
+Southern,Asian,50-54,Male,428,426,356,1202,1197
+Southern,Asian,55-59,Female,394,389,426,925,913
+Southern,Asian,55-59,Male,259,255,246,1053,1037
+Southern,Asian,60-64,Female,294,290,280,1050,1036
+Southern,Asian,60-64,Male,187,183,204,917,897
+Southern,Asian,65-69,Female,187,185,203,921,911
+Southern,Asian,65-69,Male,139,134,133,1045,1008
+Southern,Asian,70-74,Female,106,105,111,955,946
+Southern,Asian,70-74,Male,72,71,84,857,845
+Southern,Asian,75-79,Female,52,52,62,839,839
+Southern,Asian,75-79,Male,39,39,42,929,929
+Southern,Asian,80-84,Female,34,33,27,1259,1222
+Southern,Asian,80-84,Male,29,29,38,763,763
+Southern,Asian,85-89,Female,23,23,24,958,958
+Southern,Asian,85-89,Male,16,16,10,1600,1600
+Southern,Asian,90+,Female,14,14,15,933,933
+Southern,European or Other,12-15,Female,5662,5346,5889,961,908
+Southern,European or Other,12-15,Male,5946,5572,6195,960,899
+Southern,European or Other,16-19,Female,6543,6410,7016,933,914
+Southern,European or Other,16-19,Male,6072,5843,6632,916,881
+Southern,European or Other,20-24,Female,9032,8863,9211,981,962
+Southern,European or Other,20-24,Male,8649,8354,8806,982,949
+Southern,European or Other,25-29,Female,8032,7766,8965,896,866
+Southern,European or Other,25-29,Male,8475,8091,8786,965,921
+Southern,European or Other,25-29,Unknown/Other,62,59,14,4429,4214
+Southern,European or Other,30-34,Female,8229,7964,8869,928,898
+Southern,European or Other,30-34,Male,8556,8190,8702,983,941
+Southern,European or Other,30-34,Unknown/Other,23,22,6,3833,3667
+Southern,European or Other,35-39,Female,7588,7373,8309,913,887
+Southern,European or Other,35-39,Male,7379,7097,7944,929,893
+Southern,European or Other,40-44,Female,7523,7370,8175,920,902
+Southern,European or Other,40-44,Male,7180,6992,7808,920,895
+Southern,European or Other,45-49,Female,8337,8186,9176,909,892
+Southern,European or Other,45-49,Male,8005,7805,9012,888,866
+Southern,European or Other,50-54,Female,8765,8649,9216,951,938
+Southern,European or Other,50-54,Male,8476,8287,8835,959,938
+Southern,European or Other,55-59,Female,9263,9149,10137,914,903
+Southern,European or Other,55-59,Male,9166,9046,10093,908,896
+Southern,European or Other,60-64,Female,9150,9054,9450,968,958
+Southern,European or Other,60-64,Male,9211,9096,9557,964,952
+Southern,European or Other,65-69,Female,7998,7934,8111,986,978
+Southern,European or Other,65-69,Male,8155,8071,8338,978,968
+Southern,European or Other,70-74,Female,7127,7078,7256,982,975
+Southern,European or Other,70-74,Male,7039,6997,7078,994,989
+Southern,European or Other,75-79,Female,5028,4992,5167,973,966
+Southern,European or Other,75-79,Male,4639,4606,4778,971,964
+Southern,European or Other,80-84,Female,3818,3771,3732,1023,1010
+Southern,European or Other,80-84,Male,3105,3065,2970,1045,1032
+Southern,European or Other,85-89,Female,2302,2252,2372,970,949
+Southern,European or Other,85-89,Male,1579,1557,1664,949,936
+Southern,European or Other,90+,Female,1574,1534,1591,989,964
+Southern,European or Other,90+,Male,756,734,782,967,939
+Southern,Maori,12-15,Female,1068,958,1155,925,829
+Southern,Maori,12-15,Male,1185,1061,1349,878,787
+Southern,Maori,16-19,Female,1069,987,1220,876,809
+Southern,Maori,16-19,Male,1111,1011,1206,921,838
+Southern,Maori,20-24,Female,1407,1351,1467,959,921
+Southern,Maori,20-24,Male,1415,1319,1426,992,925
+Southern,Maori,25-29,Female,968,877,1188,815,738
+Southern,Maori,25-29,Male,1045,930,1275,820,729
+Southern,Maori,30-34,Female,913,840,1063,859,790
+Southern,Maori,30-34,Male,979,894,1118,876,800
+Southern,Maori,35-39,Female,781,741,932,838,795
+Southern,Maori,35-39,Male,752,688,875,859,786
+Southern,Maori,40-44,Female,741,716,813,911,881
+Southern,Maori,40-44,Male,676,634,796,849,796
+Southern,Maori,45-49,Female,768,742,886,867,837
+Southern,Maori,45-49,Male,672,639,744,903,859
+Southern,Maori,50-54,Female,834,814,935,892,871
+Southern,Maori,50-54,Male,607,575,690,880,833
+Southern,Maori,55-59,Female,752,735,830,906,886
+Southern,Maori,55-59,Male,597,582,635,940,917
+Southern,Maori,60-64,Female,602,591,561,1073,1053
+Southern,Maori,60-64,Male,496,484,524,947,924
+Southern,Maori,65-69,Female,383,380,396,967,960
+Southern,Maori,65-69,Male,363,359,356,1020,1008
+Southern,Maori,70-74,Female,304,298,298,1020,1000
+Southern,Maori,70-74,Male,281,277,274,1026,1011
+Southern,Maori,75-79,Female,149,149,153,974,974
+Southern,Maori,75-79,Male,140,138,154,909,896
+Southern,Maori,80-84,Female,101,101,98,1031,1031
+Southern,Maori,80-84,Male,110,109,118,932,924
+Southern,Maori,85-89,Female,47,46,40,1175,1150
+Southern,Maori,85-89,Male,42,42,35,1200,1200
+Southern,Maori,90+,Female,21,20,22,955,909
+Southern,Maori,90+,Male,8,8,10,800,800
+Southern,Pacific Peoples,12-15,Female,270,245,266,1015,921
+Southern,Pacific Peoples,12-15,Male,292,262,299,977,876
+Southern,Pacific Peoples,16-19,Female,309,299,355,870,842
+Southern,Pacific Peoples,16-19,Male,335,313,337,994,929
+Southern,Pacific Peoples,20-24,Female,484,471,415,1166,1135
+Southern,Pacific Peoples,20-24,Male,496,471,376,1319,1253
+Southern,Pacific Peoples,25-29,Female,315,305,342,921,892
+Southern,Pacific Peoples,25-29,Male,473,431,356,1329,1211
+Southern,Pacific Peoples,30-34,Female,281,272,294,956,925
+Southern,Pacific Peoples,30-34,Male,412,382,291,1416,1313
+Southern,Pacific Peoples,35-39,Female,281,272,286,983,951
+Southern,Pacific Peoples,35-39,Male,366,346,298,1228,1161
+Southern,Pacific Peoples,40-44,Female,203,200,210,967,952
+Southern,Pacific Peoples,40-44,Male,308,296,251,1227,1179
+Southern,Pacific Peoples,45-49,Female,189,185,203,931,911
+Southern,Pacific Peoples,45-49,Male,260,247,233,1116,1060
+Southern,Pacific Peoples,50-54,Female,176,170,181,972,939
+Southern,Pacific Peoples,50-54,Male,175,171,172,1017,994
+Southern,Pacific Peoples,55-59,Female,125,124,125,1000,992
+Southern,Pacific Peoples,55-59,Male,121,117,125,968,936
+Southern,Pacific Peoples,60-64,Female,94,94,100,940,940
+Southern,Pacific Peoples,60-64,Male,116,114,119,975,958
+Southern,Pacific Peoples,65-69,Female,64,63,68,941,926
+Southern,Pacific Peoples,65-69,Male,81,81,86,942,942
+Southern,Pacific Peoples,70-74,Female,41,41,46,891,891
+Southern,Pacific Peoples,70-74,Male,53,53,54,981,981
+Southern,Pacific Peoples,75-79,Female,36,36,30,1200,1200
+Southern,Pacific Peoples,75-79,Male,38,38,38,1000,1000
+Southern,Pacific Peoples,80-84,Female,16,16,27,593,593
+Southern,Pacific Peoples,80-84,Male,21,21,20,1050,1050
+Southern,Pacific Peoples,85-89,Female,10,10,10,1000,1000
+Southern,Pacific Peoples,85-89,Male,5,5,10,500,500
+Southern,Unknown,16-19,Female,29,28,11,2636,2545
+Southern,Unknown,16-19,Male,27,25,8,3375,3125
+Southern,Unknown,20-24,Female,80,75,18,4444,4167
+Southern,Unknown,20-24,Male,95,88,21,4524,4190
+Southern,Unknown,25-29,Female,130,124,24,5417,5167
+Southern,Unknown,25-29,Male,181,172,24,7542,7167
+Southern,Unknown,30-34,Female,114,110,27,4222,4074
+Southern,Unknown,30-34,Male,193,181,31,6226,5839
+Southern,Unknown,35-39,Female,61,60,19,3211,3158
+Southern,Unknown,35-39,Male,122,116,24,5083,4833
+Southern,Unknown,40-44,Female,52,51,26,2000,1962
+Southern,Unknown,40-44,Male,105,97,32,3281,3031
+Southern,Unknown,45-49,Female,33,32,26,1269,1231
+Southern,Unknown,45-49,Male,69,66,37,1865,1784
+Southern,Unknown,50-54,Female,46,42,22,2091,1909
+Southern,Unknown,50-54,Male,80,77,31,2581,2484
+Southern,Unknown,55-59,Female,38,37,24,1583,1542
+Southern,Unknown,55-59,Male,98,94,55,1782,1709
+Southern,Unknown,60-64,Female,45,43,26,1731,1654
+Southern,Unknown,60-64,Male,85,77,32,2656,2406
+Southern,Unknown,65-69,Female,22,21,16,1375,1312
+Southern,Unknown,65-69,Male,51,50,35,1457,1429
+Southern,Unknown,70-74,Female,17,16,12,1417,1333
+Southern,Unknown,70-74,Male,38,36,27,1407,1333
+Southern,Unknown,75-79,Female,10,10,8,1250,1250
+Southern,Unknown,75-79,Male,14,12,13,1077,923
+Southern,Unknown,80-84,Female,11,11,8,1375,1375
+Southern,Unknown,80-84,Male,8,8,7,1143,1143
+Southern,Unknown,85-89,Female,6,5,8,750,625
+Tairawhiti,Asian,12-15,Female,28,27,32,875,844
+Tairawhiti,Asian,12-15,Male,38,36,39,974,923
+Tairawhiti,Asian,16-19,Female,31,30,23,1348,1304
+Tairawhiti,Asian,16-19,Male,28,27,25,1120,1080
+Tairawhiti,Asian,20-24,Female,24,22,28,857,786
+Tairawhiti,Asian,20-24,Male,56,56,31,1806,1806
+Tairawhiti,Asian,25-29,Female,83,83,73,1137,1137
+Tairawhiti,Asian,25-29,Male,144,140,112,1286,1250
+Tairawhiti,Asian,30-34,Female,134,132,109,1229,1211
+Tairawhiti,Asian,30-34,Male,138,136,109,1266,1248
+Tairawhiti,Asian,35-39,Female,67,66,58,1155,1138
+Tairawhiti,Asian,35-39,Male,102,101,62,1645,1629
+Tairawhiti,Asian,40-44,Female,62,61,67,925,910
+Tairawhiti,Asian,40-44,Male,60,59,41,1463,1439
+Tairawhiti,Asian,45-49,Female,49,48,48,1021,1000
+Tairawhiti,Asian,45-49,Male,41,40,30,1367,1333
+Tairawhiti,Asian,50-54,Female,39,39,38,1026,1026
+Tairawhiti,Asian,50-54,Male,31,31,27,1148,1148
+Tairawhiti,Asian,55-59,Female,37,37,34,1088,1088
+Tairawhiti,Asian,55-59,Male,36,36,27,1333,1333
+Tairawhiti,Asian,60-64,Female,26,25,24,1083,1042
+Tairawhiti,Asian,60-64,Male,9,9,7,1286,1286
+Tairawhiti,Asian,65-69,Female,11,11,12,917,917
+Tairawhiti,Asian,65-69,Male,5,5,9,556,556
+Tairawhiti,Asian,70-74,Female,10,10,12,833,833
+Tairawhiti,Asian,70-74,Male,7,7,5,1400,1400
+Tairawhiti,Asian,75-79,Female,7,7,8,875,875
+Tairawhiti,Asian,80-84,Female,10,10,9,1111,1111
+Tairawhiti,Asian,80-84,Male,5,5,6,833,833
+Tairawhiti,Asian,85-89,Male,5,5,6,833,833
+Tairawhiti,European or Other,12-15,Female,458,433,497,922,871
+Tairawhiti,European or Other,12-15,Male,459,427,501,916,852
+Tairawhiti,European or Other,16-19,Female,374,367,407,919,902
+Tairawhiti,European or Other,16-19,Male,451,417,470,960,887
+Tairawhiti,European or Other,20-24,Female,420,412,493,852,836
+Tairawhiti,European or Other,20-24,Male,484,468,526,920,890
+Tairawhiti,European or Other,25-29,Female,527,494,596,884,829
+Tairawhiti,European or Other,25-29,Male,566,540,613,923,881
+Tairawhiti,European or Other,30-34,Female,571,553,646,884,856
+Tairawhiti,European or Other,30-34,Male,581,549,643,904,854
+Tairawhiti,European or Other,35-39,Female,584,560,683,855,820
+Tairawhiti,European or Other,35-39,Male,534,503,571,935,881
+Tairawhiti,European or Other,40-44,Female,620,600,673,921,892
+Tairawhiti,European or Other,40-44,Male,559,537,643,869,835
+Tairawhiti,European or Other,45-49,Female,610,601,714,854,842
+Tairawhiti,European or Other,45-49,Male,655,635,763,858,832
+Tairawhiti,European or Other,50-54,Female,718,702,799,899,879
+Tairawhiti,European or Other,50-54,Male,673,651,750,897,868
+Tairawhiti,European or Other,55-59,Female,766,761,851,900,894
+Tairawhiti,European or Other,55-59,Male,759,746,856,887,871
+Tairawhiti,European or Other,60-64,Female,822,814,836,983,974
+Tairawhiti,European or Other,60-64,Male,801,784,874,916,897
+Tairawhiti,European or Other,65-69,Female,750,741,813,923,911
+Tairawhiti,European or Other,65-69,Male,819,810,880,931,920
+Tairawhiti,European or Other,70-74,Female,716,712,714,1003,997
+Tairawhiti,European or Other,70-74,Male,702,695,709,990,980
+Tairawhiti,European or Other,75-79,Female,500,491,532,940,923
+Tairawhiti,European or Other,75-79,Male,486,483,509,955,949
+Tairawhiti,European or Other,80-84,Female,392,392,365,1074,1074
+Tairawhiti,European or Other,80-84,Male,327,325,296,1105,1098
+Tairawhiti,European or Other,85-89,Female,214,211,254,843,831
+Tairawhiti,European or Other,85-89,Male,170,168,169,1006,994
+Tairawhiti,European or Other,90+,Female,177,170,166,1066,1024
+Tairawhiti,European or Other,90+,Male,85,83,87,977,954
+Tairawhiti,Maori,12-15,Female,869,755,979,888,771
+Tairawhiti,Maori,12-15,Male,924,805,1080,856,745
+Tairawhiti,Maori,16-19,Female,744,650,877,848,741
+Tairawhiti,Maori,16-19,Male,824,724,974,846,743
+Tairawhiti,Maori,20-24,Female,756,669,978,773,684
+Tairawhiti,Maori,20-24,Male,755,644,866,872,744
+Tairawhiti,Maori,25-29,Female,757,656,967,783,678
+Tairawhiti,Maori,25-29,Male,727,611,912,797,670
+Tairawhiti,Maori,30-34,Female,764,679,921,830,737
+Tairawhiti,Maori,30-34,Male,668,581,745,897,780
+Tairawhiti,Maori,35-39,Female,643,588,790,814,744
+Tairawhiti,Maori,35-39,Male,529,471,630,840,748
+Tairawhiti,Maori,40-44,Female,646,603,696,928,866
+Tairawhiti,Maori,40-44,Male,525,487,654,803,745
+Tairawhiti,Maori,45-49,Female,691,652,794,870,821
+Tairawhiti,Maori,45-49,Male,586,536,683,858,785
+Tairawhiti,Maori,50-54,Female,711,686,796,893,862
+Tairawhiti,Maori,50-54,Male,565,524,636,888,824
+Tairawhiti,Maori,55-59,Female,694,677,774,897,875
+Tairawhiti,Maori,55-59,Male,555,532,616,901,864
+Tairawhiti,Maori,60-64,Female,631,604,667,946,906
+Tairawhiti,Maori,60-64,Male,565,542,586,964,925
+Tairawhiti,Maori,65-69,Female,469,464,481,975,965
+Tairawhiti,Maori,65-69,Male,461,449,475,971,945
+Tairawhiti,Maori,70-74,Female,348,343,356,978,963
+Tairawhiti,Maori,70-74,Male,287,282,262,1095,1076
+Tairawhiti,Maori,75-79,Female,192,188,184,1043,1022
+Tairawhiti,Maori,75-79,Male,146,144,145,1007,993
+Tairawhiti,Maori,80-84,Female,122,119,128,953,930
+Tairawhiti,Maori,80-84,Male,64,61,65,985,938
+Tairawhiti,Maori,85-89,Female,56,56,59,949,949
+Tairawhiti,Maori,85-89,Male,27,26,35,771,743
+Tairawhiti,Maori,90+,Female,22,22,17,1294,1294
+Tairawhiti,Maori,90+,Male,12,12,10,1200,1200
+Tairawhiti,Pacific Peoples,12-15,Female,25,24,34,735,706
+Tairawhiti,Pacific Peoples,12-15,Male,39,36,38,1026,947
+Tairawhiti,Pacific Peoples,16-19,Female,39,38,37,1054,1027
+Tairawhiti,Pacific Peoples,16-19,Male,30,28,27,1111,1037
+Tairawhiti,Pacific Peoples,20-24,Female,37,32,44,841,727
+Tairawhiti,Pacific Peoples,20-24,Male,61,54,45,1356,1200
+Tairawhiti,Pacific Peoples,25-29,Female,37,34,34,1088,1000
+Tairawhiti,Pacific Peoples,25-29,Male,70,63,66,1061,955
+Tairawhiti,Pacific Peoples,30-34,Female,32,29,39,821,744
+Tairawhiti,Pacific Peoples,30-34,Male,93,89,71,1310,1254
+Tairawhiti,Pacific Peoples,35-39,Female,34,30,34,1000,882
+Tairawhiti,Pacific Peoples,35-39,Male,51,48,49,1041,980
+Tairawhiti,Pacific Peoples,40-44,Female,29,29,24,1208,1208
+Tairawhiti,Pacific Peoples,40-44,Male,66,63,60,1100,1050
+Tairawhiti,Pacific Peoples,45-49,Female,26,25,34,765,735
+Tairawhiti,Pacific Peoples,45-49,Male,56,54,50,1120,1080
+Tairawhiti,Pacific Peoples,50-54,Female,35,34,32,1094,1062
+Tairawhiti,Pacific Peoples,50-54,Male,53,53,52,1019,1019
+Tairawhiti,Pacific Peoples,55-59,Female,34,33,39,872,846
+Tairawhiti,Pacific Peoples,55-59,Male,34,34,37,919,919
+Tairawhiti,Pacific Peoples,60-64,Female,22,21,17,1294,1235
+Tairawhiti,Pacific Peoples,60-64,Male,31,31,29,1069,1069
+Tairawhiti,Pacific Peoples,65-69,Female,14,14,12,1167,1167
+Tairawhiti,Pacific Peoples,65-69,Male,18,18,18,1000,1000
+Tairawhiti,Pacific Peoples,70-74,Female,12,12,11,1091,1091
+Tairawhiti,Pacific Peoples,70-74,Male,11,11,9,1222,1222
+Tairawhiti,Pacific Peoples,80-84,Female,9,9,6,1500,1500
+Tairawhiti,Unknown,25-29,Female,9,8,5,1800,1600
+Tairawhiti,Unknown,30-34,Female,9,8,5,1800,1600
+Tairawhiti,Unknown,30-34,Male,12,11,10,1200,1100
+Tairawhiti,Unknown,35-39,Female,12,11,6,2000,1833
+Tairawhiti,Unknown,35-39,Male,13,12,5,2600,2400
+Tairawhiti,Unknown,40-44,Male,6,6,7,857,857
+Tairawhiti,Unknown,45-49,Female,5,5,6,833,833
+Tairawhiti,Unknown,45-49,Male,11,10,6,1833,1667
+Tairawhiti,Unknown,50-54,Female,5,5,6,833,833
+Tairawhiti,Unknown,50-54,Male,16,16,7,2286,2286
+Tairawhiti,Unknown,55-59,Male,9,9,9,1000,1000
+Tairawhiti,Unknown,60-64,Male,14,14,12,1167,1167
+Tairawhiti,Unknown,65-69,Male,12,12,9,1333,1333
+Tairawhiti,Unknown,70-74,Male,8,8,6,1333,1333
+Taranaki,Asian,12-15,Female,144,137,133,1083,1030
+Taranaki,Asian,12-15,Male,146,140,130,1123,1077
+Taranaki,Asian,16-19,Female,92,91,88,1045,1034
+Taranaki,Asian,16-19,Male,107,104,95,1126,1095
+Taranaki,Asian,20-24,Female,116,115,88,1318,1307
+Taranaki,Asian,20-24,Male,193,189,117,1650,1615
+Taranaki,Asian,25-29,Female,230,228,236,975,966
+Taranaki,Asian,25-29,Male,281,277,202,1391,1371
+Taranaki,Asian,30-34,Female,389,381,375,1037,1016
+Taranaki,Asian,30-34,Male,348,345,280,1243,1232
+Taranaki,Asian,35-39,Female,329,326,339,971,962
+Taranaki,Asian,35-39,Male,357,349,301,1186,1159
+Taranaki,Asian,40-44,Female,241,238,230,1048,1035
+Taranaki,Asian,40-44,Male,269,268,221,1217,1213
+Taranaki,Asian,45-49,Female,183,181,176,1040,1028
+Taranaki,Asian,45-49,Male,158,154,122,1295,1262
+Taranaki,Asian,50-54,Female,140,138,142,986,972
+Taranaki,Asian,50-54,Male,122,121,105,1162,1152
+Taranaki,Asian,55-59,Female,120,120,114,1053,1053
+Taranaki,Asian,55-59,Male,80,79,81,988,975
+Taranaki,Asian,60-64,Female,90,89,82,1098,1085
+Taranaki,Asian,60-64,Male,66,64,64,1031,1000
+Taranaki,Asian,65-69,Female,56,55,74,757,743
+Taranaki,Asian,65-69,Male,45,45,52,865,865
+Taranaki,Asian,70-74,Female,49,48,30,1633,1600
+Taranaki,Asian,70-74,Male,28,27,20,1400,1350
+Taranaki,Asian,75-79,Female,14,14,20,700,700
+Taranaki,Asian,75-79,Male,19,18,18,1056,1000
+Taranaki,Asian,80-84,Female,16,16,16,1000,1000
+Taranaki,Asian,80-84,Male,6,6,7,857,857
+Taranaki,Asian,85-89,Female,9,9,8,1125,1125
+Taranaki,European or Other,12-15,Female,2172,2048,2256,963,908
+Taranaki,European or Other,12-15,Male,2193,2042,2404,912,849
+Taranaki,European or Other,16-19,Female,1773,1703,1875,946,908
+Taranaki,European or Other,16-19,Male,1936,1821,1995,970,913
+Taranaki,European or Other,20-24,Female,1795,1719,2132,842,806
+Taranaki,European or Other,20-24,Male,2049,1921,2236,916,859
+Taranaki,European or Other,25-29,Female,2167,2060,2574,842,800
+Taranaki,European or Other,25-29,Male,2094,1946,2428,862,801
+Taranaki,European or Other,30-34,Female,2464,2325,2815,875,826
+Taranaki,European or Other,30-34,Male,2325,2175,2581,901,843
+Taranaki,European or Other,35-39,Female,2433,2333,2769,879,843
+Taranaki,European or Other,35-39,Male,2362,2218,2592,911,856
+Taranaki,European or Other,35-39,Unknown/Other,5,5,5,1000,1000
+Taranaki,European or Other,40-44,Female,2541,2466,2772,917,890
+Taranaki,European or Other,40-44,Male,2383,2288,2630,906,870
+Taranaki,European or Other,45-49,Female,2864,2811,3228,887,871
+Taranaki,European or Other,45-49,Male,2695,2600,3066,879,848
+Taranaki,European or Other,50-54,Female,2987,2918,3273,913,892
+Taranaki,European or Other,50-54,Male,2911,2842,3087,943,921
+Taranaki,European or Other,55-59,Female,3181,3130,3501,909,894
+Taranaki,European or Other,55-59,Male,2998,2938,3350,895,877
+Taranaki,European or Other,60-64,Female,3291,3247,3427,960,947
+Taranaki,European or Other,60-64,Male,3192,3133,3305,966,948
+Taranaki,European or Other,65-69,Female,2929,2903,2957,991,982
+Taranaki,European or Other,65-69,Male,2898,2874,3010,963,955
+Taranaki,European or Other,70-74,Female,2682,2658,2766,970,961
+Taranaki,European or Other,70-74,Male,2626,2613,2636,996,991
+Taranaki,European or Other,75-79,Female,1901,1886,1904,998,991
+Taranaki,European or Other,75-79,Male,1824,1808,1816,1004,996
+Taranaki,European or Other,80-84,Female,1431,1410,1399,1023,1008
+Taranaki,European or Other,80-84,Male,1137,1127,1137,1000,991
+Taranaki,European or Other,85-89,Female,939,925,958,980,966
+Taranaki,European or Other,85-89,Male,636,624,640,994,975
+Taranaki,European or Other,90+,Female,598,581,638,937,911
+Taranaki,European or Other,90+,Male,353,346,337,1047,1027
+Taranaki,Maori,12-15,Female,755,646,851,887,759
+Taranaki,Maori,12-15,Male,809,684,915,884,748
+Taranaki,Maori,16-19,Female,612,543,763,802,712
+Taranaki,Maori,16-19,Male,613,534,732,837,730
+Taranaki,Maori,20-24,Female,621,545,805,771,677
+Taranaki,Maori,20-24,Male,690,585,812,850,720
+Taranaki,Maori,25-29,Female,618,541,830,745,652
+Taranaki,Maori,25-29,Male,573,495,734,781,674
+Taranaki,Maori,30-34,Female,669,596,840,796,710
+Taranaki,Maori,30-34,Male,571,488,642,889,760
+Taranaki,Maori,35-39,Female,573,532,654,876,813
+Taranaki,Maori,35-39,Male,438,392,558,785,703
+Taranaki,Maori,40-44,Female,511,478,619,826,772
+Taranaki,Maori,40-44,Male,470,433,530,887,817
+Taranaki,Maori,45-49,Female,594,563,700,849,804
+Taranaki,Maori,45-49,Male,456,423,525,869,806
+Taranaki,Maori,50-54,Female,583,560,598,975,936
+Taranaki,Maori,50-54,Male,446,423,483,923,876
+Taranaki,Maori,55-59,Female,492,477,557,883,856
+Taranaki,Maori,55-59,Male,453,434,503,901,863
+Taranaki,Maori,60-64,Female,482,467,495,974,943
+Taranaki,Maori,60-64,Male,355,348,346,1026,1006
+Taranaki,Maori,65-69,Female,309,300,316,978,949
+Taranaki,Maori,65-69,Male,268,266,264,1015,1008
+Taranaki,Maori,70-74,Female,220,214,211,1043,1014
+Taranaki,Maori,70-74,Male,198,196,202,980,970
+Taranaki,Maori,75-79,Female,127,125,140,907,893
+Taranaki,Maori,75-79,Male,91,90,80,1138,1125
+Taranaki,Maori,80-84,Female,77,76,76,1013,1000
+Taranaki,Maori,80-84,Male,56,56,59,949,949
+Taranaki,Maori,85-89,Female,29,28,30,967,933
+Taranaki,Maori,85-89,Male,16,16,18,889,889
+Taranaki,Maori,90+,Female,12,12,11,1091,1091
+Taranaki,Pacific Peoples,12-15,Female,72,64,69,1043,928
+Taranaki,Pacific Peoples,12-15,Male,64,59,65,985,908
+Taranaki,Pacific Peoples,16-19,Female,50,46,55,909,836
+Taranaki,Pacific Peoples,16-19,Male,75,70,75,1000,933
+Taranaki,Pacific Peoples,20-24,Female,48,47,49,980,959
+Taranaki,Pacific Peoples,20-24,Male,72,64,75,960,853
+Taranaki,Pacific Peoples,25-29,Female,56,52,57,982,912
+Taranaki,Pacific Peoples,25-29,Male,71,61,69,1029,884
+Taranaki,Pacific Peoples,30-34,Female,68,62,73,932,849
+Taranaki,Pacific Peoples,30-34,Male,78,75,71,1099,1056
+Taranaki,Pacific Peoples,35-39,Female,57,54,57,1000,947
+Taranaki,Pacific Peoples,35-39,Male,68,65,64,1062,1016
+Taranaki,Pacific Peoples,40-44,Female,53,52,61,869,852
+Taranaki,Pacific Peoples,40-44,Male,67,63,52,1288,1212
+Taranaki,Pacific Peoples,45-49,Female,42,40,48,875,833
+Taranaki,Pacific Peoples,45-49,Male,51,49,53,962,925
+Taranaki,Pacific Peoples,50-54,Female,33,32,33,1000,970
+Taranaki,Pacific Peoples,50-54,Male,45,41,39,1154,1051
+Taranaki,Pacific Peoples,55-59,Female,33,32,40,825,800
+Taranaki,Pacific Peoples,55-59,Male,29,29,37,784,784
+Taranaki,Pacific Peoples,60-64,Female,27,26,24,1125,1083
+Taranaki,Pacific Peoples,60-64,Male,25,25,22,1136,1136
+Taranaki,Pacific Peoples,65-69,Female,22,22,22,1000,1000
+Taranaki,Pacific Peoples,65-69,Male,20,20,20,1000,1000
+Taranaki,Pacific Peoples,70-74,Female,10,10,11,909,909
+Taranaki,Pacific Peoples,70-74,Male,5,5,7,714,714
+Taranaki,Pacific Peoples,75-79,Male,5,5,5,1000,1000
+Taranaki,Pacific Peoples,80-84,Male,8,8,7,1143,1143
+Taranaki,Unknown,16-19,Female,9,9,5,1800,1800
+Taranaki,Unknown,25-29,Female,37,34,14,2643,2429
+Taranaki,Unknown,25-29,Male,28,21,14,2000,1500
+Taranaki,Unknown,30-34,Female,46,46,22,2091,2091
+Taranaki,Unknown,30-34,Male,50,43,23,2174,1870
+Taranaki,Unknown,35-39,Female,31,31,24,1292,1292
+Taranaki,Unknown,35-39,Male,75,68,45,1667,1511
+Taranaki,Unknown,40-44,Female,27,27,9,3000,3000
+Taranaki,Unknown,40-44,Male,53,51,31,1710,1645
+Taranaki,Unknown,45-49,Female,21,21,13,1615,1615
+Taranaki,Unknown,45-49,Male,51,45,28,1821,1607
+Taranaki,Unknown,50-54,Female,19,19,12,1583,1583
+Taranaki,Unknown,50-54,Male,68,63,44,1545,1432
+Taranaki,Unknown,55-59,Female,13,13,12,1083,1083
+Taranaki,Unknown,55-59,Male,49,47,37,1324,1270
+Taranaki,Unknown,60-64,Female,14,13,9,1556,1444
+Taranaki,Unknown,60-64,Male,47,45,29,1621,1552
+Taranaki,Unknown,65-69,Female,9,9,8,1125,1125
+Taranaki,Unknown,65-69,Male,42,42,35,1200,1200
+Taranaki,Unknown,70-74,Female,15,15,9,1667,1667
+Taranaki,Unknown,70-74,Male,20,19,9,2222,2111
+Taranaki,Unknown,75-79,Female,5,5,6,833,833
+Taranaki,Unknown,75-79,Male,9,9,8,1125,1125
+Waikato,Asian,12-15,Female,1012,969,945,1071,1025
+Waikato,Asian,12-15,Male,1126,1077,1038,1085,1038
+Waikato,Asian,12-15,Unknown/Other,5,5,5,1000,1000
+Waikato,Asian,16-19,Female,849,839,787,1079,1066
+Waikato,Asian,16-19,Male,934,922,779,1199,1184
+Waikato,Asian,20-24,Female,1276,1263,1085,1176,1164
+Waikato,Asian,20-24,Male,1706,1677,1181,1445,1420
+Waikato,Asian,20-24,Unknown/Other,21,21,5,4200,4200
+Waikato,Asian,25-29,Female,2247,2220,2196,1023,1011
+Waikato,Asian,25-29,Male,3040,3006,2333,1303,1288
+Waikato,Asian,25-29,Unknown/Other,24,24,8,3000,3000
+Waikato,Asian,30-34,Female,3007,2975,2914,1032,1021
+Waikato,Asian,30-34,Male,3073,3055,2529,1215,1208
+Waikato,Asian,30-34,Unknown/Other,25,25,6,4167,4167
+Waikato,Asian,35-39,Female,2473,2427,2361,1047,1028
+Waikato,Asian,35-39,Male,2617,2586,2318,1129,1116
+Waikato,Asian,35-39,Unknown/Other,9,9,6,1500,1500
+Waikato,Asian,40-44,Female,1770,1742,1660,1066,1049
+Waikato,Asian,40-44,Male,1911,1892,1584,1206,1194
+Waikato,Asian,40-44,Unknown/Other,11,11,5,2200,2200
+Waikato,Asian,45-49,Female,1263,1244,1234,1024,1008
+Waikato,Asian,45-49,Male,1289,1279,1152,1119,1110
+Waikato,Asian,50-54,Female,1036,1019,1087,953,937
+Waikato,Asian,50-54,Male,916,903,820,1117,1101
+Waikato,Asian,55-59,Female,905,890,904,1001,985
+Waikato,Asian,55-59,Male,673,666,676,996,985
+Waikato,Asian,60-64,Female,769,760,863,891,881
+Waikato,Asian,60-64,Male,535,531,592,904,897
+Waikato,Asian,65-69,Female,665,657,721,922,911
+Waikato,Asian,65-69,Male,527,523,570,925,918
+Waikato,Asian,70-74,Female,390,383,382,1021,1003
+Waikato,Asian,70-74,Male,330,325,358,922,908
+Waikato,Asian,75-79,Female,222,217,243,914,893
+Waikato,Asian,75-79,Male,178,175,187,952,936
+Waikato,Asian,80-84,Female,129,128,134,963,955
+Waikato,Asian,80-84,Male,109,109,117,932,932
+Waikato,Asian,85-89,Female,59,57,63,937,905
+Waikato,Asian,85-89,Male,54,53,65,831,815
+Waikato,Asian,90+,Female,24,24,34,706,706
+Waikato,Asian,90+,Male,20,20,17,1176,1176
+Waikato,European or Other,12-15,Female,6232,5897,6681,933,883
+Waikato,European or Other,12-15,Male,6285,5904,6694,939,882
+Waikato,European or Other,16-19,Female,5758,5586,6026,956,927
+Waikato,European or Other,16-19,Male,5694,5446,6103,933,892
+Waikato,European or Other,20-24,Female,6833,6603,7769,880,850
+Waikato,European or Other,20-24,Male,7067,6762,7855,900,861
+Waikato,European or Other,20-24,Unknown/Other,7,7,8,875,875
+Waikato,European or Other,25-29,Female,7241,7007,8579,844,817
+Waikato,European or Other,25-29,Male,7303,6977,8104,901,861
+Waikato,European or Other,30-34,Female,7418,7151,8285,895,863
+Waikato,European or Other,30-34,Male,7246,6911,7808,928,885
+Waikato,European or Other,35-39,Female,7012,6812,7635,918,892
+Waikato,European or Other,35-39,Male,6752,6472,7291,926,888
+Waikato,European or Other,35-39,Unknown/Other,6,6,7,857,857
+Waikato,European or Other,40-44,Female,6960,6808,7855,886,867
+Waikato,European or Other,40-44,Male,6699,6457,7392,906,874
+Waikato,European or Other,45-49,Female,8092,7936,9249,875,858
+Waikato,European or Other,45-49,Male,7669,7473,8775,874,852
+Waikato,European or Other,50-54,Female,9005,8855,9467,951,935
+Waikato,European or Other,50-54,Male,8392,8227,9069,925,907
+Waikato,European or Other,55-59,Female,8820,8694,9783,902,889
+Waikato,European or Other,55-59,Male,8483,8323,9482,895,878
+Waikato,European or Other,60-64,Female,9067,8963,9468,958,947
+Waikato,European or Other,60-64,Male,8802,8696,9119,965,954
+Waikato,European or Other,65-69,Female,8330,8270,8825,944,937
+Waikato,European or Other,65-69,Male,8012,7920,8408,953,942
+Waikato,European or Other,70-74,Female,7768,7712,7955,976,969
+Waikato,European or Other,70-74,Male,7768,7703,7902,983,975
+Waikato,European or Other,75-79,Female,5839,5789,5975,977,969
+Waikato,European or Other,75-79,Male,5352,5303,5506,972,963
+Waikato,European or Other,80-84,Female,4162,4114,4096,1016,1004
+Waikato,European or Other,80-84,Male,3561,3522,3442,1035,1023
+Waikato,European or Other,85-89,Female,2403,2363,2511,957,941
+Waikato,European or Other,85-89,Male,1865,1827,1882,991,971
+Waikato,European or Other,90+,Female,1601,1550,1608,996,964
+Waikato,European or Other,90+,Male,887,853,875,1014,975
+Waikato,Maori,12-15,Female,3167,2765,3589,882,770
+Waikato,Maori,12-15,Male,3134,2752,3714,844,741
+Waikato,Maori,16-19,Female,2851,2535,3279,869,773
+Waikato,Maori,16-19,Male,2810,2456,3253,864,755
+Waikato,Maori,20-24,Female,3263,2929,4008,814,731
+Waikato,Maori,20-24,Male,3332,2901,3886,857,747
+Waikato,Maori,25-29,Female,2976,2649,3779,788,701
+Waikato,Maori,25-29,Male,2898,2502,3640,796,687
+Waikato,Maori,30-34,Female,2926,2646,3505,835,755
+Waikato,Maori,30-34,Male,2636,2316,2968,888,780
+Waikato,Maori,35-39,Female,2426,2235,2839,855,787
+Waikato,Maori,35-39,Male,2134,1943,2506,852,775
+Waikato,Maori,40-44,Female,2321,2163,2621,886,825
+Waikato,Maori,40-44,Male,2056,1887,2311,890,817
+Waikato,Maori,45-49,Female,2365,2243,2795,846,803
+Waikato,Maori,45-49,Male,2018,1893,2292,880,826
+Waikato,Maori,50-54,Female,2320,2222,2502,927,888
+Waikato,Maori,50-54,Male,1988,1877,2167,917,866
+Waikato,Maori,55-59,Female,2235,2166,2506,892,864
+Waikato,Maori,55-59,Male,1903,1840,2086,912,882
+Waikato,Maori,60-64,Female,1926,1875,1974,976,950
+Waikato,Maori,60-64,Male,1513,1473,1587,953,928
+Waikato,Maori,65-69,Female,1425,1399,1437,992,974
+Waikato,Maori,65-69,Male,1132,1110,1114,1016,996
+Waikato,Maori,70-74,Female,949,937,941,1009,996
+Waikato,Maori,70-74,Male,688,674,688,1000,980
+Waikato,Maori,75-79,Female,518,510,538,963,948
+Waikato,Maori,75-79,Male,414,406,404,1025,1005
+Waikato,Maori,80-84,Female,280,271,290,966,934
+Waikato,Maori,80-84,Male,197,191,204,966,936
+Waikato,Maori,85-89,Female,132,130,131,1008,992
+Waikato,Maori,85-89,Male,80,76,77,1039,987
+Waikato,Maori,90+,Female,65,60,61,1066,984
+Waikato,Maori,90+,Male,11,10,11,1000,909
+Waikato,Pacific Peoples,12-15,Female,402,379,419,959,905
+Waikato,Pacific Peoples,12-15,Male,495,467,522,948,895
+Waikato,Pacific Peoples,16-19,Female,396,376,438,904,858
+Waikato,Pacific Peoples,16-19,Male,435,405,453,960,894
+Waikato,Pacific Peoples,20-24,Female,535,514,616,869,834
+Waikato,Pacific Peoples,20-24,Male,575,537,558,1030,962
+Waikato,Pacific Peoples,25-29,Female,527,504,560,941,900
+Waikato,Pacific Peoples,25-29,Male,538,504,570,944,884
+Waikato,Pacific Peoples,30-34,Female,468,450,529,885,851
+Waikato,Pacific Peoples,30-34,Male,497,476,522,952,912
+Waikato,Pacific Peoples,35-39,Female,435,421,501,868,840
+Waikato,Pacific Peoples,35-39,Male,480,458,500,960,916
+Waikato,Pacific Peoples,40-44,Female,444,431,464,957,929
+Waikato,Pacific Peoples,40-44,Male,452,430,454,996,947
+Waikato,Pacific Peoples,45-49,Female,378,370,405,933,914
+Waikato,Pacific Peoples,45-49,Male,404,390,405,998,963
+Waikato,Pacific Peoples,50-54,Female,359,341,359,1000,950
+Waikato,Pacific Peoples,50-54,Male,368,353,388,948,910
+Waikato,Pacific Peoples,55-59,Female,277,271,279,993,971
+Waikato,Pacific Peoples,55-59,Male,301,295,309,974,955
+Waikato,Pacific Peoples,60-64,Female,221,218,244,906,893
+Waikato,Pacific Peoples,60-64,Male,228,223,240,950,929
+Waikato,Pacific Peoples,65-69,Female,218,214,186,1172,1151
+Waikato,Pacific Peoples,65-69,Male,192,190,196,980,969
+Waikato,Pacific Peoples,70-74,Female,114,111,128,891,867
+Waikato,Pacific Peoples,70-74,Male,111,109,115,965,948
+Waikato,Pacific Peoples,75-79,Female,93,91,106,877,858
+Waikato,Pacific Peoples,75-79,Male,76,73,79,962,924
+Waikato,Pacific Peoples,80-84,Female,39,39,44,886,886
+Waikato,Pacific Peoples,80-84,Male,43,42,44,977,955
+Waikato,Pacific Peoples,85-89,Female,21,21,19,1105,1105
+Waikato,Pacific Peoples,85-89,Male,9,9,14,643,643
+Waikato,Pacific Peoples,90+,Female,5,5,9,556,556
+Waikato,Unknown,12-15,Female,23,22,13,1769,1692
+Waikato,Unknown,12-15,Male,19,18,15,1267,1200
+Waikato,Unknown,16-19,Female,50,50,57,877,877
+Waikato,Unknown,16-19,Male,54,52,49,1102,1061
+Waikato,Unknown,20-24,Female,94,89,71,1324,1254
+Waikato,Unknown,20-24,Male,126,120,100,1260,1200
+Waikato,Unknown,25-29,Female,138,136,108,1278,1259
+Waikato,Unknown,25-29,Male,207,201,126,1643,1595
+Waikato,Unknown,30-34,Female,177,176,192,922,917
+Waikato,Unknown,30-34,Male,199,189,171,1164,1105
+Waikato,Unknown,35-39,Female,219,209,238,920,878
+Waikato,Unknown,35-39,Male,324,314,270,1200,1163
+Waikato,Unknown,40-44,Female,176,172,166,1060,1036
+Waikato,Unknown,40-44,Male,291,276,269,1082,1026
+Waikato,Unknown,45-49,Female,129,124,136,949,912
+Waikato,Unknown,45-49,Male,302,289,255,1184,1133
+Waikato,Unknown,50-54,Female,111,108,135,822,800
+Waikato,Unknown,50-54,Male,352,343,333,1057,1030
+Waikato,Unknown,55-59,Female,120,112,138,870,812
+Waikato,Unknown,55-59,Male,331,319,328,1009,973
+Waikato,Unknown,60-64,Female,140,139,186,753,747
+Waikato,Unknown,60-64,Male,356,351,316,1127,1111
+Waikato,Unknown,65-69,Female,129,123,168,768,732
+Waikato,Unknown,65-69,Male,315,314,306,1029,1026
+Waikato,Unknown,70-74,Female,171,170,195,877,872
+Waikato,Unknown,70-74,Male,229,228,247,927,923
+Waikato,Unknown,75-79,Female,126,125,149,846,839
+Waikato,Unknown,75-79,Male,176,173,174,1011,994
+Waikato,Unknown,80-84,Female,106,105,108,981,972
+Waikato,Unknown,80-84,Male,108,104,106,1019,981
+Waikato,Unknown,85-89,Female,53,51,57,930,895
+Waikato,Unknown,85-89,Male,39,37,41,951,902
+Waikato,Unknown,90+,Female,28,28,37,757,757
+Waikato,Unknown,90+,Male,19,19,20,950,950
+Wairarapa,Asian,12-15,Female,39,38,42,929,905
+Wairarapa,Asian,12-15,Male,43,41,47,915,872
+Wairarapa,Asian,16-19,Female,37,37,26,1423,1423
+Wairarapa,Asian,16-19,Male,42,42,29,1448,1448
+Wairarapa,Asian,20-24,Female,25,25,18,1389,1389
+Wairarapa,Asian,20-24,Male,48,48,36,1333,1333
+Wairarapa,Asian,25-29,Female,68,65,70,971,929
+Wairarapa,Asian,25-29,Male,118,114,69,1710,1652
+Wairarapa,Asian,30-34,Female,103,102,103,1000,990
+Wairarapa,Asian,30-34,Male,125,124,93,1344,1333
+Wairarapa,Asian,35-39,Female,91,90,92,989,978
+Wairarapa,Asian,35-39,Male,112,112,89,1258,1258
+Wairarapa,Asian,40-44,Female,79,78,65,1215,1200
+Wairarapa,Asian,40-44,Male,77,77,61,1262,1262
+Wairarapa,Asian,45-49,Female,45,45,36,1250,1250
+Wairarapa,Asian,45-49,Male,51,50,40,1275,1250
+Wairarapa,Asian,50-54,Female,48,48,44,1091,1091
+Wairarapa,Asian,50-54,Male,21,20,20,1050,1000
+Wairarapa,Asian,55-59,Female,42,41,46,913,891
+Wairarapa,Asian,55-59,Male,24,24,18,1333,1333
+Wairarapa,Asian,60-64,Female,40,40,41,976,976
+Wairarapa,Asian,60-64,Male,22,20,23,957,870
+Wairarapa,Asian,65-69,Female,27,27,28,964,964
+Wairarapa,Asian,65-69,Male,17,17,15,1133,1133
+Wairarapa,Asian,70-74,Female,18,18,19,947,947
+Wairarapa,Asian,70-74,Male,5,5,5,1000,1000
+Wairarapa,Asian,75-79,Female,6,6,5,1200,1200
+Wairarapa,Asian,75-79,Male,10,10,12,833,833
+Wairarapa,European or Other,12-15,Female,772,734,819,943,896
+Wairarapa,European or Other,12-15,Male,809,749,855,946,876
+Wairarapa,European or Other,16-19,Female,657,634,711,924,892
+Wairarapa,European or Other,16-19,Male,695,662,730,952,907
+Wairarapa,European or Other,20-24,Female,651,625,724,899,863
+Wairarapa,European or Other,20-24,Male,673,627,775,868,809
+Wairarapa,European or Other,25-29,Female,761,728,930,818,783
+Wairarapa,European or Other,25-29,Male,746,685,813,918,843
+Wairarapa,European or Other,30-34,Female,892,852,915,975,931
+Wairarapa,European or Other,30-34,Male,813,747,874,930,855
+Wairarapa,European or Other,35-39,Female,835,809,967,863,837
+Wairarapa,European or Other,35-39,Male,805,760,886,909,858
+Wairarapa,European or Other,40-44,Female,1010,986,1039,972,949
+Wairarapa,European or Other,40-44,Male,848,807,913,929,884
+Wairarapa,European or Other,45-49,Female,1170,1152,1324,884,870
+Wairarapa,European or Other,45-49,Male,1036,1011,1154,898,876
+Wairarapa,European or Other,50-54,Female,1375,1354,1405,979,964
+Wairarapa,European or Other,50-54,Male,1242,1213,1302,954,932
+Wairarapa,European or Other,55-59,Female,1402,1386,1507,930,920
+Wairarapa,European or Other,55-59,Male,1339,1304,1439,931,906
+Wairarapa,European or Other,60-64,Female,1528,1518,1583,965,959
+Wairarapa,European or Other,60-64,Male,1440,1421,1460,986,973
+Wairarapa,European or Other,65-69,Female,1450,1442,1467,988,983
+Wairarapa,European or Other,65-69,Male,1388,1372,1449,958,947
+Wairarapa,European or Other,70-74,Female,1354,1339,1402,966,955
+Wairarapa,European or Other,70-74,Male,1330,1319,1366,974,966
+Wairarapa,European or Other,75-79,Female,931,926,935,996,990
+Wairarapa,European or Other,75-79,Male,921,917,909,1013,1009
+Wairarapa,European or Other,80-84,Female,697,690,646,1079,1068
+Wairarapa,European or Other,80-84,Male,549,542,530,1036,1023
+Wairarapa,European or Other,85-89,Female,359,354,379,947,934
+Wairarapa,European or Other,85-89,Male,290,286,289,1003,990
+Wairarapa,European or Other,90+,Female,270,265,289,934,917
+Wairarapa,European or Other,90+,Male,115,109,118,975,924
+Wairarapa,Maori,12-15,Female,307,274,339,906,808
+Wairarapa,Maori,12-15,Male,341,291,365,934,797
+Wairarapa,Maori,16-19,Female,260,229,285,912,804
+Wairarapa,Maori,16-19,Male,272,243,293,928,829
+Wairarapa,Maori,20-24,Female,297,270,357,832,756
+Wairarapa,Maori,20-24,Male,296,262,360,822,728
+Wairarapa,Maori,25-29,Female,265,242,313,847,773
+Wairarapa,Maori,25-29,Male,244,210,295,827,712
+Wairarapa,Maori,30-34,Female,269,250,307,876,814
+Wairarapa,Maori,30-34,Male,226,211,261,866,808
+Wairarapa,Maori,35-39,Female,212,195,236,898,826
+Wairarapa,Maori,35-39,Male,203,182,225,902,809
+Wairarapa,Maori,40-44,Female,202,193,233,867,828
+Wairarapa,Maori,40-44,Male,197,175,214,921,818
+Wairarapa,Maori,45-49,Female,246,239,262,939,912
+Wairarapa,Maori,45-49,Male,174,160,191,911,838
+Wairarapa,Maori,50-54,Female,195,189,208,938,909
+Wairarapa,Maori,50-54,Male,169,158,192,880,823
+Wairarapa,Maori,55-59,Female,214,206,240,892,858
+Wairarapa,Maori,55-59,Male,186,178,189,984,942
+Wairarapa,Maori,60-64,Female,182,176,186,978,946
+Wairarapa,Maori,60-64,Male,147,144,151,974,954
+Wairarapa,Maori,65-69,Female,125,121,108,1157,1120
+Wairarapa,Maori,65-69,Male,121,118,132,917,894
+Wairarapa,Maori,70-74,Female,100,100,100,1000,1000
+Wairarapa,Maori,70-74,Male,74,73,67,1104,1090
+Wairarapa,Maori,75-79,Female,51,51,53,962,962
+Wairarapa,Maori,75-79,Male,46,42,51,902,824
+Wairarapa,Maori,80-84,Female,31,29,27,1148,1074
+Wairarapa,Maori,80-84,Male,24,24,22,1091,1091
+Wairarapa,Maori,85-89,Female,15,15,17,882,882
+Wairarapa,Maori,85-89,Male,12,12,10,1200,1200
+Wairarapa,Maori,90+,Female,6,6,10,600,600
+Wairarapa,Pacific Peoples,12-15,Female,37,33,43,860,767
+Wairarapa,Pacific Peoples,12-15,Male,39,37,38,1026,974
+Wairarapa,Pacific Peoples,16-19,Female,34,34,39,872,872
+Wairarapa,Pacific Peoples,16-19,Male,43,43,48,896,896
+Wairarapa,Pacific Peoples,20-24,Female,33,32,41,805,780
+Wairarapa,Pacific Peoples,20-24,Male,45,40,51,882,784
+Wairarapa,Pacific Peoples,25-29,Female,35,33,32,1094,1031
+Wairarapa,Pacific Peoples,25-29,Male,55,53,50,1100,1060
+Wairarapa,Pacific Peoples,30-34,Female,28,28,25,1120,1120
+Wairarapa,Pacific Peoples,30-34,Male,44,42,40,1100,1050
+Wairarapa,Pacific Peoples,35-39,Female,27,25,30,900,833
+Wairarapa,Pacific Peoples,35-39,Male,48,45,42,1143,1071
+Wairarapa,Pacific Peoples,40-44,Female,34,32,38,895,842
+Wairarapa,Pacific Peoples,40-44,Male,23,23,30,767,767
+Wairarapa,Pacific Peoples,45-49,Female,24,22,31,774,710
+Wairarapa,Pacific Peoples,45-49,Male,38,36,34,1118,1059
+Wairarapa,Pacific Peoples,50-54,Female,36,34,31,1161,1097
+Wairarapa,Pacific Peoples,50-54,Male,30,30,25,1200,1200
+Wairarapa,Pacific Peoples,55-59,Female,26,25,27,963,926
+Wairarapa,Pacific Peoples,55-59,Male,28,28,32,875,875
+Wairarapa,Pacific Peoples,60-64,Female,20,20,18,1111,1111
+Wairarapa,Pacific Peoples,60-64,Male,19,18,17,1118,1059
+Wairarapa,Pacific Peoples,65-69,Female,20,20,15,1333,1333
+Wairarapa,Pacific Peoples,65-69,Male,14,14,17,824,824
+Wairarapa,Pacific Peoples,70-74,Female,7,7,9,778,778
+Wairarapa,Pacific Peoples,70-74,Male,13,13,16,812,812
+Wairarapa,Pacific Peoples,75-79,Female,6,6,5,1200,1200
+Wairarapa,Pacific Peoples,80-84,Female,5,5,5,1000,1000
+Wairarapa,Unknown,25-29,Female,5,5,5,1000,1000
+Wairarapa,Unknown,30-34,Male,12,9,5,2400,1800
+Wairarapa,Unknown,35-39,Female,11,11,5,2200,2200
+Wairarapa,Unknown,40-44,Male,10,10,5,2000,2000
+Wairarapa,Unknown,45-49,Female,9,9,6,1500,1500
+Wairarapa,Unknown,45-49,Male,22,21,16,1375,1312
+Wairarapa,Unknown,50-54,Male,19,16,12,1583,1333
+Wairarapa,Unknown,55-59,Male,24,23,14,1714,1643
+Wairarapa,Unknown,60-64,Female,9,9,6,1500,1500
+Wairarapa,Unknown,60-64,Male,27,25,14,1929,1786
+Wairarapa,Unknown,65-69,Male,16,16,14,1143,1143
+Wairarapa,Unknown,70-74,Female,8,8,7,1143,1143
+Wairarapa,Unknown,70-74,Male,17,17,14,1214,1214
+Waitemata,Asian,12-15,Female,3437,3322,3191,1077,1041
+Waitemata,Asian,12-15,Male,3751,3592,3421,1096,1050
+Waitemata,Asian,12-15,Unknown/Other,7,5,6,1167,833
+Waitemata,Asian,16-19,Female,3143,3106,2749,1143,1130
+Waitemata,Asian,16-19,Male,3344,3302,2795,1196,1181
+Waitemata,Asian,20-24,Female,3969,3926,3779,1050,1039
+Waitemata,Asian,20-24,Male,4290,4247,3525,1217,1205
+Waitemata,Asian,20-24,Unknown/Other,25,24,5,5000,4800
+Waitemata,Asian,25-29,Female,6065,6002,6582,921,912
+Waitemata,Asian,25-29,Male,6039,5974,5433,1112,1100
+Waitemata,Asian,25-29,Unknown/Other,52,52,12,4333,4333
+Waitemata,Asian,30-34,Female,9079,8947,9506,955,941
+Waitemata,Asian,30-34,Male,8159,8075,7604,1073,1062
+Waitemata,Asian,30-34,Unknown/Other,71,71,19,3737,3737
+Waitemata,Asian,35-39,Female,9485,9357,9698,978,965
+Waitemata,Asian,35-39,Male,8859,8752,8446,1049,1036
+Waitemata,Asian,35-39,Unknown/Other,39,38,14,2786,2714
+Waitemata,Asian,40-44,Female,6723,6635,6254,1075,1061
+Waitemata,Asian,40-44,Male,6549,6491,5644,1160,1150
+Waitemata,Asian,40-44,Unknown/Other,50,48,8,6250,6000
+Waitemata,Asian,45-49,Female,5015,4957,5131,977,966
+Waitemata,Asian,45-49,Male,4498,4444,4275,1052,1040
+Waitemata,Asian,45-49,Unknown/Other,26,26,11,2364,2364
+Waitemata,Asian,50-54,Female,4566,4518,4516,1011,1000
+Waitemata,Asian,50-54,Male,3709,3672,3535,1049,1039
+Waitemata,Asian,55-59,Female,3925,3883,4093,959,949
+Waitemata,Asian,55-59,Male,3261,3233,3283,993,985
+Waitemata,Asian,55-59,Unknown/Other,13,12,6,2167,2000
+Waitemata,Asian,60-64,Female,3737,3702,4289,871,863
+Waitemata,Asian,60-64,Male,2722,2699,3120,872,865
+Waitemata,Asian,60-64,Unknown/Other,11,10,5,2200,2000
+Waitemata,Asian,65-69,Female,3168,3132,3338,949,938
+Waitemata,Asian,65-69,Male,2583,2554,2802,922,911
+Waitemata,Asian,65-69,Unknown/Other,7,6,6,1167,1000
+Waitemata,Asian,70-74,Female,1739,1719,1835,948,937
+Waitemata,Asian,70-74,Male,1696,1680,1765,961,952
+Waitemata,Asian,75-79,Female,939,927,1042,901,890
+Waitemata,Asian,75-79,Male,885,875,957,925,914
+Waitemata,Asian,80-84,Female,584,565,659,886,857
+Waitemata,Asian,80-84,Male,526,518,635,828,816
+Waitemata,Asian,85-89,Female,265,261,264,1004,989
+Waitemata,Asian,85-89,Male,243,235,257,946,914
+Waitemata,Asian,90+,Female,114,107,117,974,915
+Waitemata,Asian,90+,Male,70,68,60,1167,1133
+Waitemata,European or Other,12-15,Female,8179,7891,8471,966,932
+Waitemata,European or Other,12-15,Male,8520,8162,8797,969,928
+Waitemata,European or Other,16-19,Female,7344,7249,7988,919,907
+Waitemata,European or Other,16-19,Male,7712,7543,8314,928,907
+Waitemata,European or Other,16-19,Unknown/Other,6,6,10,600,600
+Waitemata,European or Other,20-24,Female,9430,9288,10529,896,882
+Waitemata,European or Other,20-24,Male,9782,9564,10478,934,913
+Waitemata,European or Other,20-24,Unknown/Other,17,17,11,1545,1545
+Waitemata,European or Other,25-29,Female,9809,9636,11621,844,829
+Waitemata,European or Other,25-29,Male,10039,9764,10987,914,889
+Waitemata,European or Other,25-29,Unknown/Other,24,24,18,1333,1333
+Waitemata,European or Other,30-34,Female,10990,10732,12116,907,886
+Waitemata,European or Other,30-34,Male,10694,10422,11060,967,942
+Waitemata,European or Other,30-34,Unknown/Other,14,14,7,2000,2000
+Waitemata,European or Other,35-39,Female,10907,10718,12356,883,867
+Waitemata,European or Other,35-39,Male,10479,10218,11487,912,890
+Waitemata,European or Other,40-44,Female,11159,10999,12417,899,886
+Waitemata,European or Other,40-44,Male,10838,10633,11707,926,908
+Waitemata,European or Other,40-44,Unknown/Other,8,8,5,1600,1600
+Waitemata,European or Other,45-49,Female,12245,12079,13917,880,868
+Waitemata,European or Other,45-49,Male,12179,11948,13629,894,877
+Waitemata,European or Other,50-54,Female,12615,12450,13576,929,917
+Waitemata,European or Other,50-54,Male,12906,12702,13766,938,923
+Waitemata,European or Other,55-59,Female,12036,11914,13186,913,904
+Waitemata,European or Other,55-59,Male,12315,12158,13194,933,921
+Waitemata,European or Other,60-64,Female,10849,10719,11313,959,947
+Waitemata,European or Other,60-64,Male,11000,10883,11391,966,955
+Waitemata,European or Other,65-69,Female,9163,9100,9738,941,934
+Waitemata,European or Other,65-69,Male,8750,8668,9442,927,918
+Waitemata,European or Other,70-74,Female,8855,8787,9386,943,936
+Waitemata,European or Other,70-74,Male,8284,8246,8654,957,953
+Waitemata,European or Other,75-79,Female,7046,7002,7223,975,969
+Waitemata,European or Other,75-79,Male,6237,6196,6405,974,967
+Waitemata,European or Other,80-84,Female,5122,5083,5019,1021,1013
+Waitemata,European or Other,80-84,Male,4173,4134,4118,1013,1004
+Waitemata,European or Other,85-89,Female,3066,3019,3118,983,968
+Waitemata,European or Other,85-89,Male,2242,2216,2300,975,963
+Waitemata,European or Other,90+,Female,2289,2233,2362,969,945
+Waitemata,European or Other,90+,Male,1169,1134,1133,1032,1001
+Waitemata,Maori,12-15,Female,2028,1891,2178,931,868
+Waitemata,Maori,12-15,Male,2112,1948,2269,931,859
+Waitemata,Maori,16-19,Female,1667,1581,1835,908,862
+Waitemata,Maori,16-19,Male,1772,1670,1992,890,838
+Waitemata,Maori,20-24,Female,2093,1991,2545,822,782
+Waitemata,Maori,20-24,Male,2123,1966,2440,870,806
+Waitemata,Maori,25-29,Female,1996,1878,2421,824,776
+Waitemata,Maori,25-29,Male,1966,1832,2283,861,802
+Waitemata,Maori,30-34,Female,1681,1580,1965,855,804
+Waitemata,Maori,30-34,Male,1658,1527,1761,942,867
+Waitemata,Maori,35-39,Female,1400,1321,1604,873,824
+Waitemata,Maori,35-39,Male,1287,1206,1490,864,809
+Waitemata,Maori,40-44,Female,1385,1328,1556,890,853
+Waitemata,Maori,40-44,Male,1271,1217,1395,911,872
+Waitemata,Maori,45-49,Female,1522,1472,1755,867,839
+Waitemata,Maori,45-49,Male,1293,1245,1470,880,847
+Waitemata,Maori,50-54,Female,1488,1443,1579,942,914
+Waitemata,Maori,50-54,Male,1272,1233,1335,953,924
+Waitemata,Maori,55-59,Female,1240,1209,1429,868,846
+Waitemata,Maori,55-59,Male,1134,1099,1194,950,920
+Waitemata,Maori,60-64,Female,1060,1044,1050,1010,994
+Waitemata,Maori,60-64,Male,794,778,803,989,969
+Waitemata,Maori,65-69,Female,671,662,715,938,926
+Waitemata,Maori,65-69,Male,496,493,508,976,970
+Waitemata,Maori,70-74,Female,424,422,420,1010,1005
+Waitemata,Maori,70-74,Male,298,293,307,971,954
+Waitemata,Maori,75-79,Female,234,229,242,967,946
+Waitemata,Maori,75-79,Male,181,179,172,1052,1041
+Waitemata,Maori,80-84,Female,151,146,163,926,896
+Waitemata,Maori,80-84,Male,95,94,96,990,979
+Waitemata,Maori,85-89,Female,62,59,65,954,908
+Waitemata,Maori,85-89,Male,36,35,30,1200,1167
+Waitemata,Maori,90+,Female,28,28,30,933,933
+Waitemata,Maori,90+,Male,5,5,7,714,714
+Waitemata,Pacific Peoples,12-15,Female,1648,1552,1664,990,933
+Waitemata,Pacific Peoples,12-15,Male,1762,1642,1851,952,887
+Waitemata,Pacific Peoples,16-19,Female,1510,1456,1664,907,875
+Waitemata,Pacific Peoples,16-19,Male,1593,1503,1746,912,861
+Waitemata,Pacific Peoples,20-24,Female,1983,1900,2176,911,873
+Waitemata,Pacific Peoples,20-24,Male,1940,1807,2093,927,863
+Waitemata,Pacific Peoples,20-24,Unknown/Other,9,9,5,1800,1800
+Waitemata,Pacific Peoples,25-29,Female,1852,1760,2093,885,841
+Waitemata,Pacific Peoples,25-29,Male,1800,1683,1886,954,892
+Waitemata,Pacific Peoples,30-34,Female,1559,1484,1751,890,848
+Waitemata,Pacific Peoples,30-34,Male,1635,1526,1667,981,915
+Waitemata,Pacific Peoples,35-39,Female,1323,1280,1466,902,873
+Waitemata,Pacific Peoples,35-39,Male,1393,1330,1546,901,860
+Waitemata,Pacific Peoples,40-44,Female,1424,1397,1541,924,907
+Waitemata,Pacific Peoples,40-44,Male,1307,1276,1428,915,894
+Waitemata,Pacific Peoples,45-49,Female,1281,1262,1362,941,927
+Waitemata,Pacific Peoples,45-49,Male,1247,1220,1315,948,928
+Waitemata,Pacific Peoples,50-54,Female,1264,1234,1377,918,896
+Waitemata,Pacific Peoples,50-54,Male,1242,1216,1295,959,939
+Waitemata,Pacific Peoples,55-59,Female,1158,1138,1216,952,936
+Waitemata,Pacific Peoples,55-59,Male,1101,1085,1117,986,971
+Waitemata,Pacific Peoples,60-64,Female,883,867,921,959,941
+Waitemata,Pacific Peoples,60-64,Male,782,773,826,947,936
+Waitemata,Pacific Peoples,65-69,Female,649,639,718,904,890
+Waitemata,Pacific Peoples,65-69,Male,602,591,643,936,919
+Waitemata,Pacific Peoples,70-74,Female,495,490,549,902,893
+Waitemata,Pacific Peoples,70-74,Male,433,425,462,937,920
+Waitemata,Pacific Peoples,75-79,Female,330,325,367,899,886
+Waitemata,Pacific Peoples,75-79,Male,233,228,256,910,891
+Waitemata,Pacific Peoples,80-84,Female,202,193,202,1000,955
+Waitemata,Pacific Peoples,80-84,Male,109,107,132,826,811
+Waitemata,Pacific Peoples,85-89,Female,95,92,104,913,885
+Waitemata,Pacific Peoples,85-89,Male,56,52,59,949,881
+Waitemata,Pacific Peoples,90+,Female,45,42,52,865,808
+Waitemata,Pacific Peoples,90+,Male,12,10,18,667,556
+Waitemata,Unknown,12-15,Female,46,44,20,2300,2200
+Waitemata,Unknown,12-15,Male,37,35,8,4625,4375
+Waitemata,Unknown,16-19,Female,52,51,16,3250,3188
+Waitemata,Unknown,16-19,Male,43,42,6,7167,7000
+Waitemata,Unknown,20-24,Female,59,58,24,2458,2417
+Waitemata,Unknown,20-24,Male,113,109,18,6278,6056
+Waitemata,Unknown,25-29,Female,143,142,34,4206,4176
+Waitemata,Unknown,25-29,Male,175,169,39,4487,4333
+Waitemata,Unknown,30-34,Female,155,151,41,3780,3683
+Waitemata,Unknown,30-34,Male,235,231,67,3507,3448
+Waitemata,Unknown,35-39,Female,131,129,48,2729,2688
+Waitemata,Unknown,35-39,Male,304,297,103,2951,2883
+Waitemata,Unknown,40-44,Female,107,104,40,2675,2600
+Waitemata,Unknown,40-44,Male,225,219,97,2320,2258
+Waitemata,Unknown,45-49,Female,72,67,31,2323,2161
+Waitemata,Unknown,45-49,Male,249,241,93,2677,2591
+Waitemata,Unknown,50-54,Female,86,84,32,2688,2625
+Waitemata,Unknown,50-54,Male,196,190,96,2042,1979
+Waitemata,Unknown,55-59,Female,58,58,55,1055,1055
+Waitemata,Unknown,55-59,Male,187,182,108,1731,1685
+Waitemata,Unknown,60-64,Female,67,66,51,1314,1294
+Waitemata,Unknown,60-64,Male,146,143,78,1872,1833
+Waitemata,Unknown,65-69,Female,69,66,48,1438,1375
+Waitemata,Unknown,65-69,Male,90,84,46,1957,1826
+Waitemata,Unknown,70-74,Female,40,40,37,1081,1081
+Waitemata,Unknown,70-74,Male,44,41,42,1048,976
+Waitemata,Unknown,75-79,Female,18,18,28,643,643
+Waitemata,Unknown,75-79,Male,34,33,32,1062,1031
+Waitemata,Unknown,80-84,Female,25,22,27,926,815
+Waitemata,Unknown,80-84,Male,9,8,10,900,800
+Waitemata,Unknown,85-89,Female,17,17,20,850,850
+Waitemata,Unknown,85-89,Male,5,5,11,455,455
+Waitemata,Unknown,90+,Female,10,10,10,1000,1000
+Waitemata,Unknown,90+,Male,5,5,7,714,714
+West Coast,Asian,12-15,Female,31,30,38,816,789
+West Coast,Asian,12-15,Male,26,24,28,929,857
+West Coast,Asian,16-19,Female,12,12,10,1200,1200
+West Coast,Asian,16-19,Male,12,12,15,800,800
+West Coast,Asian,20-24,Female,20,20,20,1000,1000
+West Coast,Asian,20-24,Male,23,23,22,1045,1045
+West Coast,Asian,25-29,Female,77,75,83,928,904
+West Coast,Asian,25-29,Male,66,66,57,1158,1158
+West Coast,Asian,30-34,Female,90,90,90,1000,1000
+West Coast,Asian,30-34,Male,82,81,75,1093,1080
+West Coast,Asian,35-39,Female,81,80,62,1306,1290
+West Coast,Asian,35-39,Male,82,81,66,1242,1227
+West Coast,Asian,40-44,Female,41,41,53,774,774
+West Coast,Asian,40-44,Male,60,59,41,1463,1439
+West Coast,Asian,45-49,Female,50,50,46,1087,1087
+West Coast,Asian,45-49,Male,32,32,30,1067,1067
+West Coast,Asian,50-54,Female,27,26,28,964,929
+West Coast,Asian,50-54,Male,14,14,15,933,933
+West Coast,Asian,55-59,Female,30,29,29,1034,1000
+West Coast,Asian,55-59,Male,15,14,15,1000,933
+West Coast,Asian,60-64,Female,22,22,27,815,815
+West Coast,Asian,60-64,Male,10,10,8,1250,1250
+West Coast,Asian,65-69,Female,11,11,9,1222,1222
+West Coast,European or Other,12-15,Female,516,473,532,970,889
+West Coast,European or Other,12-15,Male,570,522,591,964,883
+West Coast,European or Other,16-19,Female,420,389,469,896,829
+West Coast,European or Other,16-19,Male,483,452,520,929,869
+West Coast,European or Other,20-24,Female,417,389,469,889,829
+West Coast,European or Other,20-24,Male,489,453,577,847,785
+West Coast,European or Other,25-29,Female,538,506,702,766,721
+West Coast,European or Other,25-29,Male,540,490,682,792,718
+West Coast,European or Other,30-34,Female,619,565,696,889,812
+West Coast,European or Other,30-34,Male,607,554,677,897,818
+West Coast,European or Other,35-39,Female,559,521,678,824,768
+West Coast,European or Other,35-39,Male,557,522,691,806,755
+West Coast,European or Other,40-44,Female,668,646,701,953,922
+West Coast,European or Other,40-44,Male,589,562,644,915,873
+West Coast,European or Other,45-49,Female,780,749,897,870,835
+West Coast,European or Other,45-49,Male,749,719,906,827,794
+West Coast,European or Other,50-54,Female,972,933,1039,936,898
+West Coast,European or Other,50-54,Male,940,900,1087,865,828
+West Coast,European or Other,55-59,Female,1124,1108,1264,889,877
+West Coast,European or Other,55-59,Male,1138,1110,1272,895,873
+West Coast,European or Other,60-64,Female,1091,1073,1099,993,976
+West Coast,European or Other,60-64,Male,1246,1216,1281,973,949
+West Coast,European or Other,65-69,Female,940,924,948,992,975
+West Coast,European or Other,65-69,Male,1165,1138,1199,972,949
+West Coast,European or Other,70-74,Female,768,759,822,934,923
+West Coast,European or Other,70-74,Male,966,951,1005,961,946
+West Coast,European or Other,75-79,Female,572,565,569,1005,993
+West Coast,European or Other,75-79,Male,562,553,588,956,940
+West Coast,European or Other,80-84,Female,364,355,376,968,944
+West Coast,European or Other,80-84,Male,355,346,339,1047,1021
+West Coast,European or Other,85-89,Female,180,176,199,905,884
+West Coast,European or Other,85-89,Male,171,166,184,929,902
+West Coast,European or Other,90+,Female,118,115,115,1026,1000
+West Coast,European or Other,90+,Male,76,72,75,1013,960
+West Coast,Maori,12-15,Female,104,97,107,972,907
+West Coast,Maori,12-15,Male,136,123,157,866,783
+West Coast,Maori,16-19,Female,81,72,108,750,667
+West Coast,Maori,16-19,Male,138,122,126,1095,968
+West Coast,Maori,20-24,Female,101,87,119,849,731
+West Coast,Maori,20-24,Male,103,92,131,786,702
+West Coast,Maori,25-29,Female,113,98,147,769,667
+West Coast,Maori,25-29,Male,98,85,138,710,616
+West Coast,Maori,30-34,Female,97,88,127,764,693
+West Coast,Maori,30-34,Male,93,82,101,921,812
+West Coast,Maori,35-39,Female,74,68,80,925,850
+West Coast,Maori,35-39,Male,63,55,93,677,591
+West Coast,Maori,40-44,Female,84,82,91,923,901
+West Coast,Maori,40-44,Male,78,66,88,886,750
+West Coast,Maori,45-49,Female,111,104,125,888,832
+West Coast,Maori,45-49,Male,67,66,83,807,795
+West Coast,Maori,50-54,Female,103,99,118,873,839
+West Coast,Maori,50-54,Male,77,72,101,762,713
+West Coast,Maori,55-59,Female,131,125,139,942,899
+West Coast,Maori,55-59,Male,100,92,115,870,800
+West Coast,Maori,60-64,Female,92,90,94,979,957
+West Coast,Maori,60-64,Male,95,94,95,1000,989
+West Coast,Maori,65-69,Female,54,53,62,871,855
+West Coast,Maori,65-69,Male,49,47,50,980,940
+West Coast,Maori,70-74,Female,46,42,42,1095,1000
+West Coast,Maori,70-74,Male,41,40,33,1242,1212
+West Coast,Maori,75-79,Female,25,25,30,833,833
+West Coast,Maori,75-79,Male,16,16,19,842,842
+West Coast,Maori,80-84,Female,13,13,11,1182,1182
+West Coast,Maori,80-84,Male,14,14,18,778,778
+West Coast,Maori,85-89,Male,6,5,11,545,455
+West Coast,Pacific Peoples,12-15,Female,22,20,21,1048,952
+West Coast,Pacific Peoples,12-15,Male,9,6,16,562,375
+West Coast,Pacific Peoples,16-19,Female,15,15,15,1000,1000
+West Coast,Pacific Peoples,16-19,Male,14,12,9,1556,1333
+West Coast,Pacific Peoples,20-24,Female,10,10,11,909,909
+West Coast,Pacific Peoples,20-24,Male,7,7,11,636,636
+West Coast,Pacific Peoples,25-29,Female,12,12,14,857,857
+West Coast,Pacific Peoples,25-29,Male,9,8,6,1500,1333
+West Coast,Pacific Peoples,30-34,Female,26,25,20,1300,1250
+West Coast,Pacific Peoples,30-34,Male,17,16,13,1308,1231
+West Coast,Pacific Peoples,35-39,Female,12,11,8,1500,1375
+West Coast,Pacific Peoples,35-39,Male,19,19,19,1000,1000
+West Coast,Pacific Peoples,40-44,Female,11,11,16,688,688
+West Coast,Pacific Peoples,40-44,Male,14,13,13,1077,1000
+West Coast,Pacific Peoples,45-49,Female,12,12,17,706,706
+West Coast,Pacific Peoples,45-49,Male,9,9,15,600,600
+West Coast,Pacific Peoples,50-54,Female,15,15,15,1000,1000
+West Coast,Pacific Peoples,50-54,Male,11,11,10,1100,1100
+West Coast,Pacific Peoples,55-59,Female,9,9,7,1286,1286
+West Coast,Pacific Peoples,65-69,Male,8,8,5,1600,1600
+West Coast,Unknown,45-49,Female,6,6,12,500,500
+Whanganui,Asian,12-15,Female,53,51,63,841,810
+Whanganui,Asian,12-15,Male,72,69,73,986,945
+Whanganui,Asian,16-19,Female,43,43,56,768,768
+Whanganui,Asian,16-19,Male,77,76,51,1510,1490
+Whanganui,Asian,20-24,Female,45,45,55,818,818
+Whanganui,Asian,20-24,Male,85,82,62,1371,1323
+Whanganui,Asian,25-29,Female,113,113,115,983,983
+Whanganui,Asian,25-29,Male,142,142,114,1246,1246
+Whanganui,Asian,30-34,Female,161,161,147,1095,1095
+Whanganui,Asian,30-34,Male,154,151,122,1262,1238
+Whanganui,Asian,35-39,Female,127,127,126,1008,1008
+Whanganui,Asian,35-39,Male,145,144,131,1107,1099
+Whanganui,Asian,40-44,Female,83,81,90,922,900
+Whanganui,Asian,40-44,Male,104,104,81,1284,1284
+Whanganui,Asian,45-49,Female,93,93,99,939,939
+Whanganui,Asian,45-49,Male,58,58,50,1160,1160
+Whanganui,Asian,50-54,Female,65,65,63,1032,1032
+Whanganui,Asian,50-54,Male,55,54,52,1058,1038
+Whanganui,Asian,55-59,Female,71,70,75,947,933
+Whanganui,Asian,55-59,Male,46,46,46,1000,1000
+Whanganui,Asian,60-64,Female,51,50,49,1041,1020
+Whanganui,Asian,60-64,Male,26,26,33,788,788
+Whanganui,Asian,65-69,Female,26,26,29,897,897
+Whanganui,Asian,65-69,Male,20,20,24,833,833
+Whanganui,Asian,70-74,Female,20,20,23,870,870
+Whanganui,Asian,70-74,Male,16,16,14,1143,1143
+Whanganui,Asian,75-79,Female,11,11,13,846,846
+Whanganui,Asian,75-79,Male,9,9,14,643,643
+Whanganui,Asian,80-84,Female,7,7,9,778,778
+Whanganui,Asian,80-84,Male,7,7,8,875,875
+Whanganui,European or Other,12-15,Female,837,777,951,880,817
+Whanganui,European or Other,12-15,Male,865,808,982,881,823
+Whanganui,European or Other,16-19,Female,842,813,924,911,880
+Whanganui,European or Other,16-19,Male,863,815,946,912,862
+Whanganui,European or Other,20-24,Female,837,800,970,863,825
+Whanganui,European or Other,20-24,Male,986,915,1096,900,835
+Whanganui,European or Other,25-29,Female,999,964,1169,855,825
+Whanganui,European or Other,25-29,Male,1073,999,1192,900,838
+Whanganui,European or Other,30-34,Female,1101,1042,1253,879,832
+Whanganui,European or Other,30-34,Male,1090,1029,1178,925,874
+Whanganui,European or Other,35-39,Female,1013,983,1104,918,890
+Whanganui,European or Other,35-39,Male,988,943,1106,893,853
+Whanganui,European or Other,40-44,Female,1026,1006,1184,867,850
+Whanganui,European or Other,40-44,Male,929,890,1082,859,823
+Whanganui,European or Other,45-49,Female,1272,1241,1450,877,856
+Whanganui,European or Other,45-49,Male,1184,1150,1364,868,843
+Whanganui,European or Other,50-54,Female,1469,1441,1634,899,882
+Whanganui,European or Other,50-54,Male,1399,1365,1538,910,888
+Whanganui,European or Other,55-59,Female,1712,1696,1867,917,908
+Whanganui,European or Other,55-59,Male,1598,1570,1808,884,868
+Whanganui,European or Other,60-64,Female,1770,1744,1864,950,936
+Whanganui,European or Other,60-64,Male,1757,1721,1821,965,945
+Whanganui,European or Other,65-69,Female,1647,1621,1692,973,958
+Whanganui,European or Other,65-69,Male,1671,1653,1734,964,953
+Whanganui,European or Other,70-74,Female,1537,1525,1606,957,950
+Whanganui,European or Other,70-74,Male,1534,1524,1574,975,968
+Whanganui,European or Other,75-79,Female,1110,1104,1152,964,958
+Whanganui,European or Other,75-79,Male,1031,1021,1044,988,978
+Whanganui,European or Other,80-84,Female,902,891,879,1026,1014
+Whanganui,European or Other,80-84,Male,684,678,698,980,971
+Whanganui,European or Other,85-89,Female,505,499,525,962,950
+Whanganui,European or Other,85-89,Male,353,348,355,994,980
+Whanganui,European or Other,90+,Female,326,316,363,898,871
+Whanganui,European or Other,90+,Male,180,174,172,1047,1012
+Whanganui,Maori,12-15,Female,532,454,689,772,659
+Whanganui,Maori,12-15,Male,567,482,694,817,695
+Whanganui,Maori,16-19,Female,513,449,619,829,725
+Whanganui,Maori,16-19,Male,487,430,601,810,715
+Whanganui,Maori,20-24,Female,515,444,702,734,632
+Whanganui,Maori,20-24,Male,535,442,678,789,652
+Whanganui,Maori,25-29,Female,533,486,689,774,705
+Whanganui,Maori,25-29,Male,476,400,615,774,650
+Whanganui,Maori,30-34,Female,508,452,634,801,713
+Whanganui,Maori,30-34,Male,452,394,568,796,694
+Whanganui,Maori,35-39,Female,432,388,503,859,771
+Whanganui,Maori,35-39,Male,363,318,449,808,708
+Whanganui,Maori,40-44,Female,377,354,479,787,739
+Whanganui,Maori,40-44,Male,351,327,449,782,728
+Whanganui,Maori,45-49,Female,468,443,538,870,823
+Whanganui,Maori,45-49,Male,366,333,441,830,755
+Whanganui,Maori,50-54,Female,483,475,535,903,888
+Whanganui,Maori,50-54,Male,413,387,455,908,851
+Whanganui,Maori,55-59,Female,475,463,538,883,861
+Whanganui,Maori,55-59,Male,399,387,444,899,872
+Whanganui,Maori,60-64,Female,403,394,414,973,952
+Whanganui,Maori,60-64,Male,306,293,329,930,891
+Whanganui,Maori,65-69,Female,315,308,338,932,911
+Whanganui,Maori,65-69,Male,261,258,275,949,938
+Whanganui,Maori,70-74,Female,214,210,226,947,929
+Whanganui,Maori,70-74,Male,176,173,188,936,920
+Whanganui,Maori,75-79,Female,119,118,126,944,937
+Whanganui,Maori,75-79,Male,108,108,89,1213,1213
+Whanganui,Maori,80-84,Female,74,72,80,925,900
+Whanganui,Maori,80-84,Male,52,52,54,963,963
+Whanganui,Maori,85-89,Female,36,35,34,1059,1029
+Whanganui,Maori,85-89,Male,21,21,22,955,955
+Whanganui,Maori,90+,Female,12,12,7,1714,1714
+Whanganui,Maori,90+,Male,10,10,10,1000,1000
+Whanganui,Pacific Peoples,12-15,Female,55,52,64,859,812
+Whanganui,Pacific Peoples,12-15,Male,62,59,67,925,881
+Whanganui,Pacific Peoples,16-19,Female,59,54,70,843,771
+Whanganui,Pacific Peoples,16-19,Male,46,43,46,1000,935
+Whanganui,Pacific Peoples,20-24,Female,62,60,69,899,870
+Whanganui,Pacific Peoples,20-24,Male,59,54,75,787,720
+Whanganui,Pacific Peoples,25-29,Female,60,56,78,769,718
+Whanganui,Pacific Peoples,25-29,Male,69,64,81,852,790
+Whanganui,Pacific Peoples,30-34,Female,58,52,78,744,667
+Whanganui,Pacific Peoples,30-34,Male,57,50,73,781,685
+Whanganui,Pacific Peoples,35-39,Female,42,40,45,933,889
+Whanganui,Pacific Peoples,35-39,Male,66,63,77,857,818
+Whanganui,Pacific Peoples,40-44,Female,50,47,57,877,825
+Whanganui,Pacific Peoples,40-44,Male,53,51,59,898,864
+Whanganui,Pacific Peoples,45-49,Female,35,35,34,1029,1029
+Whanganui,Pacific Peoples,45-49,Male,49,49,60,817,817
+Whanganui,Pacific Peoples,50-54,Female,40,36,48,833,750
+Whanganui,Pacific Peoples,50-54,Male,38,38,46,826,826
+Whanganui,Pacific Peoples,55-59,Female,30,29,38,789,763
+Whanganui,Pacific Peoples,55-59,Male,42,42,47,894,894
+Whanganui,Pacific Peoples,60-64,Female,37,37,35,1057,1057
+Whanganui,Pacific Peoples,60-64,Male,28,28,28,1000,1000
+Whanganui,Pacific Peoples,65-69,Female,20,20,27,741,741
+Whanganui,Pacific Peoples,65-69,Male,19,19,21,905,905
+Whanganui,Pacific Peoples,70-74,Female,19,19,19,1000,1000
+Whanganui,Pacific Peoples,70-74,Male,14,14,11,1273,1273
+Whanganui,Pacific Peoples,75-79,Female,9,9,11,818,818
+Whanganui,Pacific Peoples,75-79,Male,5,5,6,833,833
+Whanganui,Unknown,25-29,Female,18,18,7,2571,2571
+Whanganui,Unknown,25-29,Male,19,18,7,2714,2571
+Whanganui,Unknown,30-34,Male,10,9,5,2000,1800
+Whanganui,Unknown,35-39,Female,7,7,8,875,875
+Whanganui,Unknown,35-39,Male,21,20,13,1615,1538
+Whanganui,Unknown,40-44,Male,17,16,9,1889,1778
+Whanganui,Unknown,45-49,Male,12,10,12,1000,833
+Whanganui,Unknown,50-54,Male,16,15,12,1333,1250
+Whanganui,Unknown,55-59,Female,7,7,6,1167,1167
+Whanganui,Unknown,55-59,Male,15,14,9,1667,1556
+Whanganui,Unknown,60-64,Female,8,7,8,1000,875
+Whanganui,Unknown,60-64,Male,12,12,14,857,857
+Whanganui,Unknown,65-69,Male,8,8,11,727,727
+Whanganui,Unknown,70-74,Male,6,5,5,1200,1000
+Whanganui,Unknown,80-84,Female,5,5,6,833,833
+Various,Various,Various,Various,4660,4441,2621,1778,1694
