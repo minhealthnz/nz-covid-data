@@ -12,6 +12,10 @@ The `vaccine-data` contains copies of the weekly [Ministry of Health vaccine dat
 
 ## Release Notes:
 
+-[09 Feb 2022]
+
+The Ministry of Health COVID-19 data and statistics [webpage](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics) is the official source of vaccination data. The supplied data is not considered an official source of vaccination data.
+
 - [18 Jan 2022]
 
 Since August 2021, the Ministry of Health has been making vaccination data available to third-party developers on AGOL and GITHUB to enable them to receive this information as efficiently as possible.
