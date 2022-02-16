@@ -12,7 +12,7 @@ The `vaccine-data` contains copies of the weekly [Ministry of Health vaccine dat
 
 ## Release Notes:
 
--[09 Feb 2022]
+- [09 Feb 2022]
 
 The Ministry of Health COVID-19 data and statistics [webpage](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics) is the official source of vaccination data. 
 
