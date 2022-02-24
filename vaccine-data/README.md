@@ -5,6 +5,12 @@ This directory contains a copy of the data released [here](https://www.health.go
 
 Release notes:
 
+- [23 Feb 2022]
+
+Included in this release is the start of the reporting of the 5 to 11-year-old rollout. This has been done as a separate report in SA2 data and is grouped in 2022-02-24.
+
+Thank you for your patience in this period while we have made these changes
+
 - [18 Jan 2022]
 
 Since August 2021, the Ministry of Health has been making vaccination data available to third-party developers on AGOL and GITHUB to enable them to receive this information as efficiently as possible.
