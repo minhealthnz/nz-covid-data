@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "locations-of-interest",
-"features": [
-{ "type": "Feature", "properties": { "id": "a0l4a0000007gb4AAA", "Event": "Emergency Department Waiting Room Palmerston North Hospital", "ExposureType": "Close", "Location": "50 Ruahine Street, Roslyn, Palmerston North 4414", "City": "Palmerston North", "Start": "2022-02-22 20:45:00 NZDT", "End": "2022-02-22 22:15:00 NZDT", "Advice": "UPDATE: Self-monitor for COVID-19 symptoms for 10 days after you were exposed. If symptoms develop, get a test and stay at home until you get a negative test result.", "Added": "2022-02-23 18:00:00 NZDT", "Updated": "2022-02-25 18:00:00 NZDT", "marker-color": "#3f77bf", "marker-size": "large" }, "geometry": { "type": "Point", "coordinates": [ 175.621139, -40.33873 ] } }
-]
-}
