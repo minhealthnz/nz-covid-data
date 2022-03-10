@@ -2,6 +2,7 @@
 
 __10 March 2022__ this is an experimental release of case data to assess the suitability of GitHub for the ongoing release of case data. 
 The official source of case data is the [Ministry of Health's webpage](https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases).
+While this data is in the experimental phase it may not be updated daily.
 
 - `covid-cases.csv` this is a copy of the case data provided on the 
      [case demographics page](https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-case-demographics) 
