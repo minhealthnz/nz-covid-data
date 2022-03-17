@@ -2,7 +2,7 @@
 
 ## Case data
 
-The `cases` directory contains data related to COVID-19 cases included the _case demographics_ csv file that was formerly hosted on the Ministry of Health's website
+The `cases` directory contains data related to COVID-19 cases including the _case demographics_ csv file that was formerly hosted on the Ministry of Health's website
 
 ## Vaccine data
 
