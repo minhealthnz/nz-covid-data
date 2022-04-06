@@ -2,15 +2,9 @@
 
 ## Notes:
 
-<<<<<<< HEAD
-Numbers include all records entered as at 2022-04-05 11:59PM
+Numbers include all records entered as at 2022-04-06 11:59PM
 
-Date extracted 2022-04-06
-=======
-Numbers include all records entered as at 2022-03-29 11:59PM
-
-Date extracted 2022-03-30
->>>>>>> c4ee6789b976268b2e469f8bfb7b665333d03f32
+Date extracted 2022-04-07
 
 Data is based on records entered into CIR as at the time of data upload
 
