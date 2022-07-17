@@ -45,7 +45,6 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2021-02-28,60 to 69,1,0,Age band
 2021-06-06,40 to 49,1,0,Age band
 2021-06-06,60 to 69,1,0,Age band
-2021-06-20,60 to 69,1,0,Age band
 2021-07-25,50 to 59,1,0,Age band
 2021-08-01,40 to 49,2,0,Age band
 2021-08-15,10 to 19,1,0,Age band
@@ -220,7 +219,7 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-02-13,40 to 49,15,1,Age band
 2022-02-13,50 to 59,18,1,Age band
 2022-02-13,60 to 69,11,2,Age band
-2022-02-13,70+,42,1,Age band
+2022-02-13,70+,42,2,Age band
 2022-02-20,0 to 9,100,0,Age band
 2022-02-20,10 to 19,44,1,Age band
 2022-02-20,20 to 29,62,0,Age band
@@ -228,15 +227,15 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-02-20,40 to 49,39,2,Age band
 2022-02-20,50 to 59,58,3,Age band
 2022-02-20,60 to 69,52,2,Age band
-2022-02-20,70+,107,1,Age band
+2022-02-20,70+,109,1,Age band
 2022-02-27,0 to 9,120,1,Age band
 2022-02-27,10 to 19,45,1,Age band
 2022-02-27,20 to 29,53,1,Age band
 2022-02-27,30 to 39,54,2,Age band
 2022-02-27,40 to 49,50,2,Age band
 2022-02-27,50 to 59,77,3,Age band
-2022-02-27,60 to 69,65,2,Age band
-2022-02-27,70+,146,2,Age band
+2022-02-27,60 to 69,66,2,Age band
+2022-02-27,70+,145,2,Age band
 2022-03-06,0 to 9,120,0,Age band
 2022-03-06,10 to 19,32,1,Age band
 2022-03-06,20 to 29,53,0,Age band
@@ -244,23 +243,23 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-03-06,40 to 49,69,2,Age band
 2022-03-06,50 to 59,89,3,Age band
 2022-03-06,60 to 69,83,4,Age band
-2022-03-06,70+,198,3,Age band
+2022-03-06,70+,198,2,Age band
 2022-03-13,0 to 9,138,2,Age band
 2022-03-13,10 to 19,33,0,Age band
 2022-03-13,20 to 29,45,0,Age band
 2022-03-13,30 to 39,56,2,Age band
 2022-03-13,40 to 49,70,3,Age band
 2022-03-13,50 to 59,73,5,Age band
-2022-03-13,60 to 69,80,7,Age band
-2022-03-13,70+,182,5,Age band
+2022-03-13,60 to 69,79,7,Age band
+2022-03-13,70+,183,6,Age band
 2022-03-20,0 to 9,116,0,Age band
 2022-03-20,10 to 19,30,2,Age band
 2022-03-20,20 to 29,45,0,Age band
 2022-03-20,30 to 39,47,1,Age band
 2022-03-20,40 to 49,37,3,Age band
 2022-03-20,50 to 59,67,5,Age band
-2022-03-20,60 to 69,74,3,Age band
-2022-03-20,70+,153,4,Age band
+2022-03-20,60 to 69,75,3,Age band
+2022-03-20,70+,153,5,Age band
 2022-03-27,0 to 9,97,2,Age band
 2022-03-27,10 to 19,33,0,Age band
 2022-03-27,20 to 29,25,0,Age band
@@ -284,7 +283,7 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-04-10,40 to 49,39,1,Age band
 2022-04-10,50 to 59,29,3,Age band
 2022-04-10,60 to 69,42,0,Age band
-2022-04-10,70+,122,3,Age band
+2022-04-10,70+,123,3,Age band
 2022-04-17,0 to 9,50,1,Age band
 2022-04-17,10 to 19,14,0,Age band
 2022-04-17,20 to 29,12,0,Age band
@@ -308,7 +307,7 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-05-01,40 to 49,16,0,Age band
 2022-05-01,50 to 59,25,1,Age band
 2022-05-01,60 to 69,51,3,Age band
-2022-05-01,70+,126,5,Age band
+2022-05-01,70+,127,5,Age band
 2022-05-08,0 to 9,39,1,Age band
 2022-05-08,10 to 19,15,1,Age band
 2022-05-08,20 to 29,26,0,Age band
@@ -331,48 +330,48 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-05-22,30 to 39,24,1,Age band
 2022-05-22,40 to 49,21,0,Age band
 2022-05-22,50 to 59,31,1,Age band
-2022-05-22,60 to 69,44,0,Age band
-2022-05-22,70+,130,2,Age band
-2022-05-29,0 to 9,29,1,Age band
+2022-05-22,60 to 69,45,0,Age band
+2022-05-22,70+,128,2,Age band
+2022-05-29,0 to 9,31,1,Age band
 2022-05-29,10 to 19,13,0,Age band
 2022-05-29,20 to 29,15,0,Age band
 2022-05-29,30 to 39,18,1,Age band
 2022-05-29,40 to 49,24,1,Age band
-2022-05-29,50 to 59,35,3,Age band
+2022-05-29,50 to 59,36,3,Age band
 2022-05-29,60 to 69,55,2,Age band
-2022-05-29,70+,171,6,Age band
+2022-05-29,70+,175,6,Age band
 2022-06-05,0 to 9,19,1,Age band
 2022-06-05,10 to 19,8,1,Age band
 2022-06-05,20 to 29,12,0,Age band
-2022-06-05,30 to 39,16,0,Age band
-2022-06-05,40 to 49,22,0,Age band
-2022-06-05,50 to 59,35,2,Age band
-2022-06-05,60 to 69,37,0,Age band
-2022-06-05,70+,132,2,Age band
+2022-06-05,30 to 39,17,0,Age band
+2022-06-05,40 to 49,23,0,Age band
+2022-06-05,50 to 59,36,2,Age band
+2022-06-05,60 to 69,39,0,Age band
+2022-06-05,70+,133,2,Age band
 2022-06-12,0 to 9,21,1,Age band
 2022-06-12,10 to 19,8,1,Age band
 2022-06-12,20 to 29,14,1,Age band
 2022-06-12,30 to 39,13,0,Age band
-2022-06-12,40 to 49,14,1,Age band
+2022-06-12,40 to 49,13,1,Age band
 2022-06-12,50 to 59,29,1,Age band
-2022-06-12,60 to 69,45,2,Age band
+2022-06-12,60 to 69,44,2,Age band
 2022-06-12,70+,127,3,Age band
-2022-06-19,0 to 9,25,0,Age band
+2022-06-19,0 to 9,26,0,Age band
 2022-06-19,10 to 19,5,0,Age band
 2022-06-19,20 to 29,12,1,Age band
 2022-06-19,30 to 39,12,0,Age band
 2022-06-19,40 to 49,14,0,Age band
 2022-06-19,50 to 59,29,1,Age band
-2022-06-19,60 to 69,42,0,Age band
-2022-06-19,70+,161,3,Age band
-2022-06-26,0 to 9,27,0,Age band
+2022-06-19,60 to 69,44,0,Age band
+2022-06-19,70+,162,3,Age band
+2022-06-26,0 to 9,30,0,Age band
 2022-06-26,10 to 19,10,1,Age band
 2022-06-26,20 to 29,9,0,Age band
 2022-06-26,30 to 39,13,0,Age band
 2022-06-26,40 to 49,14,0,Age band
-2022-06-26,50 to 59,26,2,Age band
-2022-06-26,60 to 69,47,0,Age band
-2022-06-26,70+,185,3,Age band
+2022-06-26,50 to 59,27,2,Age band
+2022-06-26,60 to 69,48,0,Age band
+2022-06-26,70+,192,3,Age band
 2022-07-03,0 to 9,15,2,Age band
 2022-07-03,10 to 19,3,0,Age band
 2022-07-03,20 to 29,6,1,Age band
@@ -380,256 +379,268 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-07-03,40 to 49,15,1,Age band
 2022-07-03,50 to 59,26,0,Age band
 2022-07-03,60 to 69,33,2,Age band
-2022-07-03,70+,161,4,Age band
+2022-07-03,70+,164,4,Age band
+2022-07-10,0 to 9,10,0,Age band
+2022-07-10,10 to 19,2,0,Age band
+2022-07-10,20 to 29,1,0,Age band
+2022-07-10,30 to 39,6,0,Age band
+2022-07-10,40 to 49,8,0,Age band
+2022-07-10,50 to 59,10,0,Age band
+2022-07-10,60 to 69,25,0,Age band
+2022-07-10,70+,70,2,Age band
 2020-02-23,Asian,1,0,Ethnicity
 2020-03-01,European/other,1,0,Ethnicity
 2020-03-15,European/other,4,0,Ethnicity
+2020-03-22,Pacific peoples,1,0,Ethnicity
 2020-03-22,Asian,1,0,Ethnicity
 2020-03-22,European/other,16,3,Ethnicity
-2020-03-22,Pacific peoples,1,0,Ethnicity
+2020-03-29,Maori,1,0,Ethnicity
+2020-03-29,Pacific peoples,1,1,Ethnicity
 2020-03-29,Asian,2,1,Ethnicity
 2020-03-29,European/other,4,1,Ethnicity
-2020-03-29,Māori,1,0,Ethnicity
-2020-03-29,Pacific peoples,1,1,Ethnicity
 2020-04-05,Asian,1,0,Ethnicity
 2020-04-05,European/other,5,0,Ethnicity
+2020-04-12,Maori,2,0,Ethnicity
 2020-04-12,Asian,2,0,Ethnicity
 2020-04-12,European/other,5,0,Ethnicity
-2020-04-12,Māori,2,0,Ethnicity
 2020-04-19,Pacific peoples,1,0,Ethnicity
 2020-04-26,European/other,1,0,Ethnicity
 2020-05-03,Asian,1,1,Ethnicity
 2020-05-10,Asian,1,0,Ethnicity
 2020-06-21,Asian,1,0,Ethnicity
-2020-08-09,Māori,1,0,Ethnicity
+2020-08-09,Maori,1,0,Ethnicity
 2020-08-09,Pacific peoples,3,0,Ethnicity
-2020-08-16,Māori,5,4,Ethnicity
+2020-08-16,Maori,5,4,Ethnicity
 2020-08-16,Pacific peoples,1,1,Ethnicity
-2020-08-23,Māori,1,0,Ethnicity
+2020-08-23,Maori,1,0,Ethnicity
 2020-08-23,Pacific peoples,1,0,Ethnicity
-2020-08-30,Asian,1,0,Ethnicity
-2020-08-30,Māori,1,1,Ethnicity
+2020-08-30,Maori,1,1,Ethnicity
 2020-08-30,Pacific peoples,1,0,Ethnicity
-2020-09-06,European/other,1,0,Ethnicity
+2020-08-30,Asian,1,0,Ethnicity
 2020-09-06,Pacific peoples,1,0,Ethnicity
+2020-09-06,European/other,1,0,Ethnicity
 2021-01-17,European/other,1,0,Ethnicity
 2021-01-31,MELAA,1,0,Ethnicity
 2021-02-28,Asian,1,0,Ethnicity
 2021-02-28,MELAA,1,0,Ethnicity
+2021-06-06,Maori,1,0,Ethnicity
 2021-06-06,European/other,1,0,Ethnicity
-2021-06-06,Māori,1,0,Ethnicity
-2021-06-20,Māori,1,0,Ethnicity
 2021-07-25,Asian,1,0,Ethnicity
 2021-08-01,European/other,2,0,Ethnicity
 2021-08-15,Pacific peoples,4,0,Ethnicity
-2021-08-22,European/other,1,1,Ethnicity
-2021-08-22,Māori,2,0,Ethnicity
+2021-08-22,Maori,2,0,Ethnicity
 2021-08-22,Pacific peoples,17,7,Ethnicity
+2021-08-22,European/other,1,1,Ethnicity
 2021-08-29,Pacific peoples,7,2,Ethnicity
 2021-09-05,Pacific peoples,6,0,Ethnicity
-2021-09-12,European/other,1,0,Ethnicity
 2021-09-12,Pacific peoples,7,0,Ethnicity
-2021-09-19,Asian,1,0,Ethnicity
-2021-09-19,Māori,4,0,Ethnicity
+2021-09-12,European/other,1,0,Ethnicity
+2021-09-19,Maori,4,0,Ethnicity
 2021-09-19,Pacific peoples,3,2,Ethnicity
+2021-09-19,Asian,1,0,Ethnicity
+2021-09-26,Maori,5,1,Ethnicity
+2021-09-26,Pacific peoples,6,3,Ethnicity
 2021-09-26,Asian,3,1,Ethnicity
 2021-09-26,European/other,2,0,Ethnicity
-2021-09-26,Māori,5,1,Ethnicity
-2021-09-26,Pacific peoples,6,3,Ethnicity
+2021-10-03,Maori,8,0,Ethnicity
+2021-10-03,Pacific peoples,1,1,Ethnicity
 2021-10-03,Asian,1,1,Ethnicity
 2021-10-03,European/other,4,0,Ethnicity
-2021-10-03,Māori,8,0,Ethnicity
-2021-10-03,Pacific peoples,1,1,Ethnicity
-2021-10-10,European/other,12,0,Ethnicity
-2021-10-10,Māori,9,0,Ethnicity
+2021-10-10,Maori,9,0,Ethnicity
 2021-10-10,Pacific peoples,5,1,Ethnicity
+2021-10-10,European/other,12,0,Ethnicity
+2021-10-17,Maori,16,0,Ethnicity
+2021-10-17,Pacific peoples,11,2,Ethnicity
 2021-10-17,Asian,3,0,Ethnicity
 2021-10-17,European/other,17,0,Ethnicity
-2021-10-17,Māori,16,0,Ethnicity
-2021-10-17,Pacific peoples,11,2,Ethnicity
-2021-10-24,Asian,2,0,Ethnicity
-2021-10-24,European/other,8,0,Ethnicity
-2021-10-24,Māori,18,0,Ethnicity
-2021-10-24,MELAA,3,0,Ethnicity
+2021-10-24,Maori,18,0,Ethnicity
 2021-10-24,Pacific peoples,11,1,Ethnicity
-2021-10-31,Asian,5,0,Ethnicity
-2021-10-31,European/other,19,3,Ethnicity
-2021-10-31,Māori,19,1,Ethnicity
-2021-10-31,MELAA,1,0,Ethnicity
+2021-10-24,Asian,2,0,Ethnicity
+2021-10-24,MELAA,3,0,Ethnicity
+2021-10-24,European/other,8,0,Ethnicity
+2021-10-31,Maori,19,1,Ethnicity
 2021-10-31,Pacific peoples,7,0,Ethnicity
+2021-10-31,Asian,5,0,Ethnicity
+2021-10-31,MELAA,1,0,Ethnicity
+2021-10-31,European/other,19,3,Ethnicity
+2021-11-07,Maori,26,3,Ethnicity
+2021-11-07,Pacific peoples,11,0,Ethnicity
 2021-11-07,Asian,2,0,Ethnicity
 2021-11-07,European/other,11,0,Ethnicity
-2021-11-07,Māori,26,3,Ethnicity
-2021-11-07,Pacific peoples,11,0,Ethnicity
+2021-11-14,Maori,25,3,Ethnicity
+2021-11-14,Pacific peoples,18,0,Ethnicity
 2021-11-14,Asian,5,0,Ethnicity
 2021-11-14,European/other,12,1,Ethnicity
-2021-11-14,Māori,25,3,Ethnicity
-2021-11-14,Pacific peoples,18,0,Ethnicity
+2021-11-21,Maori,35,3,Ethnicity
+2021-11-21,Pacific peoples,12,2,Ethnicity
 2021-11-21,Asian,1,1,Ethnicity
 2021-11-21,European/other,10,2,Ethnicity
-2021-11-21,Māori,35,3,Ethnicity
-2021-11-21,Pacific peoples,12,2,Ethnicity
+2021-11-28,Maori,25,1,Ethnicity
+2021-11-28,Pacific peoples,12,2,Ethnicity
 2021-11-28,Asian,1,0,Ethnicity
 2021-11-28,European/other,1,0,Ethnicity
-2021-11-28,Māori,25,1,Ethnicity
-2021-11-28,Pacific peoples,12,2,Ethnicity
+2021-12-05,Maori,11,1,Ethnicity
+2021-12-05,Pacific peoples,7,1,Ethnicity
 2021-12-05,Asian,1,0,Ethnicity
 2021-12-05,European/other,6,1,Ethnicity
-2021-12-05,Māori,11,1,Ethnicity
-2021-12-05,Pacific peoples,7,1,Ethnicity
+2021-12-12,Maori,5,0,Ethnicity
+2021-12-12,Pacific peoples,7,1,Ethnicity
 2021-12-12,Asian,3,0,Ethnicity
 2021-12-12,European/other,4,0,Ethnicity
-2021-12-12,Māori,5,0,Ethnicity
-2021-12-12,Pacific peoples,7,1,Ethnicity
-2021-12-19,European/other,7,0,Ethnicity
-2021-12-19,Māori,9,2,Ethnicity
+2021-12-19,Maori,9,2,Ethnicity
 2021-12-19,Pacific peoples,5,0,Ethnicity
-2021-12-26,Asian,1,0,Ethnicity
-2021-12-26,European/other,1,0,Ethnicity
-2021-12-26,Māori,3,1,Ethnicity
-2021-12-26,MELAA,1,0,Ethnicity
+2021-12-19,European/other,7,0,Ethnicity
+2021-12-26,Maori,3,1,Ethnicity
 2021-12-26,Pacific peoples,2,0,Ethnicity
-2022-01-02,European/other,7,0,Ethnicity
-2022-01-02,Māori,1,0,Ethnicity
+2021-12-26,Asian,1,0,Ethnicity
+2021-12-26,MELAA,1,0,Ethnicity
+2021-12-26,European/other,1,0,Ethnicity
+2022-01-02,Maori,1,0,Ethnicity
 2022-01-02,Pacific peoples,1,0,Ethnicity
+2022-01-02,European/other,7,0,Ethnicity
+2022-01-09,Maori,3,0,Ethnicity
+2022-01-09,Pacific peoples,1,0,Ethnicity
 2022-01-09,Asian,2,1,Ethnicity
 2022-01-09,European/other,7,0,Ethnicity
-2022-01-09,Māori,3,0,Ethnicity
-2022-01-09,Pacific peoples,1,0,Ethnicity
+2022-01-16,Pacific peoples,1,0,Ethnicity
 2022-01-16,Asian,2,0,Ethnicity
 2022-01-16,European/other,4,1,Ethnicity
-2022-01-16,Pacific peoples,1,0,Ethnicity
+2022-01-23,Maori,2,0,Ethnicity
+2022-01-23,Pacific peoples,1,0,Ethnicity
 2022-01-23,Asian,1,0,Ethnicity
 2022-01-23,European/other,4,0,Ethnicity
-2022-01-23,Māori,2,0,Ethnicity
-2022-01-23,Pacific peoples,1,0,Ethnicity
+2022-01-30,Maori,4,2,Ethnicity
+2022-01-30,Pacific peoples,9,0,Ethnicity
 2022-01-30,Asian,2,0,Ethnicity
 2022-01-30,European/other,22,2,Ethnicity
-2022-01-30,Māori,4,2,Ethnicity
-2022-01-30,Pacific peoples,9,0,Ethnicity
-2022-02-06,Asian,5,0,Ethnicity
-2022-02-06,European/other,21,0,Ethnicity
-2022-02-06,Māori,8,0,Ethnicity
-2022-02-06,MELAA,3,0,Ethnicity
+2022-02-06,Maori,8,0,Ethnicity
 2022-02-06,Pacific peoples,31,0,Ethnicity
-2022-02-13,Asian,18,0,Ethnicity
-2022-02-13,European/other,34,4,Ethnicity
-2022-02-13,Māori,23,0,Ethnicity
-2022-02-13,MELAA,8,1,Ethnicity
+2022-02-06,Asian,5,0,Ethnicity
+2022-02-06,MELAA,3,0,Ethnicity
+2022-02-06,European/other,21,0,Ethnicity
+2022-02-13,Maori,23,0,Ethnicity
 2022-02-13,Pacific peoples,93,2,Ethnicity
-2022-02-20,Asian,46,2,Ethnicity
-2022-02-20,European/other,135,4,Ethnicity
-2022-02-20,Māori,100,0,Ethnicity
-2022-02-20,MELAA,15,0,Ethnicity
+2022-02-13,Asian,18,0,Ethnicity
+2022-02-13,MELAA,8,1,Ethnicity
+2022-02-13,European/other,34,5,Ethnicity
+2022-02-20,Maori,100,0,Ethnicity
 2022-02-20,Pacific peoples,227,4,Ethnicity
+2022-02-20,Asian,48,2,Ethnicity
+2022-02-20,MELAA,15,0,Ethnicity
+2022-02-20,European/other,135,4,Ethnicity
 2022-02-20,Unknown,1,0,Ethnicity
-2022-02-27,Asian,61,1,Ethnicity
-2022-02-27,European/other,188,2,Ethnicity
-2022-02-27,Māori,140,3,Ethnicity
-2022-02-27,MELAA,23,1,Ethnicity
+2022-02-27,Maori,140,3,Ethnicity
 2022-02-27,Pacific peoples,196,7,Ethnicity
+2022-02-27,Asian,61,1,Ethnicity
+2022-02-27,MELAA,23,1,Ethnicity
+2022-02-27,European/other,188,2,Ethnicity
 2022-02-27,Unknown,2,0,Ethnicity
-2022-03-06,Asian,70,4,Ethnicity
-2022-03-06,European/other,236,3,Ethnicity
-2022-03-06,Māori,209,7,Ethnicity
-2022-03-06,MELAA,36,0,Ethnicity
+2022-03-06,Maori,209,7,Ethnicity
 2022-03-06,Pacific peoples,156,1,Ethnicity
+2022-03-06,Asian,70,3,Ethnicity
+2022-03-06,MELAA,36,0,Ethnicity
+2022-03-06,European/other,236,3,Ethnicity
+2022-03-13,Maori,192,5,Ethnicity
+2022-03-13,Pacific peoples,138,11,Ethnicity
 2022-03-13,Asian,62,1,Ethnicity
-2022-03-13,European/other,271,8,Ethnicity
-2022-03-13,Māori,193,5,Ethnicity
 2022-03-13,MELAA,11,0,Ethnicity
-2022-03-13,Pacific peoples,138,10,Ethnicity
+2022-03-13,European/other,272,8,Ethnicity
 2022-03-13,Unknown,2,0,Ethnicity
+2022-03-20,Maori,154,5,Ethnicity
+2022-03-20,Pacific peoples,79,3,Ethnicity
 2022-03-20,Asian,57,1,Ethnicity
-2022-03-20,European/other,263,8,Ethnicity
-2022-03-20,Māori,154,5,Ethnicity
 2022-03-20,MELAA,17,1,Ethnicity
-2022-03-20,Pacific peoples,78,3,Ethnicity
-2022-03-27,Asian,34,2,Ethnicity
-2022-03-27,European/other,227,10,Ethnicity
-2022-03-27,Māori,145,12,Ethnicity
-2022-03-27,MELAA,12,1,Ethnicity
+2022-03-20,European/other,263,9,Ethnicity
+2022-03-27,Maori,145,12,Ethnicity
 2022-03-27,Pacific peoples,65,3,Ethnicity
+2022-03-27,Asian,34,2,Ethnicity
+2022-03-27,MELAA,12,1,Ethnicity
+2022-03-27,European/other,227,10,Ethnicity
 2022-03-27,Unknown,1,0,Ethnicity
-2022-04-03,Asian,37,2,Ethnicity
-2022-04-03,European/other,215,9,Ethnicity
-2022-04-03,Māori,119,4,Ethnicity
-2022-04-03,MELAA,11,0,Ethnicity
+2022-04-03,Maori,119,4,Ethnicity
 2022-04-03,Pacific peoples,35,2,Ethnicity
+2022-04-03,Asian,37,2,Ethnicity
+2022-04-03,MELAA,11,0,Ethnicity
+2022-04-03,European/other,215,9,Ethnicity
 2022-04-03,Unknown,1,1,Ethnicity
-2022-04-10,Asian,33,1,Ethnicity
-2022-04-10,European/other,209,2,Ethnicity
-2022-04-10,Māori,79,5,Ethnicity
-2022-04-10,MELAA,7,0,Ethnicity
+2022-04-10,Maori,79,5,Ethnicity
 2022-04-10,Pacific peoples,24,1,Ethnicity
+2022-04-10,Asian,33,1,Ethnicity
+2022-04-10,MELAA,7,0,Ethnicity
+2022-04-10,European/other,210,2,Ethnicity
 2022-04-10,Unknown,2,0,Ethnicity
-2022-04-17,Asian,24,0,Ethnicity
-2022-04-17,European/other,205,2,Ethnicity
-2022-04-17,Māori,61,1,Ethnicity
-2022-04-17,MELAA,7,0,Ethnicity
+2022-04-17,Maori,61,1,Ethnicity
 2022-04-17,Pacific peoples,50,0,Ethnicity
-2022-04-24,Asian,28,0,Ethnicity
-2022-04-24,European/other,209,7,Ethnicity
-2022-04-24,Māori,45,3,Ethnicity
-2022-04-24,MELAA,5,0,Ethnicity
+2022-04-17,Asian,24,0,Ethnicity
+2022-04-17,MELAA,7,0,Ethnicity
+2022-04-17,European/other,205,2,Ethnicity
+2022-04-24,Maori,45,3,Ethnicity
 2022-04-24,Pacific peoples,29,2,Ethnicity
+2022-04-24,Asian,28,0,Ethnicity
+2022-04-24,MELAA,5,0,Ethnicity
+2022-04-24,European/other,209,7,Ethnicity
 2022-04-24,Unknown,2,1,Ethnicity
+2022-05-01,Maori,55,1,Ethnicity
+2022-05-01,Pacific peoples,23,0,Ethnicity
 2022-05-01,Asian,31,1,Ethnicity
-2022-05-01,European/other,201,10,Ethnicity
-2022-05-01,Māori,55,1,Ethnicity
 2022-05-01,MELAA,6,0,Ethnicity
-2022-05-01,Pacific peoples,22,0,Ethnicity
+2022-05-01,European/other,201,10,Ethnicity
 2022-05-01,Unknown,2,0,Ethnicity
-2022-05-08,Asian,28,0,Ethnicity
-2022-05-08,European/other,205,5,Ethnicity
-2022-05-08,Māori,59,3,Ethnicity
-2022-05-08,MELAA,3,0,Ethnicity
+2022-05-08,Maori,59,3,Ethnicity
 2022-05-08,Pacific peoples,32,2,Ethnicity
+2022-05-08,Asian,28,0,Ethnicity
+2022-05-08,MELAA,3,0,Ethnicity
+2022-05-08,European/other,205,5,Ethnicity
 2022-05-08,Unknown,2,0,Ethnicity
-2022-05-15,Asian,36,0,Ethnicity
-2022-05-15,European/other,234,11,Ethnicity
-2022-05-15,Māori,41,0,Ethnicity
-2022-05-15,MELAA,7,0,Ethnicity
+2022-05-15,Maori,41,0,Ethnicity
 2022-05-15,Pacific peoples,34,0,Ethnicity
+2022-05-15,Asian,36,0,Ethnicity
+2022-05-15,MELAA,7,0,Ethnicity
+2022-05-15,European/other,234,11,Ethnicity
 2022-05-15,Unknown,2,0,Ethnicity
-2022-05-22,Asian,26,0,Ethnicity
-2022-05-22,European/other,199,3,Ethnicity
-2022-05-22,Māori,51,2,Ethnicity
-2022-05-22,MELAA,2,0,Ethnicity
+2022-05-22,Maori,52,2,Ethnicity
 2022-05-22,Pacific peoples,30,1,Ethnicity
+2022-05-22,Asian,26,0,Ethnicity
+2022-05-22,MELAA,2,0,Ethnicity
+2022-05-22,European/other,197,3,Ethnicity
 2022-05-22,Unknown,2,0,Ethnicity
-2022-05-29,Asian,24,0,Ethnicity
-2022-05-29,European/other,250,13,Ethnicity
-2022-05-29,Māori,47,0,Ethnicity
-2022-05-29,MELAA,6,0,Ethnicity
+2022-05-29,Maori,49,0,Ethnicity
 2022-05-29,Pacific peoples,32,1,Ethnicity
+2022-05-29,Asian,24,0,Ethnicity
+2022-05-29,MELAA,6,0,Ethnicity
+2022-05-29,European/other,255,13,Ethnicity
 2022-05-29,Unknown,1,0,Ethnicity
-2022-06-05,Asian,19,0,Ethnicity
-2022-06-05,European/other,177,5,Ethnicity
-2022-06-05,Māori,53,1,Ethnicity
-2022-06-05,MELAA,5,0,Ethnicity
+2022-06-05,Maori,54,1,Ethnicity
 2022-06-05,Pacific peoples,27,0,Ethnicity
-2022-06-12,Asian,25,0,Ethnicity
-2022-06-12,European/other,173,5,Ethnicity
-2022-06-12,Māori,45,4,Ethnicity
-2022-06-12,MELAA,1,0,Ethnicity
+2022-06-05,Asian,20,0,Ethnicity
+2022-06-05,MELAA,5,0,Ethnicity
+2022-06-05,European/other,181,5,Ethnicity
+2022-06-12,Maori,45,4,Ethnicity
 2022-06-12,Pacific peoples,24,1,Ethnicity
+2022-06-12,Asian,25,0,Ethnicity
+2022-06-12,MELAA,1,0,Ethnicity
+2022-06-12,European/other,171,5,Ethnicity
 2022-06-12,Unknown,3,0,Ethnicity
+2022-06-19,Maori,35,0,Ethnicity
+2022-06-19,Pacific peoples,18,0,Ethnicity
 2022-06-19,Asian,37,0,Ethnicity
-2022-06-19,European/other,206,5,Ethnicity
-2022-06-19,Māori,36,0,Ethnicity
 2022-06-19,MELAA,4,0,Ethnicity
-2022-06-19,Pacific peoples,17,0,Ethnicity
-2022-06-26,Asian,39,0,Ethnicity
-2022-06-26,European/other,228,6,Ethnicity
-2022-06-26,Māori,35,0,Ethnicity
-2022-06-26,MELAA,3,0,Ethnicity
+2022-06-19,European/other,210,5,Ethnicity
+2022-06-26,Maori,38,0,Ethnicity
 2022-06-26,Pacific peoples,26,0,Ethnicity
-2022-07-03,Asian,23,0,Ethnicity
-2022-07-03,European/other,208,10,Ethnicity
-2022-07-03,Māori,23,0,Ethnicity
-2022-07-03,MELAA,1,0,Ethnicity
+2022-06-26,Asian,40,0,Ethnicity
+2022-06-26,MELAA,3,0,Ethnicity
+2022-06-26,European/other,236,6,Ethnicity
+2022-07-03,Maori,24,0,Ethnicity
 2022-07-03,Pacific peoples,20,0,Ethnicity
+2022-07-03,Asian,23,0,Ethnicity
+2022-07-03,MELAA,1,0,Ethnicity
+2022-07-03,European/other,210,10,Ethnicity
+2022-07-10,Maori,15,0,Ethnicity
+2022-07-10,Pacific peoples,13,0,Ethnicity
+2022-07-10,Asian,12,0,Ethnicity
+2022-07-10,European/other,91,2,Ethnicity
+2022-07-10,Unknown,1,0,Ethnicity
 2020-02-23,Female,1,0,Sex
 2020-03-01,Female,1,0,Sex
 2020-03-15,Female,1,0,Sex
@@ -658,7 +669,6 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2021-01-31,Female,1,0,Sex
 2021-02-28,Male,2,0,Sex
 2021-06-06,Male,2,0,Sex
-2021-06-20,Male,1,0,Sex
 2021-07-25,Male,1,0,Sex
 2021-08-01,Male,2,0,Sex
 2021-08-15,Female,3,0,Sex
@@ -713,48 +723,50 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-01-30,Male,14,1,Sex
 2022-02-06,Female,41,0,Sex
 2022-02-06,Male,27,0,Sex
-2022-02-13,Female,90,3,Sex
+2022-02-13,Female,90,4,Sex
 2022-02-13,Male,86,4,Sex
 2022-02-20,Female,263,3,Sex
-2022-02-20,Male,261,7,Sex
+2022-02-20,Male,263,7,Sex
 2022-02-27,Female,332,8,Sex
 2022-02-27,Male,278,6,Sex
 2022-03-06,Female,364,5,Sex
-2022-03-06,Male,343,10,Sex
-2022-03-13,Female,351,8,Sex
-2022-03-13,Male,326,16,Sex
+2022-03-06,Male,343,9,Sex
+2022-03-13,Female,352,8,Sex
+2022-03-13,Male,325,17,Sex
 2022-03-20,Female,280,8,Sex
-2022-03-20,Male,289,10,Sex
+2022-03-20,Male,290,11,Sex
 2022-03-27,Female,236,10,Sex
 2022-03-27,Male,248,18,Sex
 2022-04-03,Female,205,7,Sex
 2022-04-03,Male,213,11,Sex
 2022-04-10,Female,184,5,Sex
-2022-04-10,Male,170,4,Sex
+2022-04-10,Male,171,4,Sex
 2022-04-17,Female,171,1,Sex
 2022-04-17,Male,176,2,Sex
 2022-04-24,Female,150,1,Sex
 2022-04-24,Male,168,12,Sex
 2022-05-01,Female,151,5,Sex
-2022-05-01,Male,166,7,Sex
+2022-05-01,Male,167,7,Sex
 2022-05-08,Female,164,3,Sex
 2022-05-08,Male,165,7,Sex
 2022-05-15,Female,168,6,Sex
 2022-05-15,Male,186,5,Sex
-2022-05-22,Female,158,2,Sex
+2022-05-22,Female,157,2,Sex
 2022-05-22,Male,152,4,Sex
-2022-05-29,Female,178,5,Sex
-2022-05-29,Male,182,9,Sex
-2022-06-05,Female,127,3,Sex
-2022-06-05,Male,154,3,Sex
-2022-06-12,Female,126,3,Sex
-2022-06-12,Male,145,7,Sex
-2022-06-19,Female,139,2,Sex
+2022-05-29,Female,179,5,Sex
+2022-05-29,Male,188,9,Sex
+2022-06-05,Female,130,3,Sex
+2022-06-05,Male,157,3,Sex
+2022-06-12,Female,125,3,Sex
+2022-06-12,Male,144,7,Sex
+2022-06-19,Female,143,2,Sex
 2022-06-19,Male,161,3,Sex
-2022-06-26,Female,157,1,Sex
-2022-06-26,Male,174,5,Sex
-2022-07-03,Female,121,3,Sex
-2022-07-03,Male,154,7,Sex
+2022-06-26,Female,164,1,Sex
+2022-06-26,Male,179,5,Sex
+2022-07-03,Female,123,3,Sex
+2022-07-03,Male,155,7,Sex
+2022-07-10,Female,61,0,Sex
+2022-07-10,Male,71,2,Sex
 2021-09-26,No doses received prior to being reported as a case,10,NA,Vaccination status
 2021-09-26,Partially vaccinated,3,NA,Vaccination status
 2021-09-26,Fully vaccinated at least 7 days before reported as a case,2,NA,Vaccination status
@@ -842,11 +854,11 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-02-20,No doses received prior to being reported as a case,38,NA,Vaccination status
 2022-02-20,Partially vaccinated,14,NA,Vaccination status
 2022-02-20,Fully vaccinated at least 7 days before reported as a case,264,NA,Vaccination status
-2022-02-20,Received booster at least 7 days before being reported as a case,96,NA,Vaccination status
+2022-02-20,Received booster at least 7 days before being reported as a case,98,NA,Vaccination status
 2022-02-20,Under 12 years old,112,NA,Vaccination status
-2022-02-27,No doses received prior to being reported as a case,87,NA,Vaccination status
+2022-02-27,No doses received prior to being reported as a case,88,NA,Vaccination status
 2022-02-27,Partially vaccinated,24,NA,Vaccination status
-2022-02-27,Fully vaccinated at least 7 days before reported as a case,255,NA,Vaccination status
+2022-02-27,Fully vaccinated at least 7 days before reported as a case,254,NA,Vaccination status
 2022-02-27,Received booster at least 7 days before being reported as a case,114,NA,Vaccination status
 2022-02-27,Under 12 years old,130,NA,Vaccination status
 2022-03-06,No doses received prior to being reported as a case,142,NA,Vaccination status
@@ -854,15 +866,15 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-03-06,Fully vaccinated at least 7 days before reported as a case,267,NA,Vaccination status
 2022-03-06,Received booster at least 7 days before being reported as a case,149,NA,Vaccination status
 2022-03-06,Under 12 years old,127,NA,Vaccination status
-2022-03-13,No doses received prior to being reported as a case,108,NA,Vaccination status
+2022-03-13,No doses received prior to being reported as a case,107,NA,Vaccination status
 2022-03-13,Partially vaccinated,28,NA,Vaccination status
 2022-03-13,Fully vaccinated at least 7 days before reported as a case,209,NA,Vaccination status
-2022-03-13,Received booster at least 7 days before being reported as a case,187,NA,Vaccination status
+2022-03-13,Received booster at least 7 days before being reported as a case,188,NA,Vaccination status
 2022-03-13,Under 12 years old,145,NA,Vaccination status
 2022-03-20,No doses received prior to being reported as a case,79,NA,Vaccination status
 2022-03-20,Partially vaccinated,18,NA,Vaccination status
 2022-03-20,Fully vaccinated at least 7 days before reported as a case,171,NA,Vaccination status
-2022-03-20,Received booster at least 7 days before being reported as a case,180,NA,Vaccination status
+2022-03-20,Received booster at least 7 days before being reported as a case,181,NA,Vaccination status
 2022-03-20,Under 12 years old,121,NA,Vaccination status
 2022-03-27,No doses received prior to being reported as a case,67,NA,Vaccination status
 2022-03-27,Partially vaccinated,11,NA,Vaccination status
@@ -874,7 +886,7 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-04-03,Fully vaccinated at least 7 days before reported as a case,112,NA,Vaccination status
 2022-04-03,Received booster at least 7 days before being reported as a case,173,NA,Vaccination status
 2022-04-03,Under 12 years old,82,NA,Vaccination status
-2022-04-10,No doses received prior to being reported as a case,36,NA,Vaccination status
+2022-04-10,No doses received prior to being reported as a case,37,NA,Vaccination status
 2022-04-10,Partially vaccinated,7,NA,Vaccination status
 2022-04-10,Fully vaccinated at least 7 days before reported as a case,102,NA,Vaccination status
 2022-04-10,Received booster at least 7 days before being reported as a case,142,NA,Vaccination status
@@ -892,7 +904,7 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-05-01,No doses received prior to being reported as a case,36,NA,Vaccination status
 2022-05-01,Partially vaccinated,4,NA,Vaccination status
 2022-05-01,Fully vaccinated at least 7 days before reported as a case,70,NA,Vaccination status
-2022-05-01,Received booster at least 7 days before being reported as a case,159,NA,Vaccination status
+2022-05-01,Received booster at least 7 days before being reported as a case,160,NA,Vaccination status
 2022-05-01,Under 12 years old,48,NA,Vaccination status
 2022-05-08,No doses received prior to being reported as a case,24,NA,Vaccination status
 2022-05-08,Partially vaccinated,8,NA,Vaccination status
@@ -907,35 +919,40 @@ Admissions for COVID-19 in the week starting,Variable,Hospitalisations,ICU,Varia
 2022-05-22,No doses received prior to being reported as a case,24,NA,Vaccination status
 2022-05-22,Partially vaccinated,3,NA,Vaccination status
 2022-05-22,Fully vaccinated at least 7 days before reported as a case,70,NA,Vaccination status
-2022-05-22,Received booster at least 7 days before being reported as a case,175,NA,Vaccination status
+2022-05-22,Received booster at least 7 days before being reported as a case,174,NA,Vaccination status
 2022-05-22,Under 12 years old,38,NA,Vaccination status
 2022-05-29,No doses received prior to being reported as a case,26,NA,Vaccination status
 2022-05-29,Partially vaccinated,3,NA,Vaccination status
-2022-05-29,Fully vaccinated at least 7 days before reported as a case,75,NA,Vaccination status
-2022-05-29,Received booster at least 7 days before being reported as a case,226,NA,Vaccination status
-2022-05-29,Under 12 years old,30,NA,Vaccination status
-2022-06-05,No doses received prior to being reported as a case,26,NA,Vaccination status
+2022-05-29,Fully vaccinated at least 7 days before reported as a case,77,NA,Vaccination status
+2022-05-29,Received booster at least 7 days before being reported as a case,229,NA,Vaccination status
+2022-05-29,Under 12 years old,32,NA,Vaccination status
+2022-06-05,No doses received prior to being reported as a case,27,NA,Vaccination status
 2022-06-05,Partially vaccinated,2,NA,Vaccination status
-2022-06-05,Fully vaccinated at least 7 days before reported as a case,53,NA,Vaccination status
-2022-06-05,Received booster at least 7 days before being reported as a case,180,NA,Vaccination status
+2022-06-05,Fully vaccinated at least 7 days before reported as a case,54,NA,Vaccination status
+2022-06-05,Received booster at least 7 days before being reported as a case,184,NA,Vaccination status
 2022-06-05,Under 12 years old,20,NA,Vaccination status
 2022-06-12,No doses received prior to being reported as a case,28,NA,Vaccination status
 2022-06-12,Partially vaccinated,2,NA,Vaccination status
-2022-06-12,Fully vaccinated at least 7 days before reported as a case,54,NA,Vaccination status
+2022-06-12,Fully vaccinated at least 7 days before reported as a case,52,NA,Vaccination status
 2022-06-12,Received booster at least 7 days before being reported as a case,165,NA,Vaccination status
 2022-06-12,Under 12 years old,22,NA,Vaccination status
-2022-06-19,No doses received prior to being reported as a case,21,NA,Vaccination status
+2022-06-19,No doses received prior to being reported as a case,23,NA,Vaccination status
 2022-06-19,Partially vaccinated,2,NA,Vaccination status
-2022-06-19,Fully vaccinated at least 7 days before reported as a case,55,NA,Vaccination status
-2022-06-19,Received booster at least 7 days before being reported as a case,196,NA,Vaccination status
-2022-06-19,Under 12 years old,26,NA,Vaccination status
-2022-06-26,No doses received prior to being reported as a case,18,NA,Vaccination status
+2022-06-19,Fully vaccinated at least 7 days before reported as a case,54,NA,Vaccination status
+2022-06-19,Received booster at least 7 days before being reported as a case,198,NA,Vaccination status
+2022-06-19,Under 12 years old,27,NA,Vaccination status
+2022-06-26,No doses received prior to being reported as a case,19,NA,Vaccination status
 2022-06-26,Partially vaccinated,4,NA,Vaccination status
-2022-06-26,Fully vaccinated at least 7 days before reported as a case,45,NA,Vaccination status
-2022-06-26,Received booster at least 7 days before being reported as a case,236,NA,Vaccination status
-2022-06-26,Under 12 years old,28,NA,Vaccination status
+2022-06-26,Fully vaccinated at least 7 days before reported as a case,47,NA,Vaccination status
+2022-06-26,Received booster at least 7 days before being reported as a case,242,NA,Vaccination status
+2022-06-26,Under 12 years old,31,NA,Vaccination status
 2022-07-03,No doses received prior to being reported as a case,18,NA,Vaccination status
 2022-07-03,Partially vaccinated,3,NA,Vaccination status
 2022-07-03,Fully vaccinated at least 7 days before reported as a case,43,NA,Vaccination status
-2022-07-03,Received booster at least 7 days before being reported as a case,196,NA,Vaccination status
+2022-07-03,Received booster at least 7 days before being reported as a case,199,NA,Vaccination status
 2022-07-03,Under 12 years old,15,NA,Vaccination status
+2022-07-10,No doses received prior to being reported as a case,7,NA,Vaccination status
+2022-07-10,Partially vaccinated,2,NA,Vaccination status
+2022-07-10,Fully vaccinated at least 7 days before reported as a case,19,NA,Vaccination status
+2022-07-10,Received booster at least 7 days before being reported as a case,94,NA,Vaccination status
+2022-07-10,Under 12 years old,10,NA,Vaccination status
