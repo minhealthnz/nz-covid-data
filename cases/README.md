@@ -10,3 +10,4 @@ starting with 'GitHub Data'.
 ## Changes
 
 - 24 May 2022. Cases are reported from two databases. Previously case report date was preferentially taken from one of these databases. This has been changed to use the earliest report date from either database. This primarily effects cases reported on May 2 & 3 2022.
+- 2 August 2022. The weekly hospitalisation and death csvs were changed from week starting Sunday to week ending Sunday to align with other reporting.
