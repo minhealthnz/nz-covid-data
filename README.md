@@ -10,7 +10,7 @@ The `vaccine-data` contains copies of the weekly [Ministry of Health vaccine dat
 
 ## Release Notes:
 
-- [26 Sep 2022]
+- [29 Sep 2022]
 
 Due to retiring the COVID-19 Protection Framework on 12 September 2022, the Ministry of Health no longer separately reports COVID-19 cases who have recently travelled overseas. These cases will be included in the weekly reporting on all COVID-19 community cases, but we will no longer distinguish between border and other cases.
 
