@@ -163,7 +163,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2021-11-28,70+,5,0,Age band
 2021-12-05,0 to 9,4,1,Age band
 2021-12-05,10 to 19,3,0,Age band
-2021-12-05,20 to 29,11,0,Age band
+2021-12-05,20 to 29,10,0,Age band
 2021-12-05,30 to 39,10,0,Age band
 2021-12-05,40 to 49,10,0,Age band
 2021-12-05,50 to 59,6,0,Age band
@@ -399,7 +399,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-07-03,40 to 49,31,3,Age band
 2022-07-03,50 to 59,53,2,Age band
 2022-07-03,60 to 69,79,1,Age band
-2022-07-03,70+,310,6,Age band
+2022-07-03,70+,311,6,Age band
 2022-07-10,0 to 9,62,1,Age band
 2022-07-10,10 to 19,16,0,Age band
 2022-07-10,20 to 29,29,0,Age band
@@ -416,7 +416,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-07-17,50 to 59,62,3,Age band
 2022-07-17,60 to 69,112,3,Age band
 2022-07-17,70+,452,11,Age band
-2022-07-24,0 to 9,61,1,Age band
+2022-07-24,0 to 9,62,2,Age band
 2022-07-24,10 to 19,9,0,Age band
 2022-07-24,20 to 29,47,0,Age band
 2022-07-24,30 to 39,38,0,Age band
@@ -433,13 +433,13 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-07-31,60 to 69,124,7,Age band
 2022-07-31,70+,362,4,Age band
 2022-08-07,0 to 9,53,1,Age band
-2022-08-07,10 to 19,19,0,Age band
+2022-08-07,10 to 19,18,0,Age band
 2022-08-07,20 to 29,37,0,Age band
-2022-08-07,30 to 39,32,1,Age band
+2022-08-07,30 to 39,31,1,Age band
 2022-08-07,40 to 49,41,0,Age band
-2022-08-07,50 to 59,64,3,Age band
+2022-08-07,50 to 59,63,3,Age band
 2022-08-07,60 to 69,92,6,Age band
-2022-08-07,70+,322,9,Age band
+2022-08-07,70+,323,9,Age band
 2022-08-14,0 to 9,51,0,Age band
 2022-08-14,10 to 19,4,0,Age band
 2022-08-14,20 to 29,33,0,Age band
@@ -458,7 +458,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-08-21,70+,195,3,Age band
 2022-08-28,0 to 9,39,0,Age band
 2022-08-28,10 to 19,12,0,Age band
-2022-08-28,20 to 29,22,0,Age band
+2022-08-28,20 to 29,21,0,Age band
 2022-08-28,30 to 39,20,0,Age band
 2022-08-28,40 to 49,19,0,Age band
 2022-08-28,50 to 59,23,0,Age band
@@ -470,8 +470,8 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-09-04,30 to 39,18,0,Age band
 2022-09-04,40 to 49,21,0,Age band
 2022-09-04,50 to 59,30,3,Age band
-2022-09-04,60 to 69,37,2,Age band
-2022-09-04,70+,109,2,Age band
+2022-09-04,60 to 69,37,3,Age band
+2022-09-04,70+,110,2,Age band
 2022-09-11,0 to 9,20,0,Age band
 2022-09-11,10 to 19,6,0,Age band
 2022-09-11,20 to 29,7,0,Age band
@@ -484,50 +484,50 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-09-18,10 to 19,6,0,Age band
 2022-09-18,20 to 29,12,0,Age band
 2022-09-18,30 to 39,14,0,Age band
-2022-09-18,40 to 49,12,0,Age band
-2022-09-18,50 to 59,21,0,Age band
+2022-09-18,40 to 49,11,0,Age band
+2022-09-18,50 to 59,20,0,Age band
 2022-09-18,60 to 69,25,0,Age band
 2022-09-18,70+,81,5,Age band
 2022-09-25,0 to 9,23,0,Age band
 2022-09-25,10 to 19,7,0,Age band
 2022-09-25,20 to 29,8,0,Age band
 2022-09-25,30 to 39,10,0,Age band
-2022-09-25,40 to 49,18,0,Age band
+2022-09-25,40 to 49,17,0,Age band
 2022-09-25,50 to 59,26,1,Age band
-2022-09-25,60 to 69,28,0,Age band
-2022-09-25,70+,84,2,Age band
-2022-10-02,0 to 9,17,1,Age band
+2022-09-25,60 to 69,27,0,Age band
+2022-09-25,70+,85,2,Age band
+2022-10-02,0 to 9,16,0,Age band
 2022-10-02,10 to 19,4,0,Age band
 2022-10-02,20 to 29,12,1,Age band
 2022-10-02,30 to 39,11,0,Age band
 2022-10-02,40 to 49,17,0,Age band
-2022-10-02,50 to 59,15,4,Age band
-2022-10-02,60 to 69,18,0,Age band
-2022-10-02,70+,89,1,Age band
-2022-10-09,0 to 9,24,0,Age band
+2022-10-02,50 to 59,14,4,Age band
+2022-10-02,60 to 69,17,0,Age band
+2022-10-02,70+,90,1,Age band
+2022-10-09,0 to 9,23,0,Age band
 2022-10-09,10 to 19,2,0,Age band
 2022-10-09,20 to 29,18,0,Age band
 2022-10-09,30 to 39,11,0,Age band
 2022-10-09,40 to 49,15,0,Age band
-2022-10-09,50 to 59,24,0,Age band
+2022-10-09,50 to 59,23,0,Age band
 2022-10-09,60 to 69,28,0,Age band
-2022-10-09,70+,123,4,Age band
+2022-10-09,70+,121,4,Age band
 2022-10-16,0 to 9,22,1,Age band
 2022-10-16,10 to 19,9,0,Age band
-2022-10-16,20 to 29,21,0,Age band
-2022-10-16,30 to 39,20,0,Age band
+2022-10-16,20 to 29,20,0,Age band
+2022-10-16,30 to 39,20,1,Age band
 2022-10-16,40 to 49,21,0,Age band
-2022-10-16,50 to 59,26,1,Age band
+2022-10-16,50 to 59,25,0,Age band
 2022-10-16,60 to 69,45,0,Age band
-2022-10-16,70+,138,2,Age band
+2022-10-16,70+,141,2,Age band
 2022-10-23,0 to 9,27,0,Age band
-2022-10-23,10 to 19,7,0,Age band
+2022-10-23,10 to 19,8,0,Age band
 2022-10-23,20 to 29,21,1,Age band
 2022-10-23,30 to 39,19,1,Age band
 2022-10-23,40 to 49,24,1,Age band
 2022-10-23,50 to 59,27,0,Age band
-2022-10-23,60 to 69,51,2,Age band
-2022-10-23,70+,175,2,Age band
+2022-10-23,60 to 69,48,3,Age band
+2022-10-23,70+,180,2,Age band
 2020-03-01,Asian,1,0,Ethnicity
 2020-03-08,European or Other,1,0,Ethnicity
 2020-03-15,European or Other,2,0,Ethnicity
@@ -629,7 +629,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2021-11-28,Asian,4,1,Ethnicity
 2021-11-28,European or Other,13,2,Ethnicity
 2021-12-05,Maori,30,1,Ethnicity
-2021-12-05,Pacific Peoples,16,1,Ethnicity
+2021-12-05,Pacific Peoples,15,1,Ethnicity
 2021-12-05,Asian,2,0,Ethnicity
 2021-12-05,European or Other,7,0,Ethnicity
 2021-12-12,Maori,11,1,Ethnicity
@@ -787,7 +787,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-06-26,European or Other,331,9,Ethnicity
 2022-06-26,Unknown,1,0,Ethnicity
 2022-07-03,Maori,65,1,Ethnicity
-2022-07-03,Pacific Peoples,34,1,Ethnicity
+2022-07-03,Pacific Peoples,35,1,Ethnicity
 2022-07-03,Asian,66,1,Ethnicity
 2022-07-03,MELAA,7,0,Ethnicity
 2022-07-03,European or Other,423,9,Ethnicity
@@ -806,7 +806,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-07-24,Pacific Peoples,51,4,Ethnicity
 2022-07-24,Asian,68,1,Ethnicity
 2022-07-24,MELAA,5,0,Ethnicity
-2022-07-24,European or Other,628,10,Ethnicity
+2022-07-24,European or Other,629,11,Ethnicity
 2022-07-24,Unknown,1,0,Ethnicity
 2022-07-31,Maori,89,2,Ethnicity
 2022-07-31,Pacific Peoples,42,1,Ethnicity
@@ -815,10 +815,10 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-07-31,European or Other,559,14,Ethnicity
 2022-07-31,Unknown,2,0,Ethnicity
 2022-08-07,Maori,92,5,Ethnicity
-2022-08-07,Pacific Peoples,46,1,Ethnicity
-2022-08-07,Asian,63,0,Ethnicity
+2022-08-07,Pacific Peoples,47,1,Ethnicity
+2022-08-07,Asian,61,0,Ethnicity
 2022-08-07,MELAA,13,1,Ethnicity
-2022-08-07,European or Other,445,13,Ethnicity
+2022-08-07,European or Other,444,13,Ethnicity
 2022-08-07,Unknown,1,0,Ethnicity
 2022-08-14,Maori,59,2,Ethnicity
 2022-08-14,Pacific Peoples,55,3,Ethnicity
@@ -833,16 +833,16 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-08-21,European or Other,281,2,Ethnicity
 2022-08-21,Unknown,2,0,Ethnicity
 2022-08-28,Maori,47,0,Ethnicity
-2022-08-28,Pacific Peoples,19,0,Ethnicity
+2022-08-28,Pacific Peoples,18,0,Ethnicity
 2022-08-28,Asian,43,0,Ethnicity
 2022-08-28,MELAA,5,0,Ethnicity
 2022-08-28,European or Other,207,1,Ethnicity
 2022-08-28,Unknown,2,0,Ethnicity
-2022-09-04,Maori,42,3,Ethnicity
+2022-09-04,Maori,43,3,Ethnicity
 2022-09-04,Pacific Peoples,15,0,Ethnicity
 2022-09-04,Asian,42,0,Ethnicity
 2022-09-04,MELAA,3,0,Ethnicity
-2022-09-04,European or Other,164,4,Ethnicity
+2022-09-04,European or Other,164,5,Ethnicity
 2022-09-04,Unknown,1,0,Ethnicity
 2022-09-11,Maori,21,1,Ethnicity
 2022-09-11,Pacific Peoples,21,0,Ethnicity
@@ -854,33 +854,33 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-09-18,Pacific Peoples,21,0,Ethnicity
 2022-09-18,Asian,20,0,Ethnicity
 2022-09-18,MELAA,1,0,Ethnicity
-2022-09-18,European or Other,127,5,Ethnicity
-2022-09-25,Maori,22,0,Ethnicity
+2022-09-18,European or Other,125,5,Ethnicity
+2022-09-25,Maori,21,0,Ethnicity
 2022-09-25,Pacific Peoples,23,0,Ethnicity
-2022-09-25,Asian,30,0,Ethnicity
+2022-09-25,Asian,31,0,Ethnicity
 2022-09-25,MELAA,4,0,Ethnicity
-2022-09-25,European or Other,125,3,Ethnicity
+2022-09-25,European or Other,124,3,Ethnicity
 2022-10-02,Maori,15,1,Ethnicity
 2022-10-02,Pacific Peoples,7,0,Ethnicity
 2022-10-02,Asian,27,1,Ethnicity
 2022-10-02,MELAA,1,0,Ethnicity
-2022-10-02,European or Other,133,5,Ethnicity
-2022-10-09,Maori,27,0,Ethnicity
-2022-10-09,Pacific Peoples,20,0,Ethnicity
+2022-10-02,European or Other,131,4,Ethnicity
+2022-10-09,Maori,26,0,Ethnicity
+2022-10-09,Pacific Peoples,19,0,Ethnicity
 2022-10-09,Asian,38,0,Ethnicity
 2022-10-09,MELAA,3,0,Ethnicity
-2022-10-09,European or Other,157,4,Ethnicity
-2022-10-16,Maori,26,2,Ethnicity
-2022-10-16,Pacific Peoples,24,0,Ethnicity
-2022-10-16,Asian,45,1,Ethnicity
+2022-10-09,European or Other,155,4,Ethnicity
+2022-10-16,Maori,25,0,Ethnicity
+2022-10-16,Pacific Peoples,25,0,Ethnicity
+2022-10-16,Asian,45,2,Ethnicity
 2022-10-16,MELAA,7,0,Ethnicity
-2022-10-16,European or Other,198,1,Ethnicity
+2022-10-16,European or Other,199,2,Ethnicity
 2022-10-16,Unknown,2,0,Ethnicity
 2022-10-23,Maori,40,3,Ethnicity
-2022-10-23,Pacific Peoples,20,0,Ethnicity
+2022-10-23,Pacific Peoples,19,0,Ethnicity
 2022-10-23,Asian,46,0,Ethnicity
 2022-10-23,MELAA,7,1,Ethnicity
-2022-10-23,European or Other,238,3,Ethnicity
+2022-10-23,European or Other,242,4,Ethnicity
 2020-03-01,Female,1,0,Sex
 2020-03-08,Female,1,0,Sex
 2020-03-15,Female,1,0,Sex
@@ -951,7 +951,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2021-11-21,Male,40,2,Sex
 2021-11-28,Female,49,4,Sex
 2021-11-28,Male,45,3,Sex
-2021-12-05,Female,24,0,Sex
+2021-12-05,Female,23,0,Sex
 2021-12-05,Male,31,2,Sex
 2021-12-12,Female,22,2,Sex
 2021-12-12,Male,13,2,Sex
@@ -1015,41 +1015,41 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-06-26,Female,229,4,Sex
 2022-06-26,Male,234,8,Sex
 2022-07-03,Female,277,3,Sex
-2022-07-03,Male,318,9,Sex
+2022-07-03,Male,319,9,Sex
 2022-07-10,Female,348,6,Sex
 2022-07-10,Male,380,16,Sex
 2022-07-10,Unknown,1,0,Sex
 2022-07-17,Female,427,6,Sex
 2022-07-17,Male,425,14,Sex
-2022-07-24,Female,432,11,Sex
+2022-07-24,Female,433,12,Sex
 2022-07-24,Male,425,8,Sex
 2022-07-31,Female,381,10,Sex
 2022-07-31,Male,376,9,Sex
-2022-08-07,Female,323,11,Sex
+2022-08-07,Female,321,11,Sex
 2022-08-07,Male,337,9,Sex
 2022-08-14,Female,268,5,Sex
 2022-08-14,Male,234,5,Sex
 2022-08-21,Female,207,3,Sex
 2022-08-21,Male,204,3,Sex
 2022-08-21,Unknown,1,0,Sex
-2022-08-28,Female,184,1,Sex
+2022-08-28,Female,183,1,Sex
 2022-08-28,Male,139,0,Sex
 2022-09-04,Female,123,4,Sex
-2022-09-04,Male,144,3,Sex
+2022-09-04,Male,145,4,Sex
 2022-09-11,Female,106,3,Sex
 2022-09-11,Male,114,2,Sex
-2022-09-18,Female,87,1,Sex
-2022-09-18,Male,101,4,Sex
-2022-09-25,Female,90,1,Sex
+2022-09-18,Female,86,1,Sex
+2022-09-18,Male,100,4,Sex
+2022-09-25,Female,89,1,Sex
 2022-09-25,Male,114,2,Sex
 2022-10-02,Female,97,4,Sex
-2022-10-02,Male,86,3,Sex
-2022-10-09,Female,130,0,Sex
-2022-10-09,Male,115,4,Sex
-2022-10-16,Female,149,3,Sex
-2022-10-16,Male,153,1,Sex
-2022-10-23,Female,181,2,Sex
-2022-10-23,Male,170,5,Sex
+2022-10-02,Male,84,2,Sex
+2022-10-09,Female,127,0,Sex
+2022-10-09,Male,114,4,Sex
+2022-10-16,Female,151,3,Sex
+2022-10-16,Male,152,1,Sex
+2022-10-23,Female,180,2,Sex
+2022-10-23,Male,174,6,Sex
 2021-09-26,No doses received prior to being reported as a case,1,NA,Vaccination status
 2021-09-26,Under 12 years old,1,NA,Vaccination status
 2021-10-03,No doses received prior to being reported as a case,18,NA,Vaccination status
@@ -1088,7 +1088,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2021-11-28,Partially vaccinated,14,NA,Vaccination status
 2021-11-28,Fully vaccinated at least 7 days before reported as a case,10,NA,Vaccination status
 2021-11-28,Under 12 years old,13,NA,Vaccination status
-2021-12-05,No doses received prior to being reported as a case,26,NA,Vaccination status
+2021-12-05,No doses received prior to being reported as a case,25,NA,Vaccination status
 2021-12-05,Partially vaccinated,18,NA,Vaccination status
 2021-12-05,Fully vaccinated at least 7 days before reported as a case,7,NA,Vaccination status
 2021-12-05,Under 12 years old,4,NA,Vaccination status
@@ -1233,7 +1233,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-06-26,Under 12 years old,53,NA,Vaccination status
 2022-07-03,No doses received prior to being reported as a case,31,NA,Vaccination status
 2022-07-03,Partially vaccinated,9,NA,Vaccination status
-2022-07-03,Fully vaccinated at least 7 days before reported as a case,80,NA,Vaccination status
+2022-07-03,Fully vaccinated at least 7 days before reported as a case,81,NA,Vaccination status
 2022-07-03,Received booster at least 7 days before being reported as a case,422,NA,Vaccination status
 2022-07-03,Under 12 years old,53,NA,Vaccination status
 2022-07-10,No doses received prior to being reported as a case,48,NA,Vaccination status
@@ -1250,16 +1250,16 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-07-24,Partially vaccinated,5,NA,Vaccination status
 2022-07-24,Fully vaccinated at least 7 days before reported as a case,95,NA,Vaccination status
 2022-07-24,Received booster at least 7 days before being reported as a case,648,NA,Vaccination status
-2022-07-24,Under 12 years old,63,NA,Vaccination status
+2022-07-24,Under 12 years old,64,NA,Vaccination status
 2022-07-31,No doses received prior to being reported as a case,60,NA,Vaccination status
 2022-07-31,Partially vaccinated,6,NA,Vaccination status
 2022-07-31,Fully vaccinated at least 7 days before reported as a case,102,NA,Vaccination status
 2022-07-31,Received booster at least 7 days before being reported as a case,521,NA,Vaccination status
 2022-07-31,Under 12 years old,68,NA,Vaccination status
-2022-08-07,No doses received prior to being reported as a case,53,NA,Vaccination status
+2022-08-07,No doses received prior to being reported as a case,52,NA,Vaccination status
 2022-08-07,Partially vaccinated,4,NA,Vaccination status
 2022-08-07,Fully vaccinated at least 7 days before reported as a case,99,NA,Vaccination status
-2022-08-07,Received booster at least 7 days before being reported as a case,449,NA,Vaccination status
+2022-08-07,Received booster at least 7 days before being reported as a case,448,NA,Vaccination status
 2022-08-07,Under 12 years old,55,NA,Vaccination status
 2022-08-14,No doses received prior to being reported as a case,38,NA,Vaccination status
 2022-08-14,Partially vaccinated,7,NA,Vaccination status
@@ -1273,13 +1273,13 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-08-21,Under 12 years old,36,NA,Vaccination status
 2022-08-28,No doses received prior to being reported as a case,23,NA,Vaccination status
 2022-08-28,Partially vaccinated,4,NA,Vaccination status
-2022-08-28,Fully vaccinated at least 7 days before reported as a case,43,NA,Vaccination status
+2022-08-28,Fully vaccinated at least 7 days before reported as a case,42,NA,Vaccination status
 2022-08-28,Received booster at least 7 days before being reported as a case,210,NA,Vaccination status
 2022-08-28,Under 12 years old,43,NA,Vaccination status
 2022-09-04,No doses received prior to being reported as a case,18,NA,Vaccination status
 2022-09-04,Partially vaccinated,7,NA,Vaccination status
 2022-09-04,Fully vaccinated at least 7 days before reported as a case,44,NA,Vaccination status
-2022-09-04,Received booster at least 7 days before being reported as a case,167,NA,Vaccination status
+2022-09-04,Received booster at least 7 days before being reported as a case,168,NA,Vaccination status
 2022-09-04,Under 12 years old,31,NA,Vaccination status
 2022-09-11,No doses received prior to being reported as a case,15,NA,Vaccination status
 2022-09-11,Partially vaccinated,1,NA,Vaccination status
@@ -1289,30 +1289,30 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-09-18,No doses received prior to being reported as a case,10,NA,Vaccination status
 2022-09-18,Partially vaccinated,3,NA,Vaccination status
 2022-09-18,Fully vaccinated at least 7 days before reported as a case,31,NA,Vaccination status
-2022-09-18,Received booster at least 7 days before being reported as a case,127,NA,Vaccination status
+2022-09-18,Received booster at least 7 days before being reported as a case,125,NA,Vaccination status
 2022-09-18,Under 12 years old,17,NA,Vaccination status
 2022-09-25,No doses received prior to being reported as a case,13,NA,Vaccination status
 2022-09-25,Partially vaccinated,2,NA,Vaccination status
 2022-09-25,Fully vaccinated at least 7 days before reported as a case,32,NA,Vaccination status
-2022-09-25,Received booster at least 7 days before being reported as a case,133,NA,Vaccination status
+2022-09-25,Received booster at least 7 days before being reported as a case,132,NA,Vaccination status
 2022-09-25,Under 12 years old,24,NA,Vaccination status
 2022-10-02,No doses received prior to being reported as a case,16,NA,Vaccination status
 2022-10-02,Partially vaccinated,1,NA,Vaccination status
 2022-10-02,Fully vaccinated at least 7 days before reported as a case,21,NA,Vaccination status
-2022-10-02,Received booster at least 7 days before being reported as a case,127,NA,Vaccination status
-2022-10-02,Under 12 years old,18,NA,Vaccination status
+2022-10-02,Received booster at least 7 days before being reported as a case,126,NA,Vaccination status
+2022-10-02,Under 12 years old,17,NA,Vaccination status
 2022-10-09,No doses received prior to being reported as a case,27,NA,Vaccination status
 2022-10-09,Partially vaccinated,6,NA,Vaccination status
-2022-10-09,Fully vaccinated at least 7 days before reported as a case,26,NA,Vaccination status
-2022-10-09,Received booster at least 7 days before being reported as a case,162,NA,Vaccination status
-2022-10-09,Under 12 years old,24,NA,Vaccination status
-2022-10-16,No doses received prior to being reported as a case,20,NA,Vaccination status
+2022-10-09,Fully vaccinated at least 7 days before reported as a case,25,NA,Vaccination status
+2022-10-09,Received booster at least 7 days before being reported as a case,160,NA,Vaccination status
+2022-10-09,Under 12 years old,23,NA,Vaccination status
+2022-10-16,No doses received prior to being reported as a case,21,NA,Vaccination status
 2022-10-16,Partially vaccinated,2,NA,Vaccination status
-2022-10-16,Fully vaccinated at least 7 days before reported as a case,37,NA,Vaccination status
-2022-10-16,Received booster at least 7 days before being reported as a case,220,NA,Vaccination status
+2022-10-16,Fully vaccinated at least 7 days before reported as a case,36,NA,Vaccination status
+2022-10-16,Received booster at least 7 days before being reported as a case,221,NA,Vaccination status
 2022-10-16,Under 12 years old,23,NA,Vaccination status
 2022-10-23,No doses received prior to being reported as a case,27,NA,Vaccination status
 2022-10-23,Partially vaccinated,2,NA,Vaccination status
 2022-10-23,Fully vaccinated at least 7 days before reported as a case,42,NA,Vaccination status
-2022-10-23,Received booster at least 7 days before being reported as a case,252,NA,Vaccination status
+2022-10-23,Received booster at least 7 days before being reported as a case,255,NA,Vaccination status
 2022-10-23,Under 12 years old,28,NA,Vaccination status
