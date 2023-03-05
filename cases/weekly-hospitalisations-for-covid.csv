@@ -575,14 +575,14 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-12-04,50 to 59,46,2,Age band
 2022-12-04,60 to 69,66,2,Age band
 2022-12-04,70+,232,5,Age band
-2022-12-11,0 to 9,64,1,Age band
-2022-12-11,10 to 19,20,0,Age band
-2022-12-11,20 to 29,36,1,Age band
+2022-12-11,0 to 9,63,1,Age band
+2022-12-11,10 to 19,19,0,Age band
+2022-12-11,20 to 29,34,1,Age band
 2022-12-11,30 to 39,35,0,Age band
-2022-12-11,40 to 49,26,1,Age band
-2022-12-11,50 to 59,70,1,Age band
-2022-12-11,60 to 69,95,2,Age band
-2022-12-11,70+,289,8,Age band
+2022-12-11,40 to 49,24,1,Age band
+2022-12-11,50 to 59,68,1,Age band
+2022-12-11,60 to 69,92,2,Age band
+2022-12-11,70+,287,8,Age band
 2022-12-18,0 to 9,66,1,Age band
 2022-12-18,10 to 19,12,0,Age band
 2022-12-18,20 to 29,36,0,Age band
@@ -670,7 +670,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-02-26,40 to 49,11,1,Age band
 2023-02-26,50 to 59,17,0,Age band
 2023-02-26,60 to 69,30,4,Age band
-2023-02-26,70+,110,1,Age band
+2023-02-26,70+,112,1,Age band
 2020-03-01,Asian,1,0,Ethnicity
 2020-03-08,European or Other,1,0,Ethnicity
 2020-03-15,European or Other,2,0,Ethnicity
@@ -1056,11 +1056,11 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-12-04,MELAA,12,0,Ethnicity
 2022-12-04,European or Other,308,9,Ethnicity
 2022-12-04,Unknown,3,0,Ethnicity
-2022-12-11,Maori,85,3,Ethnicity
-2022-12-11,Pacific Peoples,63,1,Ethnicity
-2022-12-11,Asian,68,1,Ethnicity
+2022-12-11,Maori,83,3,Ethnicity
+2022-12-11,Pacific Peoples,62,1,Ethnicity
+2022-12-11,Asian,64,1,Ethnicity
 2022-12-11,MELAA,9,0,Ethnicity
-2022-12-11,European or Other,406,9,Ethnicity
+2022-12-11,European or Other,400,9,Ethnicity
 2022-12-11,Unknown,4,0,Ethnicity
 2022-12-18,Maori,87,0,Ethnicity
 2022-12-18,Pacific Peoples,94,0,Ethnicity
@@ -1124,7 +1124,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-02-26,Pacific Peoples,15,1,Ethnicity
 2023-02-26,Asian,21,2,Ethnicity
 2023-02-26,MELAA,3,0,Ethnicity
-2023-02-26,European or Other,147,4,Ethnicity
+2023-02-26,European or Other,149,4,Ethnicity
 2023-02-26,Unknown,2,0,Ethnicity
 2020-03-01,Female,1,0,Sex
 2020-03-08,Female,1,0,Sex
@@ -1307,8 +1307,8 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-11-27,Male,183,9,Sex
 2022-12-04,Female,247,4,Sex
 2022-12-04,Male,236,9,Sex
-2022-12-11,Female,309,5,Sex
-2022-12-11,Male,325,9,Sex
+2022-12-11,Female,303,5,Sex
+2022-12-11,Male,318,9,Sex
 2022-12-11,Unknown,1,0,Sex
 2022-12-18,Female,339,2,Sex
 2022-12-18,Male,322,8,Sex
@@ -1331,7 +1331,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-02-19,Female,93,0,Sex
 2023-02-19,Male,95,8,Sex
 2023-02-26,Female,101,3,Sex
-2023-02-26,Male,112,5,Sex
+2023-02-26,Male,114,5,Sex
 2021-09-26,No doses received prior to being reported as a case,1,NA,Vaccination status
 2021-09-26,Under 12 years old,1,NA,Vaccination status
 2021-10-03,No doses received prior to being reported as a case,18,NA,Vaccination status
@@ -1629,9 +1629,9 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-12-04,Under 12 years old,49,NA,Vaccination status
 2022-12-11,No doses received prior to being reported as a case,46,NA,Vaccination status
 2022-12-11,Partially vaccinated,6,NA,Vaccination status
-2022-12-11,Fully vaccinated at least 7 days before reported as a case,86,NA,Vaccination status
-2022-12-11,Received booster at least 7 days before being reported as a case,429,NA,Vaccination status
-2022-12-11,Under 12 years old,68,NA,Vaccination status
+2022-12-11,Fully vaccinated at least 7 days before reported as a case,83,NA,Vaccination status
+2022-12-11,Received booster at least 7 days before being reported as a case,420,NA,Vaccination status
+2022-12-11,Under 12 years old,67,NA,Vaccination status
 2022-12-18,No doses received prior to being reported as a case,56,NA,Vaccination status
 2022-12-18,Partially vaccinated,10,NA,Vaccination status
 2022-12-18,Fully vaccinated at least 7 days before reported as a case,89,NA,Vaccination status
@@ -1685,5 +1685,5 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-02-26,No doses received prior to being reported as a case,22,NA,Vaccination status
 2023-02-26,Partially vaccinated,4,NA,Vaccination status
 2023-02-26,Fully vaccinated at least 7 days before reported as a case,23,NA,Vaccination status
-2023-02-26,Received booster at least 7 days before being reported as a case,144,NA,Vaccination status
+2023-02-26,Received booster at least 7 days before being reported as a case,146,NA,Vaccination status
 2023-02-26,Under 12 years old,20,NA,Vaccination status
