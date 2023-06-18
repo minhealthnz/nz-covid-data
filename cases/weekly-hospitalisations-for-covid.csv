@@ -696,11 +696,11 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-03-19,50 to 59,19,1,Age band
 2023-03-19,60 to 69,26,5,Age band
 2023-03-19,70+,132,2,Age band
-2023-03-26,0 to 9,19,0,Age band
+2023-03-26,0 to 9,18,0,Age band
 2023-03-26,10 to 19,6,0,Age band
 2023-03-26,20 to 29,11,0,Age band
 2023-03-26,30 to 39,16,0,Age band
-2023-03-26,40 to 49,13,0,Age band
+2023-03-26,40 to 49,12,0,Age band
 2023-03-26,50 to 59,14,0,Age band
 2023-03-26,60 to 69,42,2,Age band
 2023-03-26,70+,121,3,Age band
@@ -791,7 +791,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-06-11,40 to 49,11,0,Age band
 2023-06-11,50 to 59,23,3,Age band
 2023-06-11,60 to 69,39,3,Age band
-2023-06-11,70+,154,5,Age band
+2023-06-11,70+,155,5,Age band
 2020-03-01,Asian,1,0,Ethnicity
 2020-03-08,European or Other,1,0,Ethnicity
 2020-03-15,European or Other,2,0,Ethnicity
@@ -1265,7 +1265,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-03-26,Pacific Peoples,11,1,Ethnicity
 2023-03-26,Asian,29,1,Ethnicity
 2023-03-26,MELAA,2,0,Ethnicity
-2023-03-26,European or Other,174,3,Ethnicity
+2023-03-26,European or Other,172,3,Ethnicity
 2023-04-02,Maori,37,0,Ethnicity
 2023-04-02,Pacific Peoples,18,1,Ethnicity
 2023-04-02,Asian,31,0,Ethnicity
@@ -1326,7 +1326,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-06-11,Pacific Peoples,20,0,Ethnicity
 2023-06-11,Asian,36,1,Ethnicity
 2023-06-11,MELAA,3,0,Ethnicity
-2023-06-11,European or Other,187,7,Ethnicity
+2023-06-11,European or Other,188,7,Ethnicity
 2023-06-11,Unknown,1,0,Ethnicity
 2020-03-01,Female,1,0,Sex
 2020-03-08,Female,1,0,Sex
@@ -1541,8 +1541,8 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-03-12,Male,110,5,Sex
 2023-03-19,Female,105,3,Sex
 2023-03-19,Male,116,7,Sex
-2023-03-26,Female,128,2,Sex
-2023-03-26,Male,114,3,Sex
+2023-03-26,Female,127,2,Sex
+2023-03-26,Male,113,3,Sex
 2023-04-02,Female,128,4,Sex
 2023-04-02,Male,144,4,Sex
 2023-04-09,Female,129,2,Sex
@@ -1565,7 +1565,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-06-04,Female,154,11,Sex
 2023-06-04,Male,169,6,Sex
 2023-06-11,Female,142,4,Sex
-2023-06-11,Male,140,7,Sex
+2023-06-11,Male,141,7,Sex
 2021-09-26,No doses received prior to being reported as a case,1,NA,Vaccination status
 2021-09-26,Under 12 years old,1,NA,Vaccination status
 2021-10-03,No doses received prior to being reported as a case,18,NA,Vaccination status
@@ -1938,8 +1938,8 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-03-26,No doses received prior to being reported as a case,22,NA,Vaccination status
 2023-03-26,Partially vaccinated,4,NA,Vaccination status
 2023-03-26,Fully vaccinated at least 7 days before reported as a case,24,NA,Vaccination status
-2023-03-26,Received booster at least 7 days before being reported as a case,173,NA,Vaccination status
-2023-03-26,Under 12 years old,19,NA,Vaccination status
+2023-03-26,Received booster at least 7 days before being reported as a case,172,NA,Vaccination status
+2023-03-26,Under 12 years old,18,NA,Vaccination status
 2023-04-02,No doses received prior to being reported as a case,18,NA,Vaccination status
 2023-04-02,Partially vaccinated,2,NA,Vaccination status
 2023-04-02,Fully vaccinated at least 7 days before reported as a case,30,NA,Vaccination status
@@ -1992,5 +1992,5 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-06-11,No doses received prior to being reported as a case,17,NA,Vaccination status
 2023-06-11,Partially vaccinated,2,NA,Vaccination status
 2023-06-11,Fully vaccinated at least 7 days before reported as a case,32,NA,Vaccination status
-2023-06-11,Received booster at least 7 days before being reported as a case,202,NA,Vaccination status
+2023-06-11,Received booster at least 7 days before being reported as a case,203,NA,Vaccination status
 2023-06-11,Under 12 years old,29,NA,Vaccination status
