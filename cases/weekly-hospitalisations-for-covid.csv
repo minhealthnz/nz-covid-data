@@ -597,7 +597,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-12-25,20 to 29,20,0,Age band
 2022-12-25,30 to 39,29,1,Age band
 2022-12-25,40 to 49,38,2,Age band
-2022-12-25,50 to 59,45,1,Age band
+2022-12-25,50 to 59,46,1,Age band
 2022-12-25,60 to 69,98,3,Age band
 2022-12-25,70+,255,2,Age band
 2023-01-01,0 to 9,56,3,Age band
@@ -727,14 +727,14 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-04-16,40 to 49,9,0,Age band
 2023-04-16,50 to 59,25,0,Age band
 2023-04-16,60 to 69,48,1,Age band
-2023-04-16,70+,173,3,Age band
+2023-04-16,70+,174,3,Age band
 2023-04-23,0 to 9,24,0,Age band
 2023-04-23,10 to 19,1,0,Age band
 2023-04-23,20 to 29,10,1,Age band
 2023-04-23,30 to 39,16,0,Age band
 2023-04-23,40 to 49,14,2,Age band
-2023-04-23,50 to 59,19,0,Age band
-2023-04-23,60 to 69,43,1,Age band
+2023-04-23,50 to 59,20,0,Age band
+2023-04-23,60 to 69,44,1,Age band
 2023-04-23,70+,171,4,Age band
 2023-04-30,0 to 9,22,0,Age band
 2023-04-30,10 to 19,3,0,Age band
@@ -743,15 +743,15 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-04-30,40 to 49,10,0,Age band
 2023-04-30,50 to 59,18,0,Age band
 2023-04-30,60 to 69,34,3,Age band
-2023-04-30,70+,139,4,Age band
-2023-05-07,0 to 9,25,0,Age band
+2023-04-30,70+,141,4,Age band
+2023-05-07,0 to 9,23,0,Age band
 2023-05-07,10 to 19,6,0,Age band
-2023-05-07,20 to 29,6,0,Age band
-2023-05-07,30 to 39,12,0,Age band
+2023-05-07,20 to 29,5,0,Age band
+2023-05-07,30 to 39,11,0,Age band
 2023-05-07,40 to 49,11,0,Age band
-2023-05-07,50 to 59,29,0,Age band
+2023-05-07,50 to 59,28,0,Age band
 2023-05-07,60 to 69,26,2,Age band
-2023-05-07,70+,121,1,Age band
+2023-05-07,70+,119,1,Age band
 2023-05-14,0 to 9,31,1,Age band
 2023-05-14,10 to 19,3,0,Age band
 2023-05-14,20 to 29,9,0,Age band
@@ -767,14 +767,14 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-05-21,40 to 49,18,2,Age band
 2023-05-21,50 to 59,19,0,Age band
 2023-05-21,60 to 69,47,4,Age band
-2023-05-21,70+,127,5,Age band
+2023-05-21,70+,128,5,Age band
 2023-05-28,0 to 9,27,0,Age band
 2023-05-28,10 to 19,7,0,Age band
 2023-05-28,20 to 29,10,0,Age band
-2023-05-28,30 to 39,24,1,Age band
+2023-05-28,30 to 39,23,1,Age band
 2023-05-28,40 to 49,17,0,Age band
 2023-05-28,50 to 59,29,1,Age band
-2023-05-28,60 to 69,42,0,Age band
+2023-05-28,60 to 69,41,0,Age band
 2023-05-28,70+,111,2,Age band
 2023-06-04,0 to 9,23,1,Age band
 2023-06-04,10 to 19,6,0,Age band
@@ -783,19 +783,19 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-06-04,40 to 49,17,2,Age band
 2023-06-04,50 to 59,23,3,Age band
 2023-06-04,60 to 69,47,2,Age band
-2023-06-04,70+,150,6,Age band
+2023-06-04,70+,148,5,Age band
 2023-06-11,0 to 9,26,1,Age band
 2023-06-11,10 to 19,8,0,Age band
 2023-06-11,20 to 29,13,2,Age band
 2023-06-11,30 to 39,11,1,Age band
 2023-06-11,40 to 49,9,0,Age band
-2023-06-11,50 to 59,18,1,Age band
+2023-06-11,50 to 59,19,2,Age band
 2023-06-11,60 to 69,32,1,Age band
-2023-06-11,70+,131,4,Age band
+2023-06-11,70+,123,4,Age band
 2023-06-18,0 to 9,28,0,Age band
 2023-06-18,10 to 19,2,0,Age band
 2023-06-18,20 to 29,12,0,Age band
-2023-06-18,30 to 39,9,0,Age band
+2023-06-18,30 to 39,10,0,Age band
 2023-06-18,40 to 49,15,0,Age band
 2023-06-18,50 to 59,22,1,Age band
 2023-06-18,60 to 69,31,1,Age band
@@ -805,32 +805,32 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-06-25,20 to 29,12,0,Age band
 2023-06-25,30 to 39,8,0,Age band
 2023-06-25,40 to 49,13,0,Age band
-2023-06-25,50 to 59,27,1,Age band
+2023-06-25,50 to 59,25,1,Age band
 2023-06-25,60 to 69,25,0,Age band
 2023-06-25,70+,104,0,Age band
 2023-07-02,0 to 9,38,3,Age band
 2023-07-02,10 to 19,5,0,Age band
-2023-07-02,20 to 29,9,0,Age band
+2023-07-02,20 to 29,8,0,Age band
 2023-07-02,30 to 39,13,1,Age band
 2023-07-02,40 to 49,10,1,Age band
-2023-07-02,50 to 59,22,1,Age band
-2023-07-02,60 to 69,30,2,Age band
-2023-07-02,70+,113,4,Age band
+2023-07-02,50 to 59,21,1,Age band
+2023-07-02,60 to 69,29,2,Age band
+2023-07-02,70+,103,4,Age band
 2023-07-09,0 to 9,16,0,Age band
 2023-07-09,20 to 29,5,0,Age band
-2023-07-09,30 to 39,9,0,Age band
+2023-07-09,30 to 39,8,0,Age band
 2023-07-09,40 to 49,11,3,Age band
-2023-07-09,50 to 59,22,0,Age band
-2023-07-09,60 to 69,29,1,Age band
-2023-07-09,70+,104,6,Age band
-2023-07-16,0 to 9,16,0,Age band
+2023-07-09,50 to 59,17,0,Age band
+2023-07-09,60 to 69,27,0,Age band
+2023-07-09,70+,97,5,Age band
+2023-07-16,0 to 9,15,0,Age band
 2023-07-16,10 to 19,6,0,Age band
-2023-07-16,20 to 29,11,0,Age band
-2023-07-16,30 to 39,14,0,Age band
+2023-07-16,20 to 29,10,0,Age band
+2023-07-16,30 to 39,13,0,Age band
 2023-07-16,40 to 49,1,0,Age band
-2023-07-16,50 to 59,18,0,Age band
-2023-07-16,60 to 69,35,2,Age band
-2023-07-16,70+,106,4,Age band
+2023-07-16,50 to 59,17,0,Age band
+2023-07-16,60 to 69,34,2,Age band
+2023-07-16,70+,99,4,Age band
 2023-07-23,0 to 9,12,0,Age band
 2023-07-23,10 to 19,3,0,Age band
 2023-07-23,20 to 29,8,0,Age band
@@ -1236,7 +1236,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-12-18,Asian,49,0,Ethnicity
 2022-12-18,MELAA,8,1,Ethnicity
 2022-12-18,European or Other,376,11,Ethnicity
-2022-12-25,Maori,88,5,Ethnicity
+2022-12-25,Maori,89,5,Ethnicity
 2022-12-25,Pacific Peoples,64,1,Ethnicity
 2022-12-25,Asian,50,1,Ethnicity
 2022-12-25,MELAA,8,0,Ethnicity
@@ -1328,24 +1328,24 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-04-16,Pacific Peoples,16,0,Ethnicity
 2023-04-16,Asian,23,2,Ethnicity
 2023-04-16,MELAA,5,0,Ethnicity
-2023-04-16,European or Other,223,3,Ethnicity
+2023-04-16,European or Other,224,3,Ethnicity
 2023-04-16,Unknown,1,0,Ethnicity
 2023-04-23,Maori,36,1,Ethnicity
 2023-04-23,Pacific Peoples,14,1,Ethnicity
 2023-04-23,Asian,34,1,Ethnicity
 2023-04-23,MELAA,4,0,Ethnicity
-2023-04-23,European or Other,210,5,Ethnicity
+2023-04-23,European or Other,212,5,Ethnicity
 2023-04-30,Maori,36,1,Ethnicity
 2023-04-30,Pacific Peoples,21,2,Ethnicity
-2023-04-30,Asian,20,0,Ethnicity
+2023-04-30,Asian,22,0,Ethnicity
 2023-04-30,MELAA,2,0,Ethnicity
 2023-04-30,European or Other,169,4,Ethnicity
 2023-04-30,Unknown,2,0,Ethnicity
 2023-05-07,Maori,25,1,Ethnicity
 2023-05-07,Pacific Peoples,16,0,Ethnicity
-2023-05-07,Asian,23,0,Ethnicity
+2023-05-07,Asian,22,0,Ethnicity
 2023-05-07,MELAA,3,0,Ethnicity
-2023-05-07,European or Other,169,2,Ethnicity
+2023-05-07,European or Other,163,2,Ethnicity
 2023-05-14,Maori,40,0,Ethnicity
 2023-05-14,Pacific Peoples,16,0,Ethnicity
 2023-05-14,Asian,24,1,Ethnicity
@@ -1355,49 +1355,49 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-05-21,Maori,29,4,Ethnicity
 2023-05-21,Pacific Peoples,20,0,Ethnicity
 2023-05-21,Asian,34,0,Ethnicity
-2023-05-21,European or Other,193,11,Ethnicity
+2023-05-21,European or Other,194,11,Ethnicity
 2023-05-28,Maori,46,0,Ethnicity
 2023-05-28,Pacific Peoples,17,0,Ethnicity
 2023-05-28,Asian,34,1,Ethnicity
 2023-05-28,MELAA,7,0,Ethnicity
-2023-05-28,European or Other,163,3,Ethnicity
+2023-05-28,European or Other,161,3,Ethnicity
 2023-06-04,Maori,39,2,Ethnicity
 2023-06-04,Pacific Peoples,24,2,Ethnicity
 2023-06-04,Asian,25,2,Ethnicity
-2023-06-04,MELAA,4,1,Ethnicity
-2023-06-04,European or Other,198,8,Ethnicity
+2023-06-04,MELAA,3,0,Ethnicity
+2023-06-04,European or Other,197,8,Ethnicity
 2023-06-04,Unknown,1,0,Ethnicity
 2023-06-11,Maori,32,4,Ethnicity
 2023-06-11,Pacific Peoples,20,1,Ethnicity
 2023-06-11,Asian,33,1,Ethnicity
 2023-06-11,MELAA,2,0,Ethnicity
-2023-06-11,European or Other,160,4,Ethnicity
+2023-06-11,European or Other,153,5,Ethnicity
 2023-06-11,Unknown,1,0,Ethnicity
 2023-06-18,Maori,34,1,Ethnicity
 2023-06-18,Pacific Peoples,20,1,Ethnicity
 2023-06-18,Asian,31,0,Ethnicity
 2023-06-18,MELAA,10,0,Ethnicity
-2023-06-18,European or Other,156,2,Ethnicity
+2023-06-18,European or Other,157,2,Ethnicity
 2023-06-25,Maori,29,1,Ethnicity
-2023-06-25,Pacific Peoples,23,0,Ethnicity
+2023-06-25,Pacific Peoples,22,0,Ethnicity
 2023-06-25,Asian,29,0,Ethnicity
 2023-06-25,MELAA,8,0,Ethnicity
-2023-06-25,European or Other,135,2,Ethnicity
+2023-06-25,European or Other,134,2,Ethnicity
 2023-06-25,Unknown,1,0,Ethnicity
-2023-07-02,Maori,35,4,Ethnicity
+2023-07-02,Maori,32,4,Ethnicity
 2023-07-02,Pacific Peoples,17,1,Ethnicity
 2023-07-02,Asian,24,0,Ethnicity
 2023-07-02,MELAA,3,0,Ethnicity
-2023-07-02,European or Other,161,7,Ethnicity
+2023-07-02,European or Other,151,7,Ethnicity
 2023-07-09,Maori,34,0,Ethnicity
 2023-07-09,Pacific Peoples,15,0,Ethnicity
-2023-07-09,Asian,14,1,Ethnicity
-2023-07-09,European or Other,133,9,Ethnicity
+2023-07-09,Asian,11,1,Ethnicity
+2023-07-09,European or Other,121,7,Ethnicity
 2023-07-16,Maori,30,1,Ethnicity
-2023-07-16,Pacific Peoples,16,0,Ethnicity
-2023-07-16,Asian,16,0,Ethnicity
-2023-07-16,MELAA,2,0,Ethnicity
-2023-07-16,European or Other,142,5,Ethnicity
+2023-07-16,Pacific Peoples,15,0,Ethnicity
+2023-07-16,Asian,15,0,Ethnicity
+2023-07-16,MELAA,1,0,Ethnicity
+2023-07-16,European or Other,133,5,Ethnicity
 2023-07-16,Unknown,1,0,Ethnicity
 2023-07-23,Maori,21,0,Ethnicity
 2023-07-23,Pacific Peoples,14,0,Ethnicity
@@ -1591,7 +1591,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-12-11,Unknown,1,0,Sex
 2022-12-18,Female,299,3,Sex
 2022-12-18,Male,291,10,Sex
-2022-12-25,Female,268,6,Sex
+2022-12-25,Female,269,6,Sex
 2022-12-25,Male,286,6,Sex
 2023-01-01,Female,257,5,Sex
 2023-01-01,Male,261,14,Sex
@@ -1623,35 +1623,35 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-04-02,Male,136,5,Sex
 2023-04-09,Female,115,2,Sex
 2023-04-09,Male,155,7,Sex
-2023-04-16,Female,156,1,Sex
+2023-04-16,Female,157,1,Sex
 2023-04-16,Male,151,5,Sex
-2023-04-23,Female,151,4,Sex
-2023-04-23,Male,147,4,Sex
+2023-04-23,Female,152,4,Sex
+2023-04-23,Male,148,4,Sex
 2023-04-30,Female,142,2,Sex
-2023-04-30,Male,108,5,Sex
-2023-05-07,Female,113,1,Sex
-2023-05-07,Male,123,2,Sex
+2023-04-30,Male,110,5,Sex
+2023-05-07,Female,110,1,Sex
+2023-05-07,Male,119,2,Sex
 2023-05-14,Female,116,0,Sex
 2023-05-14,Male,130,2,Sex
 2023-05-14,Unknown,1,0,Sex
 2023-05-21,Female,128,7,Sex
-2023-05-21,Male,148,8,Sex
-2023-05-28,Female,133,1,Sex
+2023-05-21,Male,149,8,Sex
+2023-05-28,Female,131,1,Sex
 2023-05-28,Male,134,3,Sex
-2023-06-04,Female,138,8,Sex
-2023-06-04,Male,153,7,Sex
-2023-06-11,Female,127,6,Sex
-2023-06-11,Male,121,4,Sex
-2023-06-18,Female,130,1,Sex
-2023-06-18,Male,121,3,Sex
-2023-06-25,Female,98,1,Sex
+2023-06-04,Female,137,7,Sex
+2023-06-04,Male,152,7,Sex
+2023-06-11,Female,124,7,Sex
+2023-06-11,Male,117,4,Sex
+2023-06-18,Female,132,1,Sex
+2023-06-18,Male,120,3,Sex
+2023-06-25,Female,96,1,Sex
 2023-06-25,Male,127,2,Sex
-2023-07-02,Female,122,4,Sex
-2023-07-02,Male,118,8,Sex
-2023-07-09,Female,94,4,Sex
-2023-07-09,Male,102,6,Sex
-2023-07-16,Female,101,4,Sex
-2023-07-16,Male,106,2,Sex
+2023-07-02,Female,112,4,Sex
+2023-07-02,Male,115,8,Sex
+2023-07-09,Female,84,3,Sex
+2023-07-09,Male,97,5,Sex
+2023-07-16,Female,95,4,Sex
+2023-07-16,Male,100,2,Sex
 2023-07-23,Female,78,2,Sex
 2023-07-23,Male,81,4,Sex
 2021-09-26,No doses received prior to being reported as a case,1,NA,Vaccination status
@@ -1961,7 +1961,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-12-18,Under 12 years old,60,NA,Vaccination status
 2022-12-25,No doses received prior to being reported as a case,44,NA,Vaccination status
 2022-12-25,Partially vaccinated,5,NA,Vaccination status
-2022-12-25,Fully vaccinated at least 7 days before reported as a case,76,NA,Vaccination status
+2022-12-25,Fully vaccinated at least 7 days before reported as a case,77,NA,Vaccination status
 2022-12-25,Received booster at least 7 days before being reported as a case,369,NA,Vaccination status
 2022-12-25,Under 12 years old,60,NA,Vaccination status
 2023-01-01,No doses received prior to being reported as a case,53,NA,Vaccination status
@@ -2040,9 +2040,9 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-04-09,Under 12 years old,19,NA,Vaccination status
 2023-04-16,No doses received prior to being reported as a case,21,NA,Vaccination status
 2023-04-16,Fully vaccinated at least 7 days before reported as a case,36,NA,Vaccination status
-2023-04-16,Received booster at least 7 days before being reported as a case,223,NA,Vaccination status
+2023-04-16,Received booster at least 7 days before being reported as a case,224,NA,Vaccination status
 2023-04-16,Under 12 years old,27,NA,Vaccination status
-2023-04-23,No doses received prior to being reported as a case,31,NA,Vaccination status
+2023-04-23,No doses received prior to being reported as a case,33,NA,Vaccination status
 2023-04-23,Partially vaccinated,1,NA,Vaccination status
 2023-04-23,Fully vaccinated at least 7 days before reported as a case,33,NA,Vaccination status
 2023-04-23,Received booster at least 7 days before being reported as a case,209,NA,Vaccination status
@@ -2050,13 +2050,13 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-04-30,No doses received prior to being reported as a case,28,NA,Vaccination status
 2023-04-30,Partially vaccinated,2,NA,Vaccination status
 2023-04-30,Fully vaccinated at least 7 days before reported as a case,30,NA,Vaccination status
-2023-04-30,Received booster at least 7 days before being reported as a case,167,NA,Vaccination status
+2023-04-30,Received booster at least 7 days before being reported as a case,169,NA,Vaccination status
 2023-04-30,Under 12 years old,23,NA,Vaccination status
-2023-05-07,No doses received prior to being reported as a case,16,NA,Vaccination status
+2023-05-07,No doses received prior to being reported as a case,14,NA,Vaccination status
 2023-05-07,Partially vaccinated,2,NA,Vaccination status
-2023-05-07,Fully vaccinated at least 7 days before reported as a case,26,NA,Vaccination status
-2023-05-07,Received booster at least 7 days before being reported as a case,166,NA,Vaccination status
-2023-05-07,Under 12 years old,26,NA,Vaccination status
+2023-05-07,Fully vaccinated at least 7 days before reported as a case,25,NA,Vaccination status
+2023-05-07,Received booster at least 7 days before being reported as a case,164,NA,Vaccination status
+2023-05-07,Under 12 years old,24,NA,Vaccination status
 2023-05-14,No doses received prior to being reported as a case,13,NA,Vaccination status
 2023-05-14,Partially vaccinated,1,NA,Vaccination status
 2023-05-14,Fully vaccinated at least 7 days before reported as a case,25,NA,Vaccination status
@@ -2064,47 +2064,47 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-05-14,Under 12 years old,31,NA,Vaccination status
 2023-05-21,No doses received prior to being reported as a case,18,NA,Vaccination status
 2023-05-21,Fully vaccinated at least 7 days before reported as a case,35,NA,Vaccination status
-2023-05-21,Received booster at least 7 days before being reported as a case,188,NA,Vaccination status
+2023-05-21,Received booster at least 7 days before being reported as a case,189,NA,Vaccination status
 2023-05-21,Under 12 years old,35,NA,Vaccination status
 2023-05-28,No doses received prior to being reported as a case,28,NA,Vaccination status
-2023-05-28,Partially vaccinated,6,NA,Vaccination status
+2023-05-28,Partially vaccinated,5,NA,Vaccination status
 2023-05-28,Fully vaccinated at least 7 days before reported as a case,33,NA,Vaccination status
-2023-05-28,Received booster at least 7 days before being reported as a case,171,NA,Vaccination status
+2023-05-28,Received booster at least 7 days before being reported as a case,170,NA,Vaccination status
 2023-05-28,Under 12 years old,29,NA,Vaccination status
 2023-06-04,No doses received prior to being reported as a case,21,NA,Vaccination status
 2023-06-04,Partially vaccinated,1,NA,Vaccination status
 2023-06-04,Fully vaccinated at least 7 days before reported as a case,45,NA,Vaccination status
-2023-06-04,Received booster at least 7 days before being reported as a case,199,NA,Vaccination status
+2023-06-04,Received booster at least 7 days before being reported as a case,197,NA,Vaccination status
 2023-06-04,Under 12 years old,25,NA,Vaccination status
 2023-06-11,No doses received prior to being reported as a case,11,NA,Vaccination status
 2023-06-11,Partially vaccinated,2,NA,Vaccination status
 2023-06-11,Fully vaccinated at least 7 days before reported as a case,27,NA,Vaccination status
-2023-06-11,Received booster at least 7 days before being reported as a case,178,NA,Vaccination status
+2023-06-11,Received booster at least 7 days before being reported as a case,171,NA,Vaccination status
 2023-06-11,Under 12 years old,30,NA,Vaccination status
 2023-06-18,No doses received prior to being reported as a case,15,NA,Vaccination status
-2023-06-18,Partially vaccinated,2,NA,Vaccination status
+2023-06-18,Partially vaccinated,3,NA,Vaccination status
 2023-06-18,Fully vaccinated at least 7 days before reported as a case,33,NA,Vaccination status
 2023-06-18,Received booster at least 7 days before being reported as a case,173,NA,Vaccination status
 2023-06-18,Under 12 years old,28,NA,Vaccination status
-2023-06-25,No doses received prior to being reported as a case,21,NA,Vaccination status
-2023-06-25,Fully vaccinated at least 7 days before reported as a case,33,NA,Vaccination status
+2023-06-25,No doses received prior to being reported as a case,20,NA,Vaccination status
+2023-06-25,Fully vaccinated at least 7 days before reported as a case,32,NA,Vaccination status
 2023-06-25,Received booster at least 7 days before being reported as a case,139,NA,Vaccination status
 2023-06-25,Under 12 years old,32,NA,Vaccination status
-2023-07-02,No doses received prior to being reported as a case,19,NA,Vaccination status
+2023-07-02,No doses received prior to being reported as a case,18,NA,Vaccination status
 2023-07-02,Partially vaccinated,3,NA,Vaccination status
-2023-07-02,Fully vaccinated at least 7 days before reported as a case,29,NA,Vaccination status
-2023-07-02,Received booster at least 7 days before being reported as a case,151,NA,Vaccination status
+2023-07-02,Fully vaccinated at least 7 days before reported as a case,26,NA,Vaccination status
+2023-07-02,Received booster at least 7 days before being reported as a case,142,NA,Vaccination status
 2023-07-02,Under 12 years old,38,NA,Vaccination status
 2023-07-09,No doses received prior to being reported as a case,8,NA,Vaccination status
 2023-07-09,Partially vaccinated,1,NA,Vaccination status
-2023-07-09,Fully vaccinated at least 7 days before reported as a case,21,NA,Vaccination status
-2023-07-09,Received booster at least 7 days before being reported as a case,150,NA,Vaccination status
+2023-07-09,Fully vaccinated at least 7 days before reported as a case,19,NA,Vaccination status
+2023-07-09,Received booster at least 7 days before being reported as a case,137,NA,Vaccination status
 2023-07-09,Under 12 years old,16,NA,Vaccination status
-2023-07-16,No doses received prior to being reported as a case,18,NA,Vaccination status
+2023-07-16,No doses received prior to being reported as a case,17,NA,Vaccination status
 2023-07-16,Partially vaccinated,2,NA,Vaccination status
-2023-07-16,Fully vaccinated at least 7 days before reported as a case,28,NA,Vaccination status
-2023-07-16,Received booster at least 7 days before being reported as a case,143,NA,Vaccination status
-2023-07-16,Under 12 years old,16,NA,Vaccination status
+2023-07-16,Fully vaccinated at least 7 days before reported as a case,27,NA,Vaccination status
+2023-07-16,Received booster at least 7 days before being reported as a case,134,NA,Vaccination status
+2023-07-16,Under 12 years old,15,NA,Vaccination status
 2023-07-23,No doses received prior to being reported as a case,14,NA,Vaccination status
 2023-07-23,Fully vaccinated at least 7 days before reported as a case,24,NA,Vaccination status
 2023-07-23,Received booster at least 7 days before being reported as a case,109,NA,Vaccination status
