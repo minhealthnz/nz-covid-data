@@ -10,6 +10,10 @@ The `vaccine-data` contains copies of the weekly [Ministry of Health vaccine dat
 
 ## Release Notes:
 
+- [24 Oct 2023]
+
+From 24 October 2023 the COVID-19 data provided here will be updated once a week on the first business day of the week.
+
 - [14 Dec 2022]
 
 Due to size limits, covid-cases.csv is no longer being updated. All information contained in that file is available as counts in covid-case-counts.csv.
