@@ -10,6 +10,10 @@ The `vaccine-data` contains copies of the weekly [Ministry of Health vaccine dat
 
 ## Release Notes:
 
+- [17 Nov 2023]
+
+Hospital admissions data is now available.
+
 - [06 Nov 2023]
 
 Please note, hospital admissions data is currently unavailable past 30 June 2023 while we carry out maintenance work.
