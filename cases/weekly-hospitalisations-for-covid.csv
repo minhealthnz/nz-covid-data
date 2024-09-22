@@ -1216,7 +1216,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-06-09,40 to 49,15,0,Age band
 2024-06-09,50 to 59,24,3,Age band
 2024-06-09,60 to 69,53,4,Age band
-2024-06-09,70+,184,8,Age band
+2024-06-09,70+,185,8,Age band
 2024-06-16,0 to 9,29,2,Age band
 2024-06-16,10 to 19,3,0,Age band
 2024-06-16,20 to 29,5,0,Age band
@@ -1231,16 +1231,16 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-06-23,30 to 39,14,1,Age band
 2024-06-23,40 to 49,16,1,Age band
 2024-06-23,50 to 59,24,0,Age band
-2024-06-23,60 to 69,34,3,Age band
-2024-06-23,70+,150,6,Age band
+2024-06-23,60 to 69,33,3,Age band
+2024-06-23,70+,150,7,Age band
 2024-06-30,0 to 9,31,0,Age band
 2024-06-30,10 to 19,5,0,Age band
 2024-06-30,20 to 29,8,0,Age band
 2024-06-30,30 to 39,4,0,Age band
-2024-06-30,40 to 49,7,1,Age band
+2024-06-30,40 to 49,7,0,Age band
 2024-06-30,50 to 59,14,1,Age band
 2024-06-30,60 to 69,35,4,Age band
-2024-06-30,70+,123,5,Age band
+2024-06-30,70+,122,5,Age band
 2024-07-07,0 to 9,30,1,Age band
 2024-07-07,10 to 19,6,0,Age band
 2024-07-07,20 to 29,7,0,Age band
@@ -1248,7 +1248,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-07-07,40 to 49,7,0,Age band
 2024-07-07,50 to 59,17,1,Age band
 2024-07-07,60 to 69,35,0,Age band
-2024-07-07,70+,86,0,Age band
+2024-07-07,70+,85,0,Age band
 2024-07-14,0 to 9,19,0,Age band
 2024-07-14,10 to 19,1,0,Age band
 2024-07-14,20 to 29,5,1,Age band
@@ -1256,70 +1256,77 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-07-14,40 to 49,14,1,Age band
 2024-07-14,50 to 59,10,0,Age band
 2024-07-14,60 to 69,25,1,Age band
-2024-07-14,70+,128,2,Age band
+2024-07-14,70+,127,2,Age band
 2024-07-21,0 to 9,20,0,Age band
 2024-07-21,10 to 19,2,0,Age band
 2024-07-21,20 to 29,5,1,Age band
 2024-07-21,30 to 39,12,0,Age band
 2024-07-21,40 to 49,12,1,Age band
 2024-07-21,50 to 59,13,2,Age band
-2024-07-21,60 to 69,36,2,Age band
-2024-07-21,70+,119,1,Age band
+2024-07-21,60 to 69,35,2,Age band
+2024-07-21,70+,118,1,Age band
 2024-07-28,0 to 9,12,0,Age band
-2024-07-28,10 to 19,2,0,Age band
+2024-07-28,10 to 19,3,0,Age band
 2024-07-28,20 to 29,7,1,Age band
-2024-07-28,30 to 39,5,0,Age band
+2024-07-28,30 to 39,4,0,Age band
 2024-07-28,40 to 49,6,0,Age band
-2024-07-28,50 to 59,18,1,Age band
+2024-07-28,50 to 59,18,0,Age band
 2024-07-28,60 to 69,25,2,Age band
-2024-07-28,70+,102,3,Age band
+2024-07-28,70+,101,3,Age band
 2024-08-04,0 to 9,20,1,Age band
 2024-08-04,10 to 19,2,0,Age band
 2024-08-04,20 to 29,3,0,Age band
 2024-08-04,30 to 39,6,0,Age band
 2024-08-04,40 to 49,6,0,Age band
 2024-08-04,50 to 59,10,1,Age band
-2024-08-04,60 to 69,24,1,Age band
-2024-08-04,70+,100,8,Age band
-2024-08-11,0 to 9,19,0,Age band
+2024-08-04,60 to 69,23,1,Age band
+2024-08-04,70+,100,7,Age band
+2024-08-11,0 to 9,18,0,Age band
 2024-08-11,20 to 29,3,1,Age band
 2024-08-11,30 to 39,3,0,Age band
-2024-08-11,40 to 49,3,0,Age band
-2024-08-11,50 to 59,9,1,Age band
-2024-08-11,60 to 69,26,1,Age band
-2024-08-11,70+,103,5,Age band
-2024-08-18,0 to 9,17,0,Age band
+2024-08-11,40 to 49,4,0,Age band
+2024-08-11,50 to 59,8,0,Age band
+2024-08-11,60 to 69,24,0,Age band
+2024-08-11,70+,101,5,Age band
+2024-08-18,0 to 9,16,0,Age band
 2024-08-18,10 to 19,3,0,Age band
 2024-08-18,20 to 29,6,0,Age band
-2024-08-18,30 to 39,5,0,Age band
+2024-08-18,30 to 39,4,0,Age band
 2024-08-18,40 to 49,7,0,Age band
 2024-08-18,50 to 59,11,0,Age band
-2024-08-18,60 to 69,28,2,Age band
-2024-08-18,70+,104,1,Age band
-2024-08-25,0 to 9,9,0,Age band
-2024-08-25,10 to 19,3,0,Age band
+2024-08-18,60 to 69,27,2,Age band
+2024-08-18,70+,101,1,Age band
+2024-08-25,0 to 9,8,0,Age band
+2024-08-25,10 to 19,4,0,Age band
 2024-08-25,20 to 29,2,0,Age band
 2024-08-25,30 to 39,6,0,Age band
 2024-08-25,40 to 49,6,0,Age band
 2024-08-25,50 to 59,8,0,Age band
 2024-08-25,60 to 69,21,0,Age band
-2024-08-25,70+,103,3,Age band
-2024-09-01,0 to 9,7,0,Age band
+2024-08-25,70+,99,4,Age band
+2024-09-01,0 to 9,6,0,Age band
 2024-09-01,10 to 19,3,0,Age band
 2024-09-01,20 to 29,4,0,Age band
 2024-09-01,30 to 39,3,0,Age band
-2024-09-01,40 to 49,6,0,Age band
+2024-09-01,40 to 49,7,0,Age band
 2024-09-01,50 to 59,10,0,Age band
 2024-09-01,60 to 69,29,0,Age band
 2024-09-01,70+,71,8,Age band
-2024-09-08,0 to 9,10,1,Age band
+2024-09-08,0 to 9,11,1,Age band
 2024-09-08,10 to 19,3,0,Age band
 2024-09-08,20 to 29,3,0,Age band
 2024-09-08,30 to 39,3,0,Age band
 2024-09-08,40 to 49,5,0,Age band
 2024-09-08,50 to 59,3,0,Age band
 2024-09-08,60 to 69,13,0,Age band
-2024-09-08,70+,75,1,Age band
+2024-09-08,70+,77,1,Age band
+2024-09-15,0 to 9,9,0,Age band
+2024-09-15,10 to 19,4,0,Age band
+2024-09-15,30 to 39,2,0,Age band
+2024-09-15,40 to 49,4,0,Age band
+2024-09-15,50 to 59,8,0,Age band
+2024-09-15,60 to 69,11,1,Age band
+2024-09-15,70+,48,0,Age band
 2020-01-26,Unknown,1,0,Ethnicity
 2020-03-01,Asian,1,0,Ethnicity
 2020-03-08,European or Other,1,0,Ethnicity
@@ -2139,64 +2146,64 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-06-09,Pacific Peoples,21,0,Ethnicity
 2024-06-09,Asian,14,0,Ethnicity
 2024-06-09,MELAA,6,0,Ethnicity
-2024-06-09,European or Other,241,14,Ethnicity
+2024-06-09,European or Other,242,14,Ethnicity
 2024-06-16,Maori,38,0,Ethnicity
 2024-06-16,Pacific Peoples,13,1,Ethnicity
 2024-06-16,Asian,22,0,Ethnicity
 2024-06-16,MELAA,7,0,Ethnicity
 2024-06-16,European or Other,198,6,Ethnicity
-2024-06-23,Maori,44,3,Ethnicity
+2024-06-23,Maori,42,3,Ethnicity
 2024-06-23,Pacific Peoples,30,1,Ethnicity
 2024-06-23,Asian,21,1,Ethnicity
 2024-06-23,MELAA,3,0,Ethnicity
-2024-06-23,European or Other,179,7,Ethnicity
+2024-06-23,European or Other,180,8,Ethnicity
 2024-06-30,Maori,41,2,Ethnicity
 2024-06-30,Pacific Peoples,14,0,Ethnicity
-2024-06-30,Asian,19,2,Ethnicity
+2024-06-30,Asian,19,1,Ethnicity
 2024-06-30,MELAA,1,0,Ethnicity
-2024-06-30,European or Other,152,7,Ethnicity
+2024-06-30,European or Other,151,7,Ethnicity
 2024-07-07,Maori,38,0,Ethnicity
 2024-07-07,Pacific Peoples,23,0,Ethnicity
 2024-07-07,Asian,21,0,Ethnicity
-2024-07-07,European or Other,112,1,Ethnicity
+2024-07-07,European or Other,111,1,Ethnicity
 2024-07-07,Unknown,1,1,Ethnicity
 2024-07-14,Maori,34,3,Ethnicity
 2024-07-14,Pacific Peoples,16,0,Ethnicity
 2024-07-14,Asian,13,0,Ethnicity
 2024-07-14,MELAA,3,0,Ethnicity
-2024-07-14,European or Other,146,3,Ethnicity
+2024-07-14,European or Other,145,3,Ethnicity
 2024-07-14,Unknown,1,0,Ethnicity
-2024-07-21,Maori,36,1,Ethnicity
+2024-07-21,Maori,35,1,Ethnicity
 2024-07-21,Pacific Peoples,16,0,Ethnicity
-2024-07-21,Asian,20,0,Ethnicity
+2024-07-21,Asian,19,0,Ethnicity
 2024-07-21,MELAA,2,0,Ethnicity
 2024-07-21,European or Other,144,6,Ethnicity
 2024-07-21,Unknown,1,0,Ethnicity
 2024-07-28,Maori,27,2,Ethnicity
 2024-07-28,Pacific Peoples,12,2,Ethnicity
-2024-07-28,Asian,12,0,Ethnicity
+2024-07-28,Asian,11,0,Ethnicity
 2024-07-28,MELAA,2,0,Ethnicity
-2024-07-28,European or Other,124,3,Ethnicity
+2024-07-28,European or Other,124,2,Ethnicity
 2024-08-04,Maori,26,4,Ethnicity
 2024-08-04,Pacific Peoples,8,0,Ethnicity
-2024-08-04,Asian,13,1,Ethnicity
+2024-08-04,Asian,12,0,Ethnicity
 2024-08-04,MELAA,1,0,Ethnicity
 2024-08-04,European or Other,123,6,Ethnicity
-2024-08-11,Maori,19,4,Ethnicity
-2024-08-11,Pacific Peoples,8,0,Ethnicity
+2024-08-11,Maori,18,3,Ethnicity
+2024-08-11,Pacific Peoples,7,0,Ethnicity
 2024-08-11,Asian,19,0,Ethnicity
 2024-08-11,MELAA,1,0,Ethnicity
-2024-08-11,European or Other,119,4,Ethnicity
-2024-08-18,Maori,34,0,Ethnicity
+2024-08-11,European or Other,116,3,Ethnicity
+2024-08-18,Maori,32,0,Ethnicity
 2024-08-18,Pacific Peoples,16,0,Ethnicity
-2024-08-18,Asian,16,0,Ethnicity
+2024-08-18,Asian,15,0,Ethnicity
 2024-08-18,MELAA,1,0,Ethnicity
-2024-08-18,European or Other,114,3,Ethnicity
-2024-08-25,Maori,19,0,Ethnicity
+2024-08-18,European or Other,111,3,Ethnicity
+2024-08-25,Maori,17,0,Ethnicity
 2024-08-25,Pacific Peoples,16,1,Ethnicity
-2024-08-25,Asian,17,0,Ethnicity
+2024-08-25,Asian,18,0,Ethnicity
 2024-08-25,MELAA,1,0,Ethnicity
-2024-08-25,European or Other,105,2,Ethnicity
+2024-08-25,European or Other,102,3,Ethnicity
 2024-09-01,Maori,15,0,Ethnicity
 2024-09-01,Pacific Peoples,9,0,Ethnicity
 2024-09-01,Asian,20,0,Ethnicity
@@ -2204,9 +2211,13 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-09-01,European or Other,87,8,Ethnicity
 2024-09-08,Maori,14,0,Ethnicity
 2024-09-08,Pacific Peoples,6,0,Ethnicity
-2024-09-08,Asian,14,0,Ethnicity
+2024-09-08,Asian,15,0,Ethnicity
 2024-09-08,MELAA,1,0,Ethnicity
-2024-09-08,European or Other,80,2,Ethnicity
+2024-09-08,European or Other,82,2,Ethnicity
+2024-09-15,Maori,13,0,Ethnicity
+2024-09-15,Pacific Peoples,13,0,Ethnicity
+2024-09-15,Asian,10,0,Ethnicity
+2024-09-15,European or Other,50,1,Ethnicity
 2020-01-26,Male,1,0,Sex
 2020-03-01,Female,1,0,Sex
 2020-03-08,Female,1,0,Sex
@@ -2561,35 +2572,37 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-05-26,Male,175,9,Sex
 2024-06-02,Female,169,3,Sex
 2024-06-02,Male,202,5,Sex
-2024-06-09,Female,158,9,Sex
+2024-06-09,Female,159,9,Sex
 2024-06-09,Male,182,8,Sex
 2024-06-16,Female,119,0,Sex
 2024-06-16,Male,159,7,Sex
-2024-06-23,Female,142,7,Sex
-2024-06-23,Male,135,5,Sex
-2024-06-30,Female,92,4,Sex
-2024-06-30,Male,135,7,Sex
-2024-07-07,Female,101,1,Sex
+2024-06-23,Female,140,7,Sex
+2024-06-23,Male,136,6,Sex
+2024-06-30,Female,91,4,Sex
+2024-06-30,Male,135,6,Sex
+2024-07-07,Female,100,1,Sex
 2024-07-07,Male,94,1,Sex
 2024-07-14,Female,99,2,Sex
-2024-07-14,Male,114,4,Sex
-2024-07-21,Female,114,3,Sex
-2024-07-21,Male,105,4,Sex
-2024-07-28,Female,86,3,Sex
-2024-07-28,Male,90,4,Sex
+2024-07-14,Male,113,4,Sex
+2024-07-21,Female,113,3,Sex
+2024-07-21,Male,104,4,Sex
+2024-07-28,Female,86,2,Sex
+2024-07-28,Male,89,4,Sex
 2024-07-28,Unknown,1,0,Sex
-2024-08-04,Female,75,6,Sex
-2024-08-04,Male,96,5,Sex
-2024-08-11,Female,79,3,Sex
-2024-08-11,Male,87,5,Sex
-2024-08-18,Female,96,1,Sex
-2024-08-18,Male,85,2,Sex
-2024-08-25,Female,81,1,Sex
-2024-08-25,Male,77,2,Sex
+2024-08-04,Female,75,5,Sex
+2024-08-04,Male,95,5,Sex
+2024-08-11,Female,79,2,Sex
+2024-08-11,Male,82,4,Sex
+2024-08-18,Female,92,1,Sex
+2024-08-18,Male,83,2,Sex
+2024-08-25,Female,80,2,Sex
+2024-08-25,Male,74,2,Sex
 2024-09-01,Female,68,5,Sex
 2024-09-01,Male,65,3,Sex
-2024-09-08,Female,58,1,Sex
-2024-09-08,Male,57,1,Sex
+2024-09-08,Female,59,1,Sex
+2024-09-08,Male,59,1,Sex
+2024-09-15,Female,40,1,Sex
+2024-09-15,Male,46,0,Sex
 2021-09-26,No doses received prior to being reported as a case,1,NA,Vaccination status
 2021-09-26,Under 12 years old,1,NA,Vaccination status
 2021-10-03,No doses received prior to being reported as a case,25,NA,Vaccination status
@@ -2870,31 +2883,33 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-05-26,Under 12 years old,47,NA,Vaccination status
 2024-06-02,No doses received prior to being reported as a case,333,NA,Vaccination status
 2024-06-02,Under 12 years old,38,NA,Vaccination status
-2024-06-09,No doses received prior to being reported as a case,302,NA,Vaccination status
+2024-06-09,No doses received prior to being reported as a case,303,NA,Vaccination status
 2024-06-09,Under 12 years old,38,NA,Vaccination status
 2024-06-16,No doses received prior to being reported as a case,248,NA,Vaccination status
 2024-06-16,Under 12 years old,30,NA,Vaccination status
-2024-06-23,No doses received prior to being reported as a case,246,NA,Vaccination status
+2024-06-23,No doses received prior to being reported as a case,245,NA,Vaccination status
 2024-06-23,Under 12 years old,31,NA,Vaccination status
-2024-06-30,No doses received prior to being reported as a case,195,NA,Vaccination status
+2024-06-30,No doses received prior to being reported as a case,194,NA,Vaccination status
 2024-06-30,Under 12 years old,32,NA,Vaccination status
-2024-07-07,No doses received prior to being reported as a case,163,NA,Vaccination status
+2024-07-07,No doses received prior to being reported as a case,162,NA,Vaccination status
 2024-07-07,Under 12 years old,32,NA,Vaccination status
-2024-07-14,No doses received prior to being reported as a case,194,NA,Vaccination status
+2024-07-14,No doses received prior to being reported as a case,193,NA,Vaccination status
 2024-07-14,Under 12 years old,19,NA,Vaccination status
-2024-07-21,No doses received prior to being reported as a case,199,NA,Vaccination status
+2024-07-21,No doses received prior to being reported as a case,197,NA,Vaccination status
 2024-07-21,Under 12 years old,20,NA,Vaccination status
-2024-07-28,No doses received prior to being reported as a case,165,NA,Vaccination status
+2024-07-28,No doses received prior to being reported as a case,164,NA,Vaccination status
 2024-07-28,Under 12 years old,12,NA,Vaccination status
-2024-08-04,No doses received prior to being reported as a case,151,NA,Vaccination status
+2024-08-04,No doses received prior to being reported as a case,150,NA,Vaccination status
 2024-08-04,Under 12 years old,20,NA,Vaccination status
-2024-08-11,No doses received prior to being reported as a case,147,NA,Vaccination status
-2024-08-11,Under 12 years old,19,NA,Vaccination status
-2024-08-18,No doses received prior to being reported as a case,164,NA,Vaccination status
-2024-08-18,Under 12 years old,17,NA,Vaccination status
-2024-08-25,No doses received prior to being reported as a case,148,NA,Vaccination status
-2024-08-25,Under 12 years old,10,NA,Vaccination status
-2024-09-01,No doses received prior to being reported as a case,125,NA,Vaccination status
-2024-09-01,Under 12 years old,8,NA,Vaccination status
-2024-09-08,No doses received prior to being reported as a case,105,NA,Vaccination status
-2024-09-08,Under 12 years old,10,NA,Vaccination status
+2024-08-11,No doses received prior to being reported as a case,143,NA,Vaccination status
+2024-08-11,Under 12 years old,18,NA,Vaccination status
+2024-08-18,No doses received prior to being reported as a case,159,NA,Vaccination status
+2024-08-18,Under 12 years old,16,NA,Vaccination status
+2024-08-25,No doses received prior to being reported as a case,145,NA,Vaccination status
+2024-08-25,Under 12 years old,9,NA,Vaccination status
+2024-09-01,No doses received prior to being reported as a case,126,NA,Vaccination status
+2024-09-01,Under 12 years old,7,NA,Vaccination status
+2024-09-08,No doses received prior to being reported as a case,107,NA,Vaccination status
+2024-09-08,Under 12 years old,11,NA,Vaccination status
+2024-09-15,No doses received prior to being reported as a case,75,NA,Vaccination status
+2024-09-15,Under 12 years old,11,NA,Vaccination status
