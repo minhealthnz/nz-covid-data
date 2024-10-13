@@ -134,7 +134,7 @@ Week ending,Deaths within 28 days of being reported as case,Deaths attributable 
 2022-09-04,74,56
 2022-09-11,57,43
 2022-09-18,43,20
-2022-09-25,39,26
+2022-09-25,39,25
 2022-10-02,34,18
 2022-10-09,26,17
 2022-10-16,28,17
@@ -149,7 +149,7 @@ Week ending,Deaths within 28 days of being reported as case,Deaths attributable 
 2022-12-18,73,50
 2022-12-25,73,55
 2023-01-01,60,37
-2023-01-08,70,50
+2023-01-08,70,51
 2023-01-15,48,25
 2023-01-22,55,33
 2023-01-29,34,19
@@ -230,8 +230,8 @@ Week ending,Deaths within 28 days of being reported as case,Deaths attributable 
 2024-07-07,52,34
 2024-07-14,37,14
 2024-07-21,42,21
-2024-07-28,38,14
-2024-08-04,36,21
+2024-07-28,39,15
+2024-08-04,35,20
 2024-08-11,31,10
 2024-08-18,26,12
 2024-08-25,28,16
@@ -240,4 +240,5 @@ Week ending,Deaths within 28 days of being reported as case,Deaths attributable 
 2024-09-15,16,6
 2024-09-22,9,2
 2024-09-29,11,4
-2024-10-06,6,0
+2024-10-06,9,2
+2024-10-13,3,0
