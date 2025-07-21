@@ -371,7 +371,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-05-29,40 to 49,33,0,Age band
 2022-05-29,50 to 59,43,1,Age band
 2022-05-29,60 to 69,57,1,Age band
-2022-05-29,70+,189,1,Age band
+2022-05-29,70+,190,1,Age band
 2022-06-05,0 to 9,40,2,Age band
 2022-06-05,10 to 19,18,0,Age band
 2022-06-05,20 to 29,26,0,Age band
@@ -984,7 +984,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-11-19,40 to 49,9,0,Age band
 2023-11-19,50 to 59,31,3,Age band
 2023-11-19,60 to 69,42,1,Age band
-2023-11-19,70+,174,4,Age band
+2023-11-19,70+,175,4,Age band
 2023-11-26,0 to 9,25,0,Age band
 2023-11-26,10 to 19,3,0,Age band
 2023-11-26,20 to 29,12,0,Age band
@@ -1158,7 +1158,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-04-21,20 to 29,1,0,Age band
 2024-04-21,30 to 39,10,0,Age band
 2024-04-21,40 to 49,2,1,Age band
-2024-04-21,50 to 59,13,1,Age band
+2024-04-21,50 to 59,13,2,Age band
 2024-04-21,60 to 69,14,1,Age band
 2024-04-21,70+,80,3,Age band
 2024-04-28,0 to 9,13,0,Age band
@@ -1439,10 +1439,10 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-12-29,40 to 49,1,0,Age band
 2024-12-29,50 to 59,8,0,Age band
 2024-12-29,60 to 69,22,1,Age band
-2024-12-29,70+,68,5,Age band
+2024-12-29,70+,67,5,Age band
 2025-01-05,0 to 9,10,0,Age band
 2025-01-05,20 to 29,2,0,Age band
-2025-01-05,30 to 39,3,0,Age band
+2025-01-05,30 to 39,4,0,Age band
 2025-01-05,40 to 49,5,1,Age band
 2025-01-05,50 to 59,8,0,Age band
 2025-01-05,60 to 69,9,1,Age band
@@ -1454,20 +1454,20 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-01-12,40 to 49,6,0,Age band
 2025-01-12,50 to 59,10,0,Age band
 2025-01-12,60 to 69,16,0,Age band
-2025-01-12,70+,48,1,Age band
+2025-01-12,70+,51,2,Age band
 2025-01-19,0 to 9,10,1,Age band
 2025-01-19,10 to 19,2,0,Age band
 2025-01-19,30 to 39,1,0,Age band
 2025-01-19,40 to 49,3,0,Age band
 2025-01-19,50 to 59,6,1,Age band
 2025-01-19,60 to 69,6,0,Age band
-2025-01-19,70+,41,1,Age band
+2025-01-19,70+,42,1,Age band
 2025-01-26,0 to 9,13,0,Age band
 2025-01-26,10 to 19,1,0,Age band
 2025-01-26,20 to 29,1,1,Age band
 2025-01-26,30 to 39,1,0,Age band
 2025-01-26,40 to 49,3,0,Age band
-2025-01-26,50 to 59,5,0,Age band
+2025-01-26,50 to 59,6,0,Age band
 2025-01-26,60 to 69,6,0,Age band
 2025-01-26,70+,33,1,Age band
 2025-02-02,0 to 9,11,0,Age band
@@ -1511,7 +1511,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-03-09,40 to 49,1,0,Age band
 2025-03-09,50 to 59,3,1,Age band
 2025-03-09,60 to 69,2,0,Age band
-2025-03-09,70+,25,0,Age band
+2025-03-09,70+,26,0,Age band
 2025-03-16,0 to 9,3,0,Age band
 2025-03-16,10 to 19,1,0,Age band
 2025-03-16,20 to 29,1,0,Age band
@@ -1519,7 +1519,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-03-16,40 to 49,2,0,Age band
 2025-03-16,50 to 59,1,0,Age band
 2025-03-16,60 to 69,10,2,Age band
-2025-03-16,70+,22,0,Age band
+2025-03-16,70+,23,0,Age band
 2025-03-23,0 to 9,6,0,Age band
 2025-03-23,20 to 29,2,0,Age band
 2025-03-23,40 to 49,2,0,Age band
@@ -1546,20 +1546,19 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-04-13,60 to 69,4,0,Age band
 2025-04-13,70+,19,0,Age band
 2025-04-20,0 to 9,4,1,Age band
-2025-04-20,10 to 19,1,0,Age band
-2025-04-20,20 to 29,2,0,Age band
-2025-04-20,30 to 39,2,0,Age band
-2025-04-20,40 to 49,2,0,Age band
-2025-04-20,50 to 59,1,0,Age band
-2025-04-20,60 to 69,7,1,Age band
-2025-04-20,70+,18,0,Age band
-2025-04-27,0 to 9,9,0,Age band
+2025-04-20,20 to 29,1,0,Age band
+2025-04-20,30 to 39,1,0,Age band
+2025-04-20,40 to 49,1,0,Age band
+2025-04-20,50 to 59,3,0,Age band
+2025-04-20,60 to 69,4,0,Age band
+2025-04-20,70+,15,0,Age band
+2025-04-27,0 to 9,8,0,Age band
 2025-04-27,20 to 29,1,0,Age band
 2025-04-27,30 to 39,5,0,Age band
-2025-04-27,40 to 49,2,0,Age band
+2025-04-27,40 to 49,1,0,Age band
 2025-04-27,50 to 59,1,1,Age band
 2025-04-27,60 to 69,5,0,Age band
-2025-04-27,70+,14,1,Age band
+2025-04-27,70+,12,1,Age band
 2025-05-04,0 to 9,6,0,Age band
 2025-05-04,10 to 19,1,0,Age band
 2025-05-04,20 to 29,1,1,Age band
@@ -1572,22 +1571,21 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-05-11,30 to 39,1,0,Age band
 2025-05-11,50 to 59,2,0,Age band
 2025-05-11,60 to 69,3,0,Age band
-2025-05-11,70+,33,2,Age band
-2025-05-18,0 to 9,7,0,Age band
+2025-05-11,70+,31,2,Age band
+2025-05-18,0 to 9,7,1,Age band
 2025-05-18,10 to 19,1,0,Age band
 2025-05-18,20 to 29,1,0,Age band
 2025-05-18,30 to 39,4,0,Age band
 2025-05-18,50 to 59,11,0,Age band
 2025-05-18,60 to 69,7,1,Age band
-2025-05-18,70+,29,0,Age band
+2025-05-18,70+,27,0,Age band
 2025-05-25,0 to 9,6,0,Age band
 2025-05-25,10 to 19,3,0,Age band
-2025-05-25,20 to 29,1,0,Age band
 2025-05-25,30 to 39,1,0,Age band
 2025-05-25,40 to 49,3,0,Age band
 2025-05-25,50 to 59,3,0,Age band
 2025-05-25,60 to 69,8,0,Age band
-2025-05-25,70+,32,2,Age band
+2025-05-25,70+,33,2,Age band
 2025-06-01,0 to 9,17,0,Age band
 2025-06-01,10 to 19,2,0,Age band
 2025-06-01,20 to 29,4,0,Age band
@@ -1595,47 +1593,55 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-06-01,40 to 49,4,1,Age band
 2025-06-01,50 to 59,8,0,Age band
 2025-06-01,60 to 69,12,1,Age band
-2025-06-01,70+,50,1,Age band
-2025-06-08,0 to 9,8,0,Age band
+2025-06-01,70+,47,1,Age band
+2025-06-08,0 to 9,9,0,Age band
 2025-06-08,10 to 19,1,0,Age band
 2025-06-08,20 to 29,3,0,Age band
-2025-06-08,30 to 39,3,0,Age band
-2025-06-08,40 to 49,6,0,Age band
-2025-06-08,50 to 59,10,0,Age band
-2025-06-08,60 to 69,15,0,Age band
-2025-06-08,70+,55,1,Age band
+2025-06-08,30 to 39,4,0,Age band
+2025-06-08,40 to 49,7,0,Age band
+2025-06-08,50 to 59,9,0,Age band
+2025-06-08,60 to 69,14,0,Age band
+2025-06-08,70+,53,1,Age band
 2025-06-15,0 to 9,13,0,Age band
 2025-06-15,10 to 19,3,0,Age band
-2025-06-15,20 to 29,2,0,Age band
+2025-06-15,20 to 29,1,0,Age band
 2025-06-15,30 to 39,3,0,Age band
 2025-06-15,40 to 49,7,0,Age band
-2025-06-15,50 to 59,11,0,Age band
-2025-06-15,60 to 69,17,2,Age band
-2025-06-15,70+,70,3,Age band
-2025-06-22,0 to 9,10,3,Age band
+2025-06-15,50 to 59,12,0,Age band
+2025-06-15,60 to 69,14,2,Age band
+2025-06-15,70+,68,4,Age band
+2025-06-22,0 to 9,9,2,Age band
 2025-06-22,10 to 19,1,0,Age band
 2025-06-22,20 to 29,2,0,Age band
 2025-06-22,30 to 39,6,0,Age band
-2025-06-22,40 to 49,5,1,Age band
+2025-06-22,40 to 49,6,1,Age band
 2025-06-22,50 to 59,6,0,Age band
-2025-06-22,60 to 69,17,1,Age band
-2025-06-22,70+,73,3,Age band
-2025-06-29,0 to 9,15,0,Age band
+2025-06-22,60 to 69,13,1,Age band
+2025-06-22,70+,72,4,Age band
+2025-06-29,0 to 9,14,0,Age band
 2025-06-29,10 to 19,3,0,Age band
 2025-06-29,20 to 29,6,0,Age band
 2025-06-29,30 to 39,2,0,Age band
 2025-06-29,40 to 49,4,0,Age band
-2025-06-29,50 to 59,10,1,Age band
+2025-06-29,50 to 59,11,1,Age band
 2025-06-29,60 to 69,9,1,Age band
-2025-06-29,70+,71,3,Age band
+2025-06-29,70+,72,4,Age band
 2025-07-06,0 to 9,16,0,Age band
 2025-07-06,10 to 19,2,0,Age band
 2025-07-06,20 to 29,1,0,Age band
 2025-07-06,30 to 39,7,1,Age band
 2025-07-06,40 to 49,3,1,Age band
-2025-07-06,50 to 59,14,1,Age band
-2025-07-06,60 to 69,14,2,Age band
-2025-07-06,70+,77,1,Age band
+2025-07-06,50 to 59,15,1,Age band
+2025-07-06,60 to 69,14,1,Age band
+2025-07-06,70+,78,1,Age band
+2025-07-13,0 to 9,14,0,Age band
+2025-07-13,10 to 19,7,0,Age band
+2025-07-13,20 to 29,6,0,Age band
+2025-07-13,30 to 39,5,0,Age band
+2025-07-13,40 to 49,4,0,Age band
+2025-07-13,50 to 59,11,2,Age band
+2025-07-13,60 to 69,22,2,Age band
+2025-07-13,70+,53,1,Age band
 2020-01-26,Unknown,1,0,Ethnicity
 2020-03-01,Asian,1,0,Ethnicity
 2020-03-08,European or Other,1,0,Ethnicity
@@ -1880,7 +1886,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-05-22,Unknown,1,0,Ethnicity
 2022-05-29,Maori,52,2,Ethnicity
 2022-05-29,Pacific Peoples,38,1,Ethnicity
-2022-05-29,Asian,33,0,Ethnicity
+2022-05-29,Asian,34,0,Ethnicity
 2022-05-29,MELAA,4,0,Ethnicity
 2022-05-29,European or Other,298,3,Ethnicity
 2022-05-29,Unknown,3,0,Ethnicity
@@ -2299,7 +2305,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-11-19,Pacific Peoples,38,3,Ethnicity
 2023-11-19,Asian,30,0,Ethnicity
 2023-11-19,MELAA,6,0,Ethnicity
-2023-11-19,European or Other,204,5,Ethnicity
+2023-11-19,European or Other,205,5,Ethnicity
 2023-11-19,Unknown,2,0,Ethnicity
 2023-11-26,Maori,47,1,Ethnicity
 2023-11-26,Pacific Peoples,33,1,Ethnicity
@@ -2419,7 +2425,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-04-21,Pacific Peoples,11,0,Ethnicity
 2024-04-21,Asian,12,0,Ethnicity
 2024-04-21,MELAA,2,0,Ethnicity
-2024-04-21,European or Other,92,4,Ethnicity
+2024-04-21,European or Other,92,5,Ethnicity
 2024-04-28,Maori,20,1,Ethnicity
 2024-04-28,Pacific Peoples,10,0,Ethnicity
 2024-04-28,Asian,6,0,Ethnicity
@@ -2596,10 +2602,10 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-12-22,European or Other,65,2,Ethnicity
 2024-12-29,Maori,21,1,Ethnicity
 2024-12-29,Pacific Peoples,19,0,Ethnicity
-2024-12-29,Asian,14,0,Ethnicity
+2024-12-29,Asian,13,0,Ethnicity
 2024-12-29,European or Other,69,5,Ethnicity
 2025-01-05,Maori,12,2,Ethnicity
-2025-01-05,Pacific Peoples,14,0,Ethnicity
+2025-01-05,Pacific Peoples,15,0,Ethnicity
 2025-01-05,Asian,9,0,Ethnicity
 2025-01-05,European or Other,45,2,Ethnicity
 2025-01-05,Unknown,1,0,Ethnicity
@@ -2607,17 +2613,17 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-01-12,Pacific Peoples,22,2,Ethnicity
 2025-01-12,Asian,11,1,Ethnicity
 2025-01-12,MELAA,1,0,Ethnicity
-2025-01-12,European or Other,61,0,Ethnicity
+2025-01-12,European or Other,64,1,Ethnicity
 2025-01-19,Maori,10,1,Ethnicity
 2025-01-19,Pacific Peoples,9,0,Ethnicity
-2025-01-19,Asian,8,1,Ethnicity
+2025-01-19,Asian,9,1,Ethnicity
 2025-01-19,MELAA,1,0,Ethnicity
 2025-01-19,European or Other,41,1,Ethnicity
 2025-01-26,Maori,15,1,Ethnicity
 2025-01-26,Pacific Peoples,7,0,Ethnicity
 2025-01-26,Asian,6,0,Ethnicity
 2025-01-26,MELAA,2,0,Ethnicity
-2025-01-26,European or Other,33,1,Ethnicity
+2025-01-26,European or Other,34,1,Ethnicity
 2025-02-02,Maori,10,0,Ethnicity
 2025-02-02,Pacific Peoples,4,0,Ethnicity
 2025-02-02,Asian,6,0,Ethnicity
@@ -2646,11 +2652,11 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-03-09,Pacific Peoples,5,0,Ethnicity
 2025-03-09,Asian,3,0,Ethnicity
 2025-03-09,MELAA,3,0,Ethnicity
-2025-03-09,European or Other,28,2,Ethnicity
+2025-03-09,European or Other,29,2,Ethnicity
 2025-03-16,Maori,12,0,Ethnicity
 2025-03-16,Pacific Peoples,6,0,Ethnicity
 2025-03-16,Asian,3,0,Ethnicity
-2025-03-16,European or Other,23,2,Ethnicity
+2025-03-16,European or Other,24,2,Ethnicity
 2025-03-23,Maori,6,0,Ethnicity
 2025-03-23,Pacific Peoples,4,0,Ethnicity
 2025-03-23,Asian,3,0,Ethnicity
@@ -2669,17 +2675,16 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-04-13,Pacific Peoples,5,0,Ethnicity
 2025-04-13,Asian,7,2,Ethnicity
 2025-04-13,European or Other,19,1,Ethnicity
-2025-04-20,Maori,4,1,Ethnicity
-2025-04-20,Pacific Peoples,7,0,Ethnicity
-2025-04-20,Asian,1,0,Ethnicity
+2025-04-20,Maori,3,1,Ethnicity
+2025-04-20,Pacific Peoples,6,0,Ethnicity
 2025-04-20,MELAA,1,0,Ethnicity
-2025-04-20,European or Other,23,1,Ethnicity
+2025-04-20,European or Other,18,0,Ethnicity
 2025-04-20,Unknown,1,0,Ethnicity
-2025-04-27,Maori,11,1,Ethnicity
+2025-04-27,Maori,10,1,Ethnicity
 2025-04-27,Pacific Peoples,3,0,Ethnicity
 2025-04-27,Asian,6,0,Ethnicity
 2025-04-27,MELAA,1,0,Ethnicity
-2025-04-27,European or Other,16,1,Ethnicity
+2025-04-27,European or Other,13,1,Ethnicity
 2025-05-04,Maori,6,0,Ethnicity
 2025-05-04,Pacific Peoples,2,0,Ethnicity
 2025-05-04,Asian,2,0,Ethnicity
@@ -2687,12 +2692,12 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-05-11,Maori,6,0,Ethnicity
 2025-05-11,Pacific Peoples,6,1,Ethnicity
 2025-05-11,Asian,4,0,Ethnicity
-2025-05-11,European or Other,33,2,Ethnicity
-2025-05-18,Maori,9,1,Ethnicity
-2025-05-18,Pacific Peoples,3,0,Ethnicity
+2025-05-11,European or Other,31,2,Ethnicity
+2025-05-18,Maori,9,2,Ethnicity
+2025-05-18,Pacific Peoples,2,0,Ethnicity
 2025-05-18,Asian,14,0,Ethnicity
 2025-05-18,MELAA,2,0,Ethnicity
-2025-05-18,European or Other,32,0,Ethnicity
+2025-05-18,European or Other,31,0,Ethnicity
 2025-05-25,Maori,6,0,Ethnicity
 2025-05-25,Pacific Peoples,4,0,Ethnicity
 2025-05-25,Asian,5,0,Ethnicity
@@ -2701,34 +2706,40 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-06-01,Pacific Peoples,8,0,Ethnicity
 2025-06-01,Asian,3,0,Ethnicity
 2025-06-01,MELAA,1,0,Ethnicity
-2025-06-01,European or Other,73,3,Ethnicity
-2025-06-08,Maori,15,0,Ethnicity
+2025-06-01,European or Other,70,3,Ethnicity
+2025-06-08,Maori,14,0,Ethnicity
 2025-06-08,Pacific Peoples,6,0,Ethnicity
-2025-06-08,Asian,8,0,Ethnicity
+2025-06-08,Asian,9,0,Ethnicity
 2025-06-08,MELAA,1,0,Ethnicity
-2025-06-08,European or Other,70,1,Ethnicity
+2025-06-08,European or Other,69,1,Ethnicity
 2025-06-08,Unknown,1,0,Ethnicity
-2025-06-15,Maori,16,1,Ethnicity
+2025-06-15,Maori,14,1,Ethnicity
 2025-06-15,Pacific Peoples,13,0,Ethnicity
-2025-06-15,Asian,8,0,Ethnicity
+2025-06-15,Asian,7,0,Ethnicity
 2025-06-15,MELAA,1,0,Ethnicity
-2025-06-15,European or Other,88,4,Ethnicity
-2025-06-22,Maori,26,2,Ethnicity
-2025-06-22,Pacific Peoples,5,0,Ethnicity
+2025-06-15,European or Other,86,5,Ethnicity
+2025-06-22,Maori,25,2,Ethnicity
+2025-06-22,Pacific Peoples,4,0,Ethnicity
 2025-06-22,Asian,8,0,Ethnicity
-2025-06-22,MELAA,1,1,Ethnicity
-2025-06-22,European or Other,80,5,Ethnicity
+2025-06-22,MELAA,1,0,Ethnicity
+2025-06-22,European or Other,77,6,Ethnicity
 2025-06-29,Maori,20,1,Ethnicity
-2025-06-29,Pacific Peoples,7,0,Ethnicity
-2025-06-29,Asian,7,0,Ethnicity
+2025-06-29,Pacific Peoples,6,0,Ethnicity
+2025-06-29,Asian,8,0,Ethnicity
 2025-06-29,MELAA,1,0,Ethnicity
-2025-06-29,European or Other,84,3,Ethnicity
+2025-06-29,European or Other,85,4,Ethnicity
 2025-06-29,Unknown,1,1,Ethnicity
-2025-07-06,Maori,28,3,Ethnicity
+2025-07-06,Maori,28,2,Ethnicity
 2025-07-06,Pacific Peoples,9,0,Ethnicity
 2025-07-06,Asian,9,0,Ethnicity
 2025-07-06,MELAA,3,0,Ethnicity
-2025-07-06,European or Other,85,3,Ethnicity
+2025-07-06,European or Other,87,3,Ethnicity
+2025-07-13,Maori,18,1,Ethnicity
+2025-07-13,Pacific Peoples,7,0,Ethnicity
+2025-07-13,Asian,12,0,Ethnicity
+2025-07-13,MELAA,2,0,Ethnicity
+2025-07-13,European or Other,82,4,Ethnicity
+2025-07-13,Unknown,1,0,Ethnicity
 2020-01-26,Male,1,0,Sex
 2020-03-01,Female,1,0,Sex
 2020-03-08,Female,1,0,Sex
@@ -2862,7 +2873,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-05-22,Female,272,3,Sex
 2022-05-22,Male,227,7,Sex
 2022-05-29,Female,225,1,Sex
-2022-05-29,Male,203,5,Sex
+2022-05-29,Male,204,5,Sex
 2022-06-05,Female,226,3,Sex
 2022-06-05,Male,255,11,Sex
 2022-06-12,Female,200,7,Sex
@@ -3022,7 +3033,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-11-05,Male,143,6,Sex
 2023-11-12,Female,122,2,Sex
 2023-11-12,Male,133,0,Sex
-2023-11-19,Female,162,3,Sex
+2023-11-19,Female,163,3,Sex
 2023-11-19,Male,152,5,Sex
 2023-11-26,Female,148,0,Sex
 2023-11-26,Male,170,8,Sex
@@ -3070,7 +3081,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-04-14,Female,61,1,Sex
 2024-04-14,Male,96,3,Sex
 2024-04-21,Female,64,4,Sex
-2024-04-21,Male,76,2,Sex
+2024-04-21,Male,76,3,Sex
 2024-04-28,Female,64,2,Sex
 2024-04-28,Male,66,3,Sex
 2024-05-05,Female,85,2,Sex
@@ -3143,14 +3154,14 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-12-22,Female,53,2,Sex
 2024-12-22,Male,56,3,Sex
 2024-12-29,Female,58,3,Sex
-2024-12-29,Male,65,3,Sex
+2024-12-29,Male,64,3,Sex
 2025-01-05,Female,47,2,Sex
-2025-01-05,Male,34,2,Sex
-2025-01-12,Female,54,1,Sex
-2025-01-12,Male,54,2,Sex
+2025-01-05,Male,35,2,Sex
+2025-01-12,Female,56,2,Sex
+2025-01-12,Male,55,2,Sex
 2025-01-19,Female,33,1,Sex
-2025-01-19,Male,36,2,Sex
-2025-01-26,Female,23,0,Sex
+2025-01-19,Male,37,2,Sex
+2025-01-26,Female,24,0,Sex
 2025-01-26,Male,40,2,Sex
 2025-02-02,Female,18,1,Sex
 2025-02-02,Male,34,0,Sex
@@ -3163,8 +3174,8 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-03-02,Female,18,0,Sex
 2025-03-02,Male,29,0,Sex
 2025-03-09,Female,23,1,Sex
-2025-03-09,Male,24,1,Sex
-2025-03-16,Female,20,0,Sex
+2025-03-09,Male,25,1,Sex
+2025-03-16,Female,21,0,Sex
 2025-03-16,Male,24,2,Sex
 2025-03-23,Female,25,0,Sex
 2025-03-23,Male,23,0,Sex
@@ -3174,30 +3185,32 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-04-06,Male,18,0,Sex
 2025-04-13,Female,14,0,Sex
 2025-04-13,Male,24,3,Sex
-2025-04-20,Female,18,1,Sex
-2025-04-20,Male,19,1,Sex
-2025-04-27,Female,17,2,Sex
-2025-04-27,Male,20,0,Sex
+2025-04-20,Female,14,1,Sex
+2025-04-20,Male,15,0,Sex
+2025-04-27,Female,14,2,Sex
+2025-04-27,Male,19,0,Sex
 2025-05-04,Female,18,2,Sex
 2025-05-04,Male,23,2,Sex
-2025-05-11,Female,28,1,Sex
+2025-05-11,Female,26,1,Sex
 2025-05-11,Male,21,2,Sex
-2025-05-18,Female,29,1,Sex
-2025-05-18,Male,31,0,Sex
+2025-05-18,Female,28,2,Sex
+2025-05-18,Male,30,0,Sex
 2025-05-25,Female,31,1,Sex
 2025-05-25,Male,26,1,Sex
-2025-06-01,Female,48,0,Sex
-2025-06-01,Male,53,3,Sex
-2025-06-08,Female,47,1,Sex
-2025-06-08,Male,54,0,Sex
-2025-06-15,Female,58,1,Sex
-2025-06-15,Male,68,4,Sex
-2025-06-22,Female,57,3,Sex
-2025-06-22,Male,63,5,Sex
-2025-06-29,Female,51,3,Sex
-2025-06-29,Male,69,2,Sex
-2025-07-06,Female,76,2,Sex
-2025-07-06,Male,58,4,Sex
+2025-06-01,Female,49,0,Sex
+2025-06-01,Male,49,3,Sex
+2025-06-08,Female,44,1,Sex
+2025-06-08,Male,56,0,Sex
+2025-06-15,Female,57,2,Sex
+2025-06-15,Male,64,4,Sex
+2025-06-22,Female,54,3,Sex
+2025-06-22,Male,61,5,Sex
+2025-06-29,Female,52,3,Sex
+2025-06-29,Male,69,3,Sex
+2025-07-06,Female,77,1,Sex
+2025-07-06,Male,59,4,Sex
+2025-07-13,Female,56,3,Sex
+2025-07-13,Male,66,2,Sex
 2021-09-26,No doses received prior to being reported as a case,1,NA,Vaccination status
 2021-09-26,Under 12 years old,1,NA,Vaccination status
 2021-10-03,No doses received prior to being reported as a case,25,NA,Vaccination status
@@ -3266,7 +3279,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2022-05-15,Under 12 years old,51,NA,Vaccination status
 2022-05-22,No doses received prior to being reported as a case,459,NA,Vaccination status
 2022-05-22,Under 12 years old,40,NA,Vaccination status
-2022-05-29,No doses received prior to being reported as a case,388,NA,Vaccination status
+2022-05-29,No doses received prior to being reported as a case,389,NA,Vaccination status
 2022-05-29,Under 12 years old,40,NA,Vaccination status
 2022-06-05,No doses received prior to being reported as a case,440,NA,Vaccination status
 2022-06-05,Under 12 years old,41,NA,Vaccination status
@@ -3420,7 +3433,7 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2023-11-05,Under 12 years old,33,NA,Vaccination status
 2023-11-12,No doses received prior to being reported as a case,235,NA,Vaccination status
 2023-11-12,Under 12 years old,20,NA,Vaccination status
-2023-11-19,No doses received prior to being reported as a case,287,NA,Vaccination status
+2023-11-19,No doses received prior to being reported as a case,288,NA,Vaccination status
 2023-11-19,Under 12 years old,27,NA,Vaccination status
 2023-11-26,No doses received prior to being reported as a case,293,NA,Vaccination status
 2023-11-26,Under 12 years old,25,NA,Vaccination status
@@ -3536,15 +3549,15 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2024-12-15,Under 12 years old,11,NA,Vaccination status
 2024-12-22,No doses received prior to being reported as a case,97,NA,Vaccination status
 2024-12-22,Under 12 years old,12,NA,Vaccination status
-2024-12-29,No doses received prior to being reported as a case,106,NA,Vaccination status
+2024-12-29,No doses received prior to being reported as a case,105,NA,Vaccination status
 2024-12-29,Under 12 years old,17,NA,Vaccination status
-2025-01-05,No doses received prior to being reported as a case,71,NA,Vaccination status
+2025-01-05,No doses received prior to being reported as a case,72,NA,Vaccination status
 2025-01-05,Under 12 years old,10,NA,Vaccination status
-2025-01-12,No doses received prior to being reported as a case,94,NA,Vaccination status
+2025-01-12,No doses received prior to being reported as a case,97,NA,Vaccination status
 2025-01-12,Under 12 years old,14,NA,Vaccination status
-2025-01-19,No doses received prior to being reported as a case,59,NA,Vaccination status
+2025-01-19,No doses received prior to being reported as a case,60,NA,Vaccination status
 2025-01-19,Under 12 years old,10,NA,Vaccination status
-2025-01-26,No doses received prior to being reported as a case,50,NA,Vaccination status
+2025-01-26,No doses received prior to being reported as a case,51,NA,Vaccination status
 2025-01-26,Under 12 years old,13,NA,Vaccination status
 2025-02-02,No doses received prior to being reported as a case,41,NA,Vaccination status
 2025-02-02,Under 12 years old,11,NA,Vaccination status
@@ -3556,9 +3569,9 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-02-23,Under 12 years old,10,NA,Vaccination status
 2025-03-02,No doses received prior to being reported as a case,40,NA,Vaccination status
 2025-03-02,Under 12 years old,7,NA,Vaccination status
-2025-03-09,No doses received prior to being reported as a case,39,NA,Vaccination status
+2025-03-09,No doses received prior to being reported as a case,40,NA,Vaccination status
 2025-03-09,Under 12 years old,8,NA,Vaccination status
-2025-03-16,No doses received prior to being reported as a case,41,NA,Vaccination status
+2025-03-16,No doses received prior to being reported as a case,42,NA,Vaccination status
 2025-03-16,Under 12 years old,3,NA,Vaccination status
 2025-03-23,No doses received prior to being reported as a case,42,NA,Vaccination status
 2025-03-23,Under 12 years old,6,NA,Vaccination status
@@ -3568,27 +3581,29 @@ Admissions for COVID-19 in the week ending,Variable,Hospitalisations,ICU,Variabl
 2025-04-06,Under 12 years old,5,NA,Vaccination status
 2025-04-13,No doses received prior to being reported as a case,33,NA,Vaccination status
 2025-04-13,Under 12 years old,5,NA,Vaccination status
-2025-04-20,No doses received prior to being reported as a case,33,NA,Vaccination status
+2025-04-20,No doses received prior to being reported as a case,25,NA,Vaccination status
 2025-04-20,Under 12 years old,4,NA,Vaccination status
-2025-04-27,No doses received prior to being reported as a case,28,NA,Vaccination status
-2025-04-27,Under 12 years old,9,NA,Vaccination status
+2025-04-27,No doses received prior to being reported as a case,25,NA,Vaccination status
+2025-04-27,Under 12 years old,8,NA,Vaccination status
 2025-05-04,No doses received prior to being reported as a case,34,NA,Vaccination status
 2025-05-04,Under 12 years old,7,NA,Vaccination status
-2025-05-11,No doses received prior to being reported as a case,41,NA,Vaccination status
+2025-05-11,No doses received prior to being reported as a case,39,NA,Vaccination status
 2025-05-11,Under 12 years old,8,NA,Vaccination status
-2025-05-18,No doses received prior to being reported as a case,53,NA,Vaccination status
+2025-05-18,No doses received prior to being reported as a case,51,NA,Vaccination status
 2025-05-18,Under 12 years old,7,NA,Vaccination status
 2025-05-25,No doses received prior to being reported as a case,50,NA,Vaccination status
 2025-05-25,Under 12 years old,7,NA,Vaccination status
-2025-06-01,No doses received prior to being reported as a case,83,NA,Vaccination status
+2025-06-01,No doses received prior to being reported as a case,80,NA,Vaccination status
 2025-06-01,Under 12 years old,18,NA,Vaccination status
-2025-06-08,No doses received prior to being reported as a case,93,NA,Vaccination status
-2025-06-08,Under 12 years old,8,NA,Vaccination status
-2025-06-15,No doses received prior to being reported as a case,112,NA,Vaccination status
+2025-06-08,No doses received prior to being reported as a case,91,NA,Vaccination status
+2025-06-08,Under 12 years old,9,NA,Vaccination status
+2025-06-15,No doses received prior to being reported as a case,107,NA,Vaccination status
 2025-06-15,Under 12 years old,14,NA,Vaccination status
-2025-06-22,No doses received prior to being reported as a case,110,NA,Vaccination status
-2025-06-22,Under 12 years old,10,NA,Vaccination status
-2025-06-29,No doses received prior to being reported as a case,105,NA,Vaccination status
-2025-06-29,Under 12 years old,15,NA,Vaccination status
-2025-07-06,No doses received prior to being reported as a case,116,NA,Vaccination status
+2025-06-22,No doses received prior to being reported as a case,106,NA,Vaccination status
+2025-06-22,Under 12 years old,9,NA,Vaccination status
+2025-06-29,No doses received prior to being reported as a case,107,NA,Vaccination status
+2025-06-29,Under 12 years old,14,NA,Vaccination status
+2025-07-06,No doses received prior to being reported as a case,118,NA,Vaccination status
 2025-07-06,Under 12 years old,18,NA,Vaccination status
+2025-07-13,No doses received prior to being reported as a case,106,NA,Vaccination status
+2025-07-13,Under 12 years old,16,NA,Vaccination status
