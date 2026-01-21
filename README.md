@@ -10,6 +10,10 @@ The `vaccine-data` contains copies of the weekly [Ministry of Health vaccine dat
 
 ## Release Notes:
 
+- [22 Jan 2026]
+
+This Github repository is no longer being updated. For COVID reporting, please follow this [link](https://www.tewhatuora.govt.nz/for-health-professionals/data-and-statistics/covid-19/reporting#covid-19-reporting). 
+
 - [17 Nov 2023]
 
 Hospital admissions data is now available.
